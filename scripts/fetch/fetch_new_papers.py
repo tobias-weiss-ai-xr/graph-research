@@ -213,6 +213,76 @@ QUERIES = [
     ('cat:cs.AI AND abs:"knowledge graph" AND abs:"financial"', "graph-applications", "application"),
     ('cat:cs.LG AND abs:"graph" AND abs:"software" AND abs:"dependency"', "graph-applications", "application"),
     ('cat:cs.SE AND abs:"graph" AND abs:"code" AND abs:"analysis"', "graph-applications", "application"),
+    # --- saturation pass: deepen thin + hot categories ---
+    ('cat:cs.HC AND abs:"network visualization"', "graph-visualization", "method"),
+    ('cat:cs.GR AND abs:"visual analytics" AND abs:"graph"', "graph-visualization", "method"),
+    ('cat:cs.HC AND abs:"knowledge graph" AND abs:"visual"', "graph-visualization", "application"),
+    ('cat:cs.GR AND abs:"graph layout" AND abs:"algorithm"', "graph-visualization", "method"),
+    ('cat:cs.HC AND abs:"node-link"', "graph-visualization", "method"),
+    ('cat:cs.GR AND abs:"graph drawing" AND abs:"planar"', "graph-visualization", "theory"),
+    ('cat:cs.DB AND abs:"graph summarization"', "graph-analytics", "method"),
+    ('cat:cs.LG AND abs:"graph summarization"', "graph-analytics", "method"),
+    ('cat:cs.DB AND abs:"graph sampling"', "graph-analytics", "method"),
+    ('cat:cs.DB AND abs:"graph compression"', "graph-analytics", "method"),
+    ('cat:cs.LG AND abs:"graph kernel"', "graph-analytics", "method"),
+    ('cat:cs.DB AND abs:"approximate graph" AND abs:"query"', "graph-analytics", "method"),
+    ('cat:cs.DC AND abs:"parallel graph"', "distributed-graphs", "systems"),
+    ('cat:cs.DB AND abs:"graph engine"', "distributed-graphs", "systems"),
+    ('cat:cs.DB AND abs:"graph join"', "distributed-graphs", "systems"),
+    ('cat:cs.DC AND abs:"graph processing" AND abs:"streaming"', "distributed-graphs", "systems"),
+    ('cat:cs.DB AND abs:"subgraph query"', "distributed-graphs", "systems"),
+    ('cat:cs.DB AND abs:"regular path query"', "graph-query-languages", "method"),
+    ('cat:cs.DB AND abs:"graph database" AND abs:"query" AND abs:"optimization"', "graph-query-languages", "method"),
+    ('cat:cs.DB AND abs:"graph algebra"', "graph-query-languages", "theory"),
+    ('cat:cs.DB AND abs:"query planning" AND abs:"graph"', "graph-query-languages", "systems"),
+    ('cat:cs.DB AND abs:"graph query" AND abs:"benchmark"', "graph-query-languages", "evaluation"),
+    ('cat:cs.DB AND abs:"RDF stream"', "semantic-web", "systems"),
+    ('cat:cs.AI AND abs:"linked data" AND abs:"query"', "semantic-web", "method"),
+    ('cat:cs.DB AND abs:"ontology-based data access"', "semantic-web", "method"),
+    ('cat:cs.AI AND abs:"description logic" AND abs:"reasoning"', "semantic-web", "theory"),
+    ('cat:cs.LG AND abs:"graph neural network" AND abs:"embedding"', "graph-embeddings", "method"),
+    ('cat:cs.LG AND abs:"knowledge graph completion" AND abs:"embedding"', "graph-embeddings", "method"),
+    ('cat:cs.LG AND (abs:"TransE" OR abs:"TransH")', "graph-embeddings", "method"),
+    ('cat:cs.CL AND abs:"entity embedding" AND abs:"graph"', "graph-embeddings", "method"),
+    ('cat:cs.CL AND abs:"knowledge graph" AND abs:"LLM" AND abs:"retrieval"', "graphrag", "method"),
+    ('cat:cs.CL AND abs:"graph-augmented"', "graphrag", "method"),
+    ('all:"hierarchical graphrag"', "graphrag", "method"),
+    ('cat:cs.CL AND abs:"entity-centric" AND abs:"retrieval"', "graphrag", "method"),
+    ('cat:cs.CL AND abs:"graph" AND abs:"chunking" AND abs:"retrieval"', "graphrag", "method"),
+    ('cat:cs.LG AND abs:"graph attention"', "graph-neural-networks", "method"),
+    ('cat:cs.LG AND abs:"graph convolution"', "graph-neural-networks", "method"),
+    ('cat:cs.LG AND abs:"hypergraph neural"', "graph-neural-networks", "method"),
+    ('cat:cs.LG AND abs:"graph unlearning"', "graph-neural-networks", "method"),
+    ('cat:cs.LG AND abs:"equivariant graph"', "graph-neural-networks", "theory"),
+    ('cat:cs.AI AND abs:"knowledge graph" AND abs:"LLM" AND abs:"reasoning"', "knowledge-graphs", "method"),
+    ('cat:cs.AI AND abs:"knowledge graph" AND abs:"alignment"', "knowledge-graphs", "method"),
+    ('cat:cs.CL AND abs:"multimodal knowledge graph"', "knowledge-graphs", "method"),
+    ('cat:cs.AI AND abs:"commonsense knowledge graph"', "knowledge-graphs", "method"),
+    ('cat:cs.AI AND abs:"knowledge graph" AND abs:"fusion"', "knowledge-graphs", "method"),
+    ('cat:cs.DS AND abs:"subgraph isomorphism"', "graph-theory", "theory"),
+    ('cat:math.CO AND abs:"graph" AND abs:"embedding" AND abs:"topological"', "graph-theory", "theory"),
+    ('cat:cs.SI AND abs:"label propagation"', "community-detection", "method"),
+    ('cat:cs.LG AND abs:"graph partition" AND abs:"community"', "community-detection", "method"),
+    ('cat:cs.SI AND abs:"graph neural network" AND abs:"community"', "community-detection", "method"),
+    ('cat:cs.CR AND abs:"knowledge graph" AND abs:"security"', "graph-security", "application"),
+    ('cat:cs.CR AND abs:"graph" AND abs:"intrusion"', "graph-security", "application"),
+    ('cat:cs.LG AND abs:"graph" AND abs:"malware"', "graph-security", "application"),
+    ('cat:cs.CR AND abs:"dependency graph" AND abs:"supply chain"', "graph-security", "application"),
+    ('cat:cs.LG AND abs:"continuous-time graph"', "temporal-graphs", "method"),
+    ('cat:cs.SI AND abs:"link prediction" AND abs:"temporal"', "temporal-graphs", "method"),
+    ('cat:cs.AI AND abs:"event knowledge graph"', "temporal-graphs", "method"),
+    ('cat:cs.LG AND abs:"graph neural network" AND abs:"protein"', "graph-applications", "application"),
+    ('cat:cs.LG AND abs:"graph neural network" AND abs:"traffic"', "graph-applications", "application"),
+    ('cat:cs.LG AND abs:"graph" AND abs:"materials" AND abs:"machine learning"', "graph-applications", "application"),
+    ('cat:physics.soc-ph AND abs:"temporal network"', "network-science", "mechanism"),
+    ('cat:cs.SI AND abs:"higher-order network"', "network-science", "method"),
+    ('cat:cs.SI AND abs:"hypergraph" AND abs:"learning"', "network-science", "method"),
+    ('cat:cs.SI AND abs:"link prediction" AND abs:"network"', "network-science", "method"),
+    ('cat:cs.DB AND abs:"graph data management"', "graph-databases", "systems"),
+    ('cat:cs.DB AND abs:"subgraph query" AND abs:"index"', "graph-databases", "systems"),
+    ('cat:cs.DB AND abs:"graph database" AND abs:"survey"', "graph-databases", "review"),
+    ('cat:cs.DB AND abs:"graph" AND abs:"indexing" AND abs:"query"', "graph-databases", "systems"),
+    ('cat:cs.DB AND abs:"graph" AND abs:"benchmark" AND abs:"database"', "graph-databases", "evaluation"),
 ]
 
 # Subcategory keyword rules, applied in order. First match wins.
@@ -256,7 +326,7 @@ def load_existing_papers(yaml_path):
     return by_id, titles_lower
 
 
-def search_arxiv(query, months, start=0, max_results=30, max_retries=4):
+def search_arxiv(query, months, start=0, max_results=100, max_retries=4):
     now = datetime.now(timezone.utc).replace(tzinfo=None)
     cutoff = now - timedelta(days=months * 30)
     date_start = cutoff.strftime("%Y%m%d0000")
@@ -348,6 +418,12 @@ def main():
     parser.add_argument(
         "--sleep", type=float, default=2.0, help="Seconds between queries"
     )
+    parser.add_argument(
+        "--max-results",
+        type=int,
+        default=100,
+        help="Max results per arXiv query (default: 100)",
+    )
     args = parser.parse_args()
 
     yaml_path = Path(__file__).resolve().parent.parent.parent / "papers.yaml"
@@ -363,7 +439,7 @@ def main():
     CHECKPOINT_EVERY = 10
     for qi, (query, category, hint) in enumerate(QUERIES):
         print(f"Query {qi + 1}/{len(QUERIES)} [{category}] {query[:70]}", flush=True)
-        entries = search_arxiv(query, args.months)
+        entries = search_arxiv(query, args.months, max_results=args.max_results)
         for entry in entries:
             arxiv_id_match = ARXIV_ID_PATTERN.search(entry.get("url", ""))
             arxiv_id = arxiv_id_match.group(1) if arxiv_id_match else None

@@ -1,7 +1,7 @@
 # Article Topics for graphwiz.ai
 
 **Generated:** 2026-08-04  
-**Corpus:** 3,160 papers | **Topics:** 12
+**Corpus:** 8,244 papers | **Topics:** 12
 
 > Topics are ranked by corpus density × 12-month research velocity.
 > Each topic is backed by the cited paper counts — research first, then write.
@@ -10,77 +10,77 @@
 
 ## 🏆 Top Article Topics
 
-### 1. GraphRAG in production: deployment realities and cost models
+### 1. Graph neural networks in production: scaling and real-world adoption
 
-- **Category:** Graph RAG (`graphrag`)
-- **Evidence:** 217 papers in corpus | 88% published in last 12 months
-- **Angle:** deployment realities and cost models
+- **Category:** Graph Neural Networks (`graph-neural-networks`)
+- **Evidence:** 1100 papers in corpus | 49% published in last 12 months
+- **Angle:** scaling and real-world adoption
 
-### 2. GraphRAG variants compared 2026: deployment realities and cost models
+### 2. GNN expressivity limits: scaling and real-world adoption
 
-- **Category:** Graph RAG (`graphrag`)
-- **Evidence:** 217 papers in corpus | 88% published in last 12 months
-- **Angle:** deployment realities and cost models
+- **Category:** Graph Neural Networks (`graph-neural-networks`)
+- **Evidence:** 1100 papers in corpus | 49% published in last 12 months
+- **Angle:** scaling and real-world adoption
 
 ### 3. Graph-based recommendation systems: what works in production
 
 - **Category:** Graph Applications (`graph-applications`)
-- **Evidence:** 245 papers in corpus | 60% published in last 12 months
+- **Evidence:** 783 papers in corpus | 56% published in last 12 months
 - **Angle:** what works in production
 
 ### 4. Knowledge graphs in the enterprise: what works in production
 
 - **Category:** Graph Applications (`graph-applications`)
-- **Evidence:** 245 papers in corpus | 60% published in last 12 months
+- **Evidence:** 783 papers in corpus | 56% published in last 12 months
 - **Angle:** what works in production
 
-### 5. Graph neural networks in production: scaling and real-world adoption
+### 5. GraphRAG in production: deployment realities and cost models
 
-- **Category:** Graph Neural Networks (`graph-neural-networks`)
-- **Evidence:** 283 papers in corpus | 43% published in last 12 months
-- **Angle:** scaling and real-world adoption
+- **Category:** Graph RAG (`graphrag`)
+- **Evidence:** 552 papers in corpus | 84% published in last 12 months
+- **Angle:** deployment realities and cost models
 
-### 6. GNN expressivity limits: scaling and real-world adoption
+### 6. GraphRAG variants compared 2026: deployment realities and cost models
 
-- **Category:** Graph Neural Networks (`graph-neural-networks`)
-- **Evidence:** 283 papers in corpus | 43% published in last 12 months
-- **Angle:** scaling and real-world adoption
+- **Category:** Graph RAG (`graphrag`)
+- **Evidence:** 552 papers in corpus | 84% published in last 12 months
+- **Angle:** deployment realities and cost models
 
-### 7. Graph algorithms with Neo4j GDS: the state of the art
-
-- **Category:** Graph Algorithms (`graph-algorithms`)
-- **Evidence:** 229 papers in corpus | 60% published in last 12 months
-- **Angle:** the state of the art
-
-### 8. Shortest path at scale: the state of the art
-
-- **Category:** Graph Algorithms (`graph-algorithms`)
-- **Evidence:** 229 papers in corpus | 60% published in last 12 months
-- **Angle:** the state of the art
-
-### 9. Link prediction with graph ML: from benchmarks to production
-
-- **Category:** Graph Machine Learning (`graph-machine-learning`)
-- **Evidence:** 244 papers in corpus | 44% published in last 12 months
-- **Angle:** from benchmarks to production
-
-### 10. Graph foundation models: from benchmarks to production
-
-- **Category:** Graph Machine Learning (`graph-machine-learning`)
-- **Evidence:** 244 papers in corpus | 44% published in last 12 months
-- **Angle:** from benchmarks to production
-
-### 11. Knowledge graphs as the context layer for AI agents: LLM integration and agent context
+### 7. Knowledge graphs as the context layer for AI agents: LLM integration and agent context
 
 - **Category:** Knowledge Graphs (`knowledge-graphs`)
-- **Evidence:** 226 papers in corpus | 47% published in last 12 months
+- **Evidence:** 638 papers in corpus | 54% published in last 12 months
 - **Angle:** LLM integration and agent context
 
-### 12. From knowledge graphs to context graphs: LLM integration and agent context
+### 8. From knowledge graphs to context graphs: LLM integration and agent context
 
 - **Category:** Knowledge Graphs (`knowledge-graphs`)
-- **Evidence:** 226 papers in corpus | 47% published in last 12 months
+- **Evidence:** 638 papers in corpus | 54% published in last 12 months
 - **Angle:** LLM integration and agent context
+
+### 9. Network science for engineers: what changed this year
+
+- **Category:** Network Science (`network-science`)
+- **Evidence:** 680 papers in corpus | 47% published in last 12 months
+- **Angle:** what changed this year
+
+### 10. Complex networks in production: what changed this year
+
+- **Category:** Network Science (`network-science`)
+- **Evidence:** 680 papers in corpus | 47% published in last 12 months
+- **Angle:** what changed this year
+
+### 11. Fraud detection with knowledge graphs: real-world cases and pitfalls
+
+- **Category:** Graph Security & OSINT (`graph-security`)
+- **Evidence:** 497 papers in corpus | 62% published in last 12 months
+- **Angle:** real-world cases and pitfalls
+
+### 12. Graph-powered OSINT: real-world cases and pitfalls
+
+- **Category:** Graph Security & OSINT (`graph-security`)
+- **Evidence:** 497 papers in corpus | 62% published in last 12 months
+- **Angle:** real-world cases and pitfalls
 
 ---
 

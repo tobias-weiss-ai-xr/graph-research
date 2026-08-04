@@ -1,47 +1,47 @@
 # Graph Research Trends (12-Month View)
 
 **Generated:** 2026-08-04  
-**Window:** since 2025-08 — 1081 of 3160 papers
+**Window:** since 2025-08 — 2962 of 8244 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| osint | 2 | 2 | 2.9× |
-| agentic | 60 | 72 | 2.4× |
-| agent | 134 | 201 | 1.9× |
-| graph rag | 23 | 37 | 1.8× |
-| retrieval | 217 | 393 | 1.6× |
-| multimodal | 45 | 81 | 1.6× |
-| graphrag | 41 | 73 | 1.6× |
-| graph foundation | 26 | 49 | 1.6× |
-| supply chain | 7 | 13 | 1.6× |
-| memory | 90 | 180 | 1.5× |
-| production | 14 | 28 | 1.5× |
-| heterogeneous | 107 | 229 | 1.4× |
-| foundation model | 30 | 61 | 1.4× |
-| cypher | 22 | 46 | 1.4× |
-| streaming | 20 | 43 | 1.4× |
+| osint | 2 | 2 | 2.8× |
+| agentic | 134 | 160 | 2.3× |
+| agent | 361 | 571 | 1.8× |
+| graphrag | 106 | 166 | 1.8× |
+| graph rag | 43 | 69 | 1.7× |
+| retrieval | 551 | 985 | 1.6× |
+| graph foundation | 62 | 117 | 1.5× |
+| production | 50 | 92 | 1.5× |
+| heterogeneous | 297 | 597 | 1.4× |
+| multimodal | 122 | 240 | 1.4× |
+| foundation model | 87 | 174 | 1.4× |
+| quantum | 51 | 104 | 1.4× |
+| cypher | 28 | 57 | 1.4× |
+| benchmark | 804 | 1774 | 1.3× |
+| llm | 771 | 1605 | 1.3× |
 
 ## 📈 Fastest-Growing Cells
 
 | Cell | Recent | Total | Recent Share |
 |------|--------|-------|--------------|
-| `graphrag/development` | 2 | 2 | 100% |
-| `graph-query-languages/mechanism` | 1 | 1 | 100% |
-| `graph-theory/systems` | 2 | 2 | 100% |
-| `graph-embeddings/development` | 1 | 1 | 100% |
-| `semantic-web/development` | 1 | 1 | 100% |
-| `temporal-graphs/method` | 3 | 4 | 75% |
-| `graph-theory/application` | 2 | 3 | 67% |
-| `graph-construction/systems` | 6 | 9 | 67% |
-| `graph-visualization/application` | 2 | 3 | 67% |
-| `graph-visualization/review` | 2 | 3 | 67% |
-| `graph-machine-learning/application` | 2 | 3 | 67% |
-| `graph-databases/review` | 20 | 31 | 65% |
-| `graphrag/evaluation` | 77 | 121 | 64% |
-| `graphrag/systems` | 12 | 19 | 63% |
-| `graph-query-languages/review` | 8 | 13 | 62% |
+| `graph-analytics/method` | 1 | 1 | 100% |
+| `graph-theory/systems` | 5 | 6 | 83% |
+| `graph-theory/evaluation` | 6 | 8 | 75% |
+| `graphrag/theory` | 17 | 24 | 71% |
+| `graphrag/method` | 5 | 7 | 71% |
+| `graph-visualization/systems` | 7 | 10 | 70% |
+| `graphrag/development` | 4 | 6 | 67% |
+| `graph-databases/application` | 2 | 3 | 67% |
+| `graph-databases/review` | 52 | 80 | 65% |
+| `graphrag/evaluation` | 182 | 296 | 61% |
+| `graph-query-languages/review` | 11 | 18 | 61% |
+| `graphrag/mechanism` | 28 | 48 | 58% |
+| `ontology/evaluation` | 104 | 180 | 58% |
+| `graphrag/systems` | 28 | 49 | 57% |
+| `graph-visualization/theory` | 4 | 7 | 57% |
 
 ## What This Means for graphwiz.ai
 
