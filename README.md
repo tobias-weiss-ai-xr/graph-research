@@ -1,6 +1,6 @@
 # Graph Research Corpus
 
-**Evidence base for graphwiz.ai** — Analysis of 8,244 research papers across 20 graph disciplines.
+**Evidence base for graphwiz.ai** — Analysis of 8,329 research papers across 20 graph disciplines.
 
 **Author:** Tobias Weiss
 **Contact:** tobias@graphwiz.ai
@@ -22,12 +22,12 @@ pipeline.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 8,244 |
+| **Papers Analyzed** | 8,329 |
 | **Graph Disciplines** | 20 |
 | **Time Span** | 2023-2026 |
 | **Research Aspects** | 8 |
 | **Taxonomy Cells** | 160 |
-| **Saturation** | 96.9% (155/160 cells) |
+| **Saturation** | 100.0% (160/160 cells) |
 
 ### Top Evidence Areas
 
@@ -47,7 +47,7 @@ pipeline.
 | Knowledge Graphs | 638 |
 | Graph RAG | 552 |
 | Graph Databases | 249 |
-| Graph Query Languages | 99 |
+| Graph Query Languages | 103 |
 | Graph Algorithms | 429 |
 | Graph Neural Networks | 1100 |
 | Graph Theory | 420 |
@@ -61,7 +61,7 @@ pipeline.
 | Graph Visualization | 78 |
 | Graph Machine Learning | 514 |
 | Temporal & Dynamic Graphs | 292 |
-| Distributed Graph Processing | 83 |
+| Distributed Graph Processing | 164 |
 | Graph Security & OSINT | 497 |
 | Graph Applications | 783 |
 
@@ -69,25 +69,25 @@ pipeline.
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 1241 |
-| Mechanism | 614 |
-| Method | 353 |
-| Application | 147 |
-| Development | 119 |
-| Systems & Technology | 582 |
-| Evaluation & Benchmarks | 3080 |
-| Reviews & Surveys | 2108 |
+| Theory | 1247 |
+| Mechanism | 967 |
+| Method | 1035 |
+| Application | 2456 |
+| Development | 216 |
+| Systems & Technology | 1488 |
+| Evaluation & Benchmarks | 714 |
+| Reviews & Surveys | 206 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **LLM** — 839 papers
-2. **agent** — 385 papers
-3. **temporal** — 359 papers
-4. **heterogeneous** — 315 papers
-5. **scalable** — 278 papers
-6. **multimodal** — 137 papers
+1. **LLM** — 840 papers
+2. **agent** — 387 papers
+3. **temporal** — 362 papers
+4. **heterogeneous** — 321 papers
+5. **scalable** — 285 papers
+6. **multimodal** — 138 papers
 
 ---
 
@@ -95,14 +95,14 @@ pipeline.
 
 Cells with the fewest papers are prime opportunities for graphwiz.ai articles:
 
-- `graph-query-languages/application` — 1 papers
-- `graph-analytics/method` — 1 papers
-- `graph-databases/method` — 2 papers
-- `semantic-web/development` — 2 papers
-- `graph-analytics/systems` — 2 papers
-- `graph-security/development` — 2 papers
-- `graph-databases/development` — 2 papers
-- `temporal-graphs/development` — 2 papers
+- `distributed-graphs/method` — 1 papers
+- `graph-algorithms/review` — 2 papers
+- `graph-theory/development` — 2 papers
+- `temporal-graphs/review` — 2 papers
+- `distributed-graphs/review` — 2 papers
+- `graph-visualization/review` — 2 papers
+- `semantic-web/review` — 3 papers
+- `community-detection/review` — 3 papers
 
 ---
 
@@ -202,7 +202,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 8,244 papers across 2023-2026 to create a
+This corpus synthesizes 8,329 papers across 2023-2026 to create a
 comprehensive evidence base for graph-focused content and product decisions.
 
 ---

@@ -283,17 +283,37 @@ QUERIES = [
     ('cat:cs.DB AND abs:"graph database" AND abs:"survey"', "graph-databases", "review"),
     ('cat:cs.DB AND abs:"graph" AND abs:"indexing" AND abs:"query"', "graph-databases", "systems"),
     ('cat:cs.DB AND abs:"graph" AND abs:"benchmark" AND abs:"database"', "graph-databases", "evaluation"),
+    # --- gap filling: graph-analytics + distributed-graphs thin cells ---
+    ('cat:cs.DB AND abs:"graph analytics" AND abs:"application"', "graph-analytics", "application"),
+    ('cat:cs.SI AND abs:"graph analytics" AND abs:"social"', "graph-analytics", "application"),
+    ('cat:cs.DB AND abs:"graph analytics" AND abs:"industry"', "graph-analytics", "application"),
+    ('cat:cs.DB AND abs:"graph analytics" AND abs:"tool"', "graph-analytics", "development"),
+    ('cat:cs.DB AND abs:"graph analytics" AND abs:"open-source"', "graph-analytics", "development"),
+    ('cat:cs.DB AND abs:"graph processing" AND abs:"framework"', "distributed-graphs", "development"),
+    ('cat:cs.DC AND abs:"graph" AND abs:"distributed" AND abs:"application"', "distributed-graphs", "application"),
+    ('cat:cs.DB AND abs:"graph database" AND abs:"cloud"', "distributed-graphs", "application"),
+    ('cat:cs.DB AND abs:"graph" AND abs:"partitioning" AND abs:"load balance"', "distributed-graphs", "method"),
+    ('cat:cs.DB AND abs:"graph" AND abs:"placement" AND abs:"distributed"', "distributed-graphs", "method"),
+    # --- final two gap cells (forced subcategory) ---
+    ('cat:cs.DB AND abs:"survey" AND abs:"graph query"', "graph-query-languages", "review", "review"),
+    ('cat:cs.DB AND abs:"survey" AND (abs:"Cypher" OR abs:"SPARQL" OR abs:"GQL")', "graph-query-languages", "review", "review"),
+    ('cat:cs.DB AND abs:"benchmark" AND abs:"graph processing"', "distributed-graphs", "evaluation", "evaluation"),
+    ('cat:cs.DB AND abs:"graph" AND abs:"evaluation" AND abs:"distributed" AND abs:"system"', "distributed-graphs", "evaluation", "evaluation"),
+    ('cat:cs.DB AND abs:"survey" AND (abs:"graph" OR abs:"RDF" OR abs:"knowledge graph")', "graph-query-languages", "review", "review"),
 ]
 
 # Subcategory keyword rules, applied in order. First match wins.
+# Each rule: (subcategory, keywords, title_only?) — title_only restricts
+# matching to the paper title (for strong signals like "survey").
 SUBCATEGORY_RULES = [
-    ("review", ["survey", "review of", "overview", "systematic review", "state-of-the-art", "sota"]),
-    ("evaluation", ["benchmark", "empirical study", "comparison of", "evaluation", "evaluating", "dataset"]),
-    ("theory", ["theory", "theoretical", "complexity", "bound", "expressivity", "expressiveness", "fundamental", "axiomat", "limits"]),
-    ("mechanism", ["mechanism", "interpretab", "explainab", "understanding", "why ", "analysis of", "inner", "probe", "attention"]),
-    ("systems", ["system", "engine", "platform", "infrastructure", "architecture", "pipeline", "framework for", "distributed", "scalable", "indexing"]),
-    ("development", ["tool", "library", "open-source", "implementation", "development of", "software", "api"]),
-    ("application", ["application", "case study", "in practice", "real-world", "industry", "production", "deployment", "clinical", "medical", "finance", "fraud", "drug"]),
+    ("review", ["survey", "systematic review", "state-of-the-art", "sota", "overview of"], True),
+    ("review", ["a survey of", "review of", "bibliographic review"], False),
+    ("theory", ["expressivity", "expressiveness", "theoretical", "complexity of", "bounds", "fundamental limits", "axiomat", "computational complexity", "approximation guarantees"], False),
+    ("application", ["application to", "application of", "case study", "real-world", "in practice", "production", "clinical", "medical", "fraud detection", "drug discovery", "recommender", "supply chain", "bioinformatics", "proteomics", "genomics", "diagnosis", "osint", "cybersecurity", "deployment"], False),
+    ("development", ["open-source", "library", "toolkit", "implementation of", "software package", "benchmarking tool", "api for", "python library"], False),
+    ("mechanism", ["interpretab", "explainab", "understanding why", "analysis of", "inner workings", "attention analysis", "probing", "mechanism", "why graph"], False),
+    ("systems", ["system", "engine", "platform", "infrastructure", "architecture", "pipeline", "distributed", "scalable", "indexing", "storage", "gpu", "parallel"], False),
+    ("evaluation", ["benchmark", "empirical study", "empirical comparison", "experimental evaluation", "evaluating", "comparative analysis", "dataset"], False),
 ]
 
 SUBCATEGORY_FALLBACK = "method"
@@ -301,10 +321,12 @@ SUBCATEGORY_FALLBACK = "method"
 
 def classify_subcategory(title, abstract):
     """Assign a subcategory using keyword rules against title + abstract."""
+    t_lower = title.lower()
     text = f"{title} {abstract}".lower()
-    for subcat, keywords in SUBCATEGORY_RULES:
+    for subcat, keywords, title_only in SUBCATEGORY_RULES:
+        haystack = t_lower if title_only else text
         for kw in keywords:
-            if kw in text:
+            if kw in haystack:
                 return subcat
     return SUBCATEGORY_FALLBACK
 
@@ -424,6 +446,20 @@ def main():
         default=100,
         help="Max results per arXiv query (default: 100)",
     )
+    parser.add_argument(
+        "--from",
+        dest="from_idx",
+        type=int,
+        default=0,
+        help="Start at query index (0-based, inclusive)",
+    )
+    parser.add_argument(
+        "--to",
+        dest="to_idx",
+        type=int,
+        default=None,
+        help="Stop at query index (0-based, inclusive)",
+    )
     args = parser.parse_args()
 
     yaml_path = Path(__file__).resolve().parent.parent.parent / "papers.yaml"
@@ -437,7 +473,13 @@ def main():
 
     all_new = []
     CHECKPOINT_EVERY = 10
-    for qi, (query, category, hint) in enumerate(QUERIES):
+    to_idx = args.to_idx if args.to_idx is not None else len(QUERIES) - 1
+    for qi, qdef in enumerate(QUERIES[args.from_idx:to_idx + 1], start=args.from_idx):
+        if len(qdef) == 4:
+            query, category, hint, force_sub = qdef
+        else:
+            query, category, hint = qdef
+            force_sub = None
         print(f"Query {qi + 1}/{len(QUERIES)} [{category}] {query[:70]}", flush=True)
         entries = search_arxiv(query, args.months, max_results=args.max_results)
         for entry in entries:
@@ -455,7 +497,7 @@ def main():
                 continue
 
             entry["category"] = category
-            entry["subcategory"] = classify_subcategory(
+            entry["subcategory"] = force_sub or classify_subcategory(
                 entry.get("title", ""), entry.get("abstract", "")
             )
             all_new.append(entry)

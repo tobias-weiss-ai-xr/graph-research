@@ -175,7 +175,12 @@ def main():
     CHECKPOINT_EVERY = 10
     queries = list(enumerate(QUERIES))
     to_idx = args.to_idx if args.to_idx is not None else len(queries) - 1
-    for qi, (arxiv_query, category, hint) in queries[args.from_idx:to_idx + 1]:
+    for qi, qdef in queries[args.from_idx:to_idx + 1]:
+        if len(qdef) == 4:
+            arxiv_query, category, hint, force_sub = qdef
+        else:
+            arxiv_query, category, hint = qdef
+            force_sub = None
         terms = arxiv_query_to_terms(arxiv_query)
         print(f"Query {qi + 1}/{len(QUERIES)} [{category}] {terms[:70]}", flush=True)
         results = search_openalex(terms, args.months, per_page=args.per_page)
@@ -183,6 +188,8 @@ def main():
             entry = to_entry(work, category, hint)
             if not entry:
                 continue
+            if force_sub:
+                entry["subcategory"] = force_sub
             arxiv_id_m = ARXIV_ID_PATTERN.search(entry.get("url", ""))
             arxiv_id = arxiv_id_m.group(1) if arxiv_id_m else None
             key = arxiv_id or entry.get("url")

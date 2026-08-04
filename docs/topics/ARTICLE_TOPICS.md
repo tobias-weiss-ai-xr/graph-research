@@ -1,7 +1,7 @@
 # Article Topics for graphwiz.ai
 
 **Generated:** 2026-08-04  
-**Corpus:** 8,244 papers | **Topics:** 12
+**Corpus:** 8,329 papers | **Topics:** 12
 
 > Topics are ranked by corpus density × 12-month research velocity.
 > Each topic is backed by the cited paper counts — research first, then write.

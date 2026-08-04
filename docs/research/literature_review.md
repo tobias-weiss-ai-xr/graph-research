@@ -1,7 +1,7 @@
 # Graph Research — Literature Review
 
 **Generated:** 2026-08-04  
-**Corpus:** 8,244 papers across 20 categories
+**Corpus:** 8,329 papers across 20 categories
 
 > Synthesis of the graph research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -18,7 +18,7 @@
 | 5 | Graph RAG | 552 |
 
 **Time span:** 2023–2026 (median year 2025)
-**Dominant aspects:** Evaluation & Benchmarks (3080), Reviews & Surveys (2108), Theory (1241)
+**Dominant aspects:** Application (2456), Systems & Technology (1488), Theory (1247)
 
 ---
 
@@ -234,6 +234,20 @@ Graph database research clusters around query performance, indexing and benchmar
 
 ---
 
+### Distributed Graph Processing (`distributed-graphs`)
+
+Category is still saturating — see `statistics.json` for cell counts.
+
+**Corpus size:** 164 papers
+
+**Recent papers:**
+
+- [2026-08] Greedy-Like Defective Coloring: Distributed Algorithms and Applications — https://arxiv.org/abs/2608.02386v1
+- [2026-07] DMG: A Scalable and Efficient Memory-Disaggregated Graph Processing System — https://arxiv.org/abs/2607.20881v1
+- [2026-07] Task-Centered Benchmark for Interactive Network Visualization &amp; Analysis — https://arxiv.org/abs/2607.03725v1
+
+---
+
 ### Semantic Web & Linked Data (`semantic-web`)
 
 Category is still saturating — see `statistics.json` for cell counts.
@@ -248,6 +262,20 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 ---
 
+### Graph Query Languages (`graph-query-languages`)
+
+The move toward a GQL standard plus Cypher/SPARQL interop is the main story; query optimisation remains the core research problem.
+
+**Corpus size:** 103 papers
+
+**Recent papers:**
+
+- [2026-08] FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante — https://arxiv.org/abs/2608.02321v1
+- [2026-07] pykci: A Compact Urban Knowledge Graph for Semantic and Spatial Queries using LLMs — https://arxiv.org/abs/2607.01605v1
+- [2026-07] AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models — https://arxiv.org/abs/2607.25243v1
+
+---
+
 ### Graph Analytics (`graph-analytics`)
 
 Category is still saturating — see `statistics.json` for cell counts.
@@ -259,34 +287,6 @@ Category is still saturating — see `statistics.json` for cell counts.
 - [2026-07] CGS: Configurable Graph Summarization with Bounded Neighborhood Loss and Query Support — https://arxiv.org/abs/2607.10969v1
 - [2026-07] path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boos — https://arxiv.org/abs/2607.07935v1
 - [2026-06] GraphAlg Playground: An Online Platform for Learning and Experimenting with the GraphAlg Language — https://arxiv.org/abs/2606.04813v1
-
----
-
-### Graph Query Languages (`graph-query-languages`)
-
-The move toward a GQL standard plus Cypher/SPARQL interop is the main story; query optimisation remains the core research problem.
-
-**Corpus size:** 99 papers
-
-**Recent papers:**
-
-- [2026-08] FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante — https://arxiv.org/abs/2608.02321v1
-- [2026-07] pykci: A Compact Urban Knowledge Graph for Semantic and Spatial Queries using LLMs — https://arxiv.org/abs/2607.01605v1
-- [2026-07] AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models — https://arxiv.org/abs/2607.25243v1
-
----
-
-### Distributed Graph Processing (`distributed-graphs`)
-
-Category is still saturating — see `statistics.json` for cell counts.
-
-**Corpus size:** 83 papers
-
-**Recent papers:**
-
-- [2026-08] Greedy-Like Defective Coloring: Distributed Algorithms and Applications — https://arxiv.org/abs/2608.02386v1
-- [2026-07] DMG: A Scalable and Efficient Memory-Disaggregated Graph Processing System — https://arxiv.org/abs/2607.20881v1
-- [2026-07] Task-Centered Benchmark for Interactive Network Visualization &amp; Analysis — https://arxiv.org/abs/2607.03725v1
 
 ---
 
