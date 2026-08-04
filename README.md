@@ -1,6 +1,6 @@
 # Graph Research Corpus
 
-**Evidence base for graphwiz.ai** — Analysis of 8,329 research papers across 20 graph disciplines.
+**Evidence base for graphwiz.ai** — Analysis of 15,878 research papers across 20 graph disciplines.
 
 **Author:** Tobias Weiss
 **Contact:** tobias@graphwiz.ai
@@ -22,21 +22,21 @@ pipeline.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 8,329 |
+| **Papers Analyzed** | 15,878 |
 | **Graph Disciplines** | 20 |
-| **Time Span** | 2023-2026 |
+| **Time Span** | 2021-2026 |
 | **Research Aspects** | 8 |
 | **Taxonomy Cells** | 160 |
 | **Saturation** | 100.0% (160/160 cells) |
 
 ### Top Evidence Areas
 
-1. **Graph Neural Networks** — 1100 papers
-2. **Graph Applications** — 783 papers
-3. **Network Science** — 680 papers
-4. **Knowledge Graphs** — 638 papers
-5. **Graph RAG** — 552 papers
-6. **Graph Machine Learning** — 514 papers
+1. **Graph Neural Networks** — 2050 papers
+2. **Graph Applications** — 1441 papers
+3. **Network Science** — 1307 papers
+4. **Knowledge Graphs** — 1266 papers
+5. **Graph Embeddings** — 921 papers
+6. **Graph Machine Learning** — 920 papers
 
 ---
 
@@ -44,50 +44,50 @@ pipeline.
 
 | Category | Papers |
 |----------|--------|
-| Knowledge Graphs | 638 |
-| Graph RAG | 552 |
-| Graph Databases | 249 |
-| Graph Query Languages | 103 |
-| Graph Algorithms | 429 |
-| Graph Neural Networks | 1100 |
-| Graph Theory | 420 |
-| Network Science | 680 |
-| Graph Embeddings | 465 |
-| KG Construction & IE | 391 |
-| Semantic Web & Linked Data | 155 |
-| Ontologies & Schema | 366 |
-| Graph Analytics | 100 |
-| Community Detection | 353 |
-| Graph Visualization | 78 |
-| Graph Machine Learning | 514 |
-| Temporal & Dynamic Graphs | 292 |
-| Distributed Graph Processing | 164 |
-| Graph Security & OSINT | 497 |
-| Graph Applications | 783 |
+| Knowledge Graphs | 1266 |
+| Graph RAG | 871 |
+| Graph Databases | 431 |
+| Graph Query Languages | 219 |
+| Graph Algorithms | 841 |
+| Graph Neural Networks | 2050 |
+| Graph Theory | 819 |
+| Network Science | 1307 |
+| Graph Embeddings | 921 |
+| KG Construction & IE | 792 |
+| Semantic Web & Linked Data | 321 |
+| Ontologies & Schema | 844 |
+| Graph Analytics | 244 |
+| Community Detection | 683 |
+| Graph Visualization | 201 |
+| Graph Machine Learning | 920 |
+| Temporal & Dynamic Graphs | 536 |
+| Distributed Graph Processing | 350 |
+| Graph Security & OSINT | 821 |
+| Graph Applications | 1441 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 1247 |
-| Mechanism | 967 |
-| Method | 1035 |
-| Application | 2456 |
-| Development | 216 |
-| Systems & Technology | 1488 |
-| Evaluation & Benchmarks | 714 |
-| Reviews & Surveys | 206 |
+| Theory | 2178 |
+| Mechanism | 1683 |
+| Method | 2397 |
+| Application | 4606 |
+| Development | 398 |
+| Systems & Technology | 2770 |
+| Evaluation & Benchmarks | 1386 |
+| Reviews & Surveys | 460 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **LLM** — 840 papers
-2. **agent** — 387 papers
-3. **temporal** — 362 papers
-4. **heterogeneous** — 321 papers
-5. **scalable** — 285 papers
-6. **multimodal** — 138 papers
+1. **LLM** — 1166 papers
+2. **agent** — 571 papers
+3. **temporal** — 435 papers
+4. **heterogeneous** — 377 papers
+5. **scalable** — 361 papers
+6. **GraphRAG** — 197 papers
 
 ---
 
@@ -95,14 +95,14 @@ pipeline.
 
 Cells with the fewest papers are prime opportunities for graphwiz.ai articles:
 
-- `distributed-graphs/method` — 1 papers
-- `graph-algorithms/review` — 2 papers
-- `graph-theory/development` — 2 papers
-- `temporal-graphs/review` — 2 papers
-- `distributed-graphs/review` — 2 papers
-- `graph-visualization/review` — 2 papers
-- `semantic-web/review` — 3 papers
-- `community-detection/review` — 3 papers
+- `graph-theory/development` — 5 papers
+- `distributed-graphs/review` — 5 papers
+- `graph-query-languages/review` — 5 papers
+- `graph-algorithms/review` — 6 papers
+- `graph-analytics/development` — 7 papers
+- `graph-analytics/review` — 7 papers
+- `temporal-graphs/review` — 7 papers
+- `distributed-graphs/method` — 7 papers
 
 ---
 
@@ -202,7 +202,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 8,329 papers across 2023-2026 to create a
+This corpus synthesizes 15,878 papers across 2021-2026 to create a
 comprehensive evidence base for graph-focused content and product decisions.
 
 ---
