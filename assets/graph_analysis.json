@@ -4,47 +4,47 @@
    "id": "knowledge-graphs",
    "name": "Knowledge Graphs",
    "color": "#58a6ff",
-   "count": 1266,
+   "count": 1440,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 55
+     "count": 60
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 175
+     "count": 190
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 136
+     "count": 159
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 371
+     "count": 428
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 33
+     "count": 40
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 246
+     "count": 298
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 179
+     "count": 187
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 71
+     "count": 78
     }
    ]
   },
@@ -52,47 +52,47 @@
    "id": "graphrag",
    "name": "Graph RAG",
    "color": "#3fb950",
-   "count": 871,
+   "count": 956,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 31
+     "count": 37
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 144
+     "count": 155
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 64
+     "count": 74
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 237
+     "count": 264
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 32
+     "count": 36
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 241
+     "count": 255
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 107
+     "count": 113
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 15
+     "count": 22
     }
    ]
   },
@@ -100,22 +100,118 @@
    "id": "graph-databases",
    "name": "Graph Databases",
    "color": "#d29922",
-   "count": 431,
+   "count": 504,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 56
+     "count": 67
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 27
+     "count": 33
     },
     {
      "id": "method",
      "name": "Method",
+     "count": 58
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 141
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 25
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 135
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 33
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 12
+    }
+   ]
+  },
+  {
+   "id": "graph-query-languages",
+   "name": "Graph Query Languages",
+   "color": "#f0883e",
+   "count": 288,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 37
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 23
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 55
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 68
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 14
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 56
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 28
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 7
+    }
+   ]
+  },
+  {
+   "id": "graph-algorithms",
+   "name": "Graph Algorithms",
+   "color": "#db6d8a",
+   "count": 945,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 273
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
      "count": 46
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 315
     },
     {
      "id": "application",
@@ -125,108 +221,12 @@
     {
      "id": "development",
      "name": "Development",
-     "count": 20
+     "count": 26
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 124
-    },
-    {
-     "id": "evaluation",
-     "name": "Evaluation & Benchmarks",
-     "count": 25
-    },
-    {
-     "id": "review",
-     "name": "Reviews & Surveys",
-     "count": 10
-    }
-   ]
-  },
-  {
-   "id": "graph-query-languages",
-   "name": "Graph Query Languages",
-   "color": "#f0883e",
-   "count": 219,
-   "subcategories": [
-    {
-     "id": "theory",
-     "name": "Theory",
-     "count": 30
-    },
-    {
-     "id": "mechanism",
-     "name": "Mechanism",
-     "count": 19
-    },
-    {
-     "id": "method",
-     "name": "Method",
-     "count": 37
-    },
-    {
-     "id": "application",
-     "name": "Application",
-     "count": 49
-    },
-    {
-     "id": "development",
-     "name": "Development",
-     "count": 13
-    },
-    {
-     "id": "systems",
-     "name": "Systems & Technology",
-     "count": 43
-    },
-    {
-     "id": "evaluation",
-     "name": "Evaluation & Benchmarks",
-     "count": 23
-    },
-    {
-     "id": "review",
-     "name": "Reviews & Surveys",
-     "count": 5
-    }
-   ]
-  },
-  {
-   "id": "graph-algorithms",
-   "name": "Graph Algorithms",
-   "color": "#db6d8a",
-   "count": 841,
-   "subcategories": [
-    {
-     "id": "theory",
-     "name": "Theory",
-     "count": 258
-    },
-    {
-     "id": "mechanism",
-     "name": "Mechanism",
-     "count": 34
-    },
-    {
-     "id": "method",
-     "name": "Method",
-     "count": 285
-    },
-    {
-     "id": "application",
-     "name": "Application",
-     "count": 101
-    },
-    {
-     "id": "development",
-     "name": "Development",
-     "count": 21
-    },
-    {
-     "id": "systems",
-     "name": "Systems & Technology",
-     "count": 114
+     "count": 133
     },
     {
      "id": "evaluation",
@@ -236,7 +236,7 @@
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 6
+     "count": 7
     }
    ]
   },
@@ -244,47 +244,47 @@
    "id": "graph-neural-networks",
    "name": "Graph Neural Networks",
    "color": "#7ee787",
-   "count": 2050,
+   "count": 2240,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 481
+     "count": 510
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 287
+     "count": 314
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 153
+     "count": 174
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 522
+     "count": 568
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 28
+     "count": 30
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 318
+     "count": 366
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 156
+     "count": 172
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 105
+     "count": 106
     }
    ]
   },
@@ -292,37 +292,37 @@
    "id": "graph-theory",
    "name": "Graph Theory",
    "color": "#a5d6ff",
-   "count": 819,
+   "count": 892,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 165
+     "count": 180
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 25
+     "count": 29
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 504
+     "count": 541
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 43
+     "count": 49
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 5
+     "count": 6
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 52
+     "count": 61
     },
     {
      "id": "evaluation",
@@ -332,7 +332,7 @@
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 14
+     "count": 15
     }
    ]
   },
@@ -340,47 +340,47 @@
    "id": "network-science",
    "name": "Network Science",
    "color": "#79c0ff",
-   "count": 1307,
+   "count": 1394,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 189
+     "count": 200
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 171
+     "count": 180
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 266
+     "count": 292
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 366
+     "count": 392
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 19
+     "count": 22
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 212
+     "count": 219
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 50
+     "count": 51
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 34
+     "count": 38
     }
    ]
   },
@@ -388,7 +388,7 @@
    "id": "graph-embeddings",
    "name": "Graph Embeddings",
    "color": "#ffa657",
-   "count": 921,
+   "count": 948,
    "subcategories": [
     {
      "id": "theory",
@@ -398,27 +398,27 @@
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 104
+     "count": 109
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 149
+     "count": 159
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 242
+     "count": 251
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 10
+     "count": 11
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 128
+     "count": 129
     },
     {
      "id": "evaluation",
@@ -428,7 +428,7 @@
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 21
+     "count": 22
     }
    ]
   },
@@ -436,47 +436,47 @@
    "id": "graph-construction",
    "name": "KG Construction & IE",
    "color": "#ff7b72",
-   "count": 792,
+   "count": 883,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 19
+     "count": 28
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 78
+     "count": 87
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 77
+     "count": 101
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 246
+     "count": 268
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 33
+     "count": 34
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 168
+     "count": 185
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 153
+     "count": 156
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 18
+     "count": 24
     }
    ]
   },
@@ -484,42 +484,42 @@
    "id": "semantic-web",
    "name": "Semantic Web & Linked Data",
    "color": "#d2a8ff",
-   "count": 321,
+   "count": 361,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 27
+     "count": 30
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 30
+     "count": 35
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 54
+     "count": 59
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 72
+     "count": 81
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 18
+     "count": 20
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 84
+     "count": 98
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 21
+     "count": 23
     },
     {
      "id": "review",
@@ -532,47 +532,47 @@
    "id": "ontology",
    "name": "Ontologies & Schema",
    "color": "#79c0ff",
-   "count": 844,
+   "count": 932,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 45
+     "count": 55
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 90
+     "count": 107
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 108
+     "count": 126
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 269
+     "count": 283
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 37
+     "count": 38
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 207
+     "count": 230
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 59
+     "count": 63
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 29
+     "count": 30
     }
    ]
   },
@@ -965,42 +965,42 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 2178
+   "count": 2299
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 1683
+   "count": 1807
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 2397
+   "count": 2631
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 4606
+   "count": 4881
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 398
+   "count": 431
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 2770
+   "count": 2998
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Benchmarks",
-   "count": 1386
+   "count": 1439
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 460
+   "count": 493
   }
  ],
  "timeline": [
@@ -75927,6 +75927,11 @@
   [
    "2026-05",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
    "review"
   ],
   [
@@ -77132,12 +77137,27 @@
   [
    "2026-06",
    "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-algorithms",
+   "development"
+  ],
+  [
+   "2026-06",
+   "graph-algorithms",
    "mechanism"
   ],
   [
    "2026-06",
    "graph-algorithms",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-algorithms",
+   "method"
   ],
   [
    "2026-06",
@@ -77153,6 +77173,21 @@
    "2026-06",
    "graph-algorithms",
    "systems"
+  ],
+  [
+   "2026-06",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-algorithms",
+   "theory"
   ],
   [
    "2026-06",
@@ -77402,6 +77437,16 @@
   [
    "2026-06",
    "graph-construction",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-construction",
    "evaluation"
   ],
   [
@@ -77412,7 +77457,12 @@
   [
    "2026-06",
    "graph-construction",
-   "systems"
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-construction",
+   "method"
   ],
   [
    "2026-06",
@@ -77438,6 +77488,21 @@
    "2026-06",
    "graph-construction",
    "systems"
+  ],
+  [
+   "2026-06",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-construction",
+   "theory"
   ],
   [
    "2026-06",
@@ -77542,6 +77607,16 @@
   [
    "2026-06",
    "graph-embeddings",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-embeddings",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-embeddings",
    "method"
   ],
   [
@@ -77697,6 +77772,71 @@
   [
    "2026-06",
    "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
    "evaluation"
   ],
   [
@@ -77722,6 +77862,41 @@
   [
    "2026-06",
    "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
    "method"
   ],
   [
@@ -77733,6 +77908,56 @@
    "2026-06",
    "graph-neural-networks",
    "method"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "systems"
   ],
   [
    "2026-06",
@@ -77776,6 +78001,51 @@
   ],
   [
    "2026-06",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-06",
    "graph-query-languages",
    "application"
   ],
@@ -77792,7 +78062,17 @@
   [
    "2026-06",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2026-06",
@@ -77897,6 +78177,11 @@
   [
    "2026-06",
    "graph-theory",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
    "evaluation"
   ],
   [
@@ -77962,7 +78247,67 @@
   [
    "2026-06",
    "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
    "systems"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-theory",
+   "theory"
   ],
   [
    "2026-06",
@@ -78072,7 +78417,22 @@
   [
    "2026-06",
    "graphrag",
-   "evaluation"
+   "application"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "development"
   ],
   [
    "2026-06",
@@ -78108,6 +78468,36 @@
    "2026-06",
    "graphrag",
    "evaluation"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "mechanism"
   ],
   [
    "2026-06",
@@ -78183,6 +78573,46 @@
    "2026-06",
    "graphrag",
    "method"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "graphrag",
+   "systems"
   ],
   [
    "2026-06",
@@ -78292,7 +78722,102 @@
   [
    "2026-06",
    "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
    "development"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "evaluation"
   ],
   [
    "2026-06",
@@ -78312,6 +78837,46 @@
   [
    "2026-06",
    "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
    "method"
   ],
   [
@@ -78323,6 +78888,76 @@
    "2026-06",
    "knowledge-graphs",
    "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-06",
+   "network-science",
+   "application"
   ],
   [
    "2026-06",
@@ -78358,6 +78993,16 @@
    "2026-06",
    "network-science",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "network-science",
+   "method"
   ],
   [
    "2026-06",
@@ -78522,6 +79167,21 @@
   [
    "2026-06",
    "ontology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ontology",
    "development"
   ],
   [
@@ -78562,7 +79222,12 @@
   [
    "2026-06",
    "ontology",
-   "method"
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "mechanism"
   ],
   [
    "2026-06",
@@ -78572,6 +79237,41 @@
   [
    "2026-06",
    "ontology",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
    "systems"
   ],
   [
@@ -78608,6 +79308,11 @@
    "2026-06",
    "ontology",
    "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "theory"
   ],
   [
    "2026-06",
@@ -78817,6 +79522,36 @@
   [
    "2026-07",
    "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "development"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
    "development"
   ],
   [
@@ -78842,6 +79577,61 @@
   [
    "2026-07",
    "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
    "method"
   ],
   [
@@ -78903,6 +79693,51 @@
    "2026-07",
    "graph-algorithms",
    "systems"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-algorithms",
+   "theory"
   ],
   [
    "2026-07",
@@ -79097,6 +79932,11 @@
   [
    "2026-07",
    "graph-construction",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-construction",
    "mechanism"
   ],
   [
@@ -79111,6 +79951,21 @@
   ],
   [
    "2026-07",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-07",
    "graph-databases",
    "application"
   ],
@@ -79128,6 +79983,11 @@
    "2026-07",
    "graph-databases",
    "application"
+  ],
+  [
+   "2026-07",
+   "graph-databases",
+   "development"
   ],
   [
    "2026-07",
@@ -79172,7 +80032,7 @@
   [
    "2026-07",
    "graph-embeddings",
-   "evaluation"
+   "application"
   ],
   [
    "2026-07",
@@ -79183,6 +80043,16 @@
    "2026-07",
    "graph-embeddings",
    "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-embeddings",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-embeddings",
+   "mechanism"
   ],
   [
    "2026-07",
@@ -79282,6 +80152,101 @@
   [
    "2026-07",
    "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "development"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
    "evaluation"
   ],
   [
@@ -79297,6 +80262,41 @@
   [
    "2026-07",
    "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
    "mechanism"
   ],
   [
@@ -79313,6 +80313,71 @@
    "2026-07",
    "graph-neural-networks",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "method"
   ],
   [
    "2026-07",
@@ -79377,6 +80442,126 @@
   [
    "2026-07",
    "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
    "theory"
   ],
   [
@@ -79398,6 +80583,91 @@
    "2026-07",
    "graph-neural-networks",
    "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "application"
   ],
   [
    "2026-07",
@@ -79412,7 +80682,52 @@
   [
    "2026-07",
    "graph-query-languages",
+   "development"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
    "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "review"
   ],
   [
    "2026-07",
@@ -79421,6 +80736,51 @@
   ],
   [
    "2026-07",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-07",
    "graph-security",
    "application"
   ],
@@ -79582,7 +80942,107 @@
   [
    "2026-07",
    "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "review"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
    "systems"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-theory",
+   "theory"
   ],
   [
    "2026-07",
@@ -79692,7 +81152,57 @@
   [
    "2026-07",
    "graphrag",
-   "evaluation"
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "development"
   ],
   [
    "2026-07",
@@ -79707,6 +81217,21 @@
   [
    "2026-07",
    "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "graphrag",
    "mechanism"
   ],
   [
@@ -79743,6 +81268,36 @@
    "2026-07",
    "graphrag",
    "method"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "systems"
   ],
   [
    "2026-07",
@@ -79856,6 +81411,26 @@
   ],
   [
    "2026-07",
+   "graphrag",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graphrag",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
    "knowledge-graphs",
    "application"
   ],
@@ -79873,11 +81448,91 @@
    "2026-07",
    "knowledge-graphs",
    "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "development"
   ],
   [
    "2026-07",
    "knowledge-graphs",
    "evaluation"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "mechanism"
   ],
   [
    "2026-07",
@@ -79912,7 +81567,107 @@
   [
    "2026-07",
    "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "knowledge-graphs",
    "theory"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "application"
   ],
   [
    "2026-07",
@@ -79948,6 +81703,61 @@
    "2026-07",
    "network-science",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "method"
   ],
   [
    "2026-07",
@@ -79972,6 +81782,16 @@
   [
    "2026-07",
    "network-science",
+   "review"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "network-science",
    "systems"
   ],
   [
@@ -79983,6 +81803,36 @@
    "2026-07",
    "network-science",
    "systems"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "network-science",
+   "theory"
   ],
   [
    "2026-07",
@@ -80052,12 +81902,27 @@
   [
    "2026-07",
    "ontology",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ontology",
    "development"
   ],
   [
    "2026-07",
    "ontology",
    "development"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "evaluation"
   ],
   [
    "2026-07",
@@ -80087,12 +81952,37 @@
   [
    "2026-07",
    "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "ontology",
    "method"
   ],
   [
    "2026-07",
    "ontology",
    "review"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "systems"
   ],
   [
    "2026-07",
@@ -80147,12 +82037,77 @@
   [
    "2026-07",
    "semantic-web",
+   "application"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
    "development"
   ],
   [
    "2026-07",
    "semantic-web",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
    "method"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "systems"
   ],
   [
    "2026-07",
@@ -80292,7 +82247,367 @@
   [
    "2026-08",
    "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
    "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-algorithms",
+   "theory"
   ],
   [
    "2026-08",
@@ -80303,6 +82618,421 @@
    "2026-08",
    "graph-applications",
    "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-construction",
+   "theory"
   ],
   [
    "2026-08",
@@ -80311,13 +83041,1273 @@
   ],
   [
    "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-embeddings",
+   "systems"
+  ],
+  [
+   "2026-08",
    "graph-machine-learning",
    "systems"
   ],
   [
    "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-08",
    "graph-query-languages",
    "development"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-theory",
+   "theory"
   ],
   [
    "2026-08",
@@ -80327,12 +84317,142 @@
   [
    "2026-08",
    "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "development"
+  ],
+  [
+   "2026-08",
+   "graphrag",
    "evaluation"
   ],
   [
    "2026-08",
    "graphrag",
    "evaluation"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "mechanism"
   ],
   [
    "2026-08",
@@ -80352,6 +84472,86 @@
   [
    "2026-08",
    "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "review"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graphrag",
    "systems"
   ],
   [
@@ -80363,6 +84563,31 @@
    "2026-08",
    "graphrag",
    "systems"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graphrag",
+   "theory"
   ],
   [
    "2026-08",
@@ -80372,7 +84597,757 @@
   [
    "2026-08",
    "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "application"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "development"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "development"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "development"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "development"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "development"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "development"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
    "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "method"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "review"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "application"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "development"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "development"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "development"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "method"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "review"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "review"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "review"
   ],
   [
    "2026-08",
@@ -80381,18 +85356,548 @@
   ],
   [
    "2026-08",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "network-science",
+   "theory"
+  ],
+  [
+   "2026-08",
    "ontology",
    "application"
   ],
   [
    "2026-08",
    "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "development"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "review"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
    "application"
   ],
   [
    "2026-08",
    "semantic-web",
+   "application"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "development"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "development"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "theory"
   ]
  ]
 }
