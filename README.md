@@ -82,12 +82,25 @@ pipeline.
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **LLM** — 1329 papers
-2. **agent** — 724 papers
-3. **temporal** — 529 papers
-4. **heterogeneous** — 445 papers
-5. **scalable** — 394 papers
-6. **multimodal** — 217 papers
+1. **osint** — 2 papers
+2. **agentic** — 226 papers
+3. **graphrag** — 187 papers
+4. **graph rag** — 45 papers
+5. **agent** — 694 papers
+6. **retrieval** — 863 papers
+
+## 📈 Category Momentum (Last 12 Months)
+
+Ranked by output density × year-over-year growth — the strongest leading indicator for what to cover next:
+
+| Category | Total | Last 12m | Growth | 12-m share |
+|----------|------:|---------:|-------:|-----------:|
+| Graph Query Languages | 309 | 141 | +235.7% | 46% |
+| Graph RAG | 990 | 635 | +130.1% | 64% |
+| Graph Databases | 505 | 217 | +149.4% | 43% |
+| Ontologies & Schema | 934 | 419 | +132.8% | 45% |
+| Graph Visualization | 241 | 81 | +131.4% | 34% |
+| Semantic Web & Linked Data | 391 | 128 | +96.9% | 33% |
 
 ---
 

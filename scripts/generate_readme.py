@@ -74,6 +74,14 @@ def render_readme(stats):
         f"{i+1}. **{t['keyword']}** — {t['papers']} papers" for i, t in enumerate(themes[:6])
     )
 
+    momentum = stats.get("momentum", [])[:6]
+    mom_rows = "\n".join(
+        f"| {m['name']} | {m['total']} | {m['recent']} | "
+        + (f"{m['growth_pct']:+}%" if m['growth_pct'] is not None else "—")
+        + f" | {m['recent_share']*100:.0f}% |"
+        for m in momentum
+    )
+
     empty_cells = [c for c in by_cell if by_cell[c] == 0]
     thin = sorted(by_cell.items(), key=lambda kv: kv[1])[:8]
     gap_rows = "\n".join(f"- `{c}` — {n} papers" for c, n in thin)
@@ -141,6 +149,14 @@ pipeline.
 ## 🚀 Emerging Themes (Last 12 Months)
 
 {theme_rows}
+
+## 📈 Category Momentum (Last 12 Months)
+
+Ranked by output density × year-over-year growth — the strongest leading indicator for what to cover next:
+
+| Category | Total | Last 12m | Growth | 12-m share |
+|----------|------:|---------:|-------:|-----------:|
+{mom_rows}
 
 ---
 

@@ -7,6 +7,7 @@ Usage:
     python3 scripts/analysis/generate_reports.py
 """
 
+import json
 import os
 import sys
 from collections import Counter, defaultdict
@@ -92,7 +93,7 @@ KEY_INSIGHTS = {
 }
 
 
-def render_literature_review(papers, now):
+def render_literature_review(papers, now, stats=None):
     total = len(papers)
     lines = [
         "# Graph Research — Literature Review",
@@ -126,9 +127,61 @@ def render_literature_review(papers, now):
         "",
         "---",
         "",
-        "## Category Insights",
-        "",
     ]
+
+    # ---- enhanced sections drawn from statistics.json ----
+    if isinstance(stats, dict):
+        mom = stats.get("momentum", [])
+        if mom:
+            lines += [
+                "## 📈 Research Momentum (Last 12 Months)",
+                "",
+                "Categories ranked by a momentum score combining recent output "
+                "density with year-over-year growth.",
+                "",
+                "| Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |",
+                "|----------|------:|---------:|----------:|-------:|----------:|----------:|",
+            ]
+            for m in mom:
+                g = f"{m['growth_pct']:+}%" if m['growth_pct'] is not None else "—"
+                lines.append(
+                    f"| {m['name']} | {m['total']} | {m['recent']} | {m['prior']} | {g} | "
+                    f"{m['recent_share']*100:.0f}% | {m['papers_per_month']} |"
+                )
+            lines += ["", "---", ""]
+
+        gaps = stats.get("gaps", {})
+        if gaps:
+            lines += ["## 🕳️ Research Gaps & White Space", ""]
+            thinnest = gaps.get("thinnest_cells", [])[:8]
+            if thinnest:
+                lines += ["**Thinnest taxonomy cells:**", "", "| Cell | Papers |", "|------|--------|"]
+                for g in thinnest:
+                    lines.append(f"| `{g['cell']}` | {g['papers']} |")
+                lines.append("")
+            ws = gaps.get("white_space", [])[:8]
+            if ws:
+                lines += [
+                    "**White-space cells** (low total but fast-growing):", "",
+                    "| Cell | Total | Last-12m | 12-m share |",
+                    "|------|-------:|---------:|-----------:|",
+                ]
+                for w in ws:
+                    lines.append(f"| `{w['cell']}` | {w['total']} | {w['recent']} | {w['recent_share']*100:.0f}% |")
+                lines.append("")
+            lines += ["---", ""]
+
+        if stats.get("venues"):
+            lines += [
+                "## Publishing Venues", "",
+                "Top venues by paper count (where present in the metadata):", "",
+                "| Venue | Papers |", "|-------|--------|",
+            ]
+            for v in stats["venues"][:10]:
+                lines.append(f"| {v['name']} | {v['papers']} |")
+            lines += ["", "---", ""]
+
+    lines += ["", "## Category Insights", ""]
     for c in sorted(cat_counter, key=lambda c: -cat_counter[c]):
         if cat_counter[c] == 0:
             continue
@@ -165,7 +218,7 @@ def render_literature_review(papers, now):
     return "\n".join(lines)
 
 
-def render_trend_report(papers, now):
+def render_trend_report(papers, now, stats=None):
     result = scan_trends(papers, months=12, top=15)
     lines = [
         "# Graph Research Trends (12-Month View)",
@@ -215,13 +268,19 @@ def main():
     now = datetime.now().isoformat()[:10]
 
     lit_path = os.path.join(BASE, "docs", "research", "literature_review.md")
+    stats_path = os.path.join(BASE, "statistics.json")
+    stats = None
+    if os.path.exists(stats_path):
+        with open(stats_path, encoding="utf-8") as f:
+            stats = json.load(f)
+
     with open(lit_path, "w", encoding="utf-8") as f:
-        f.write(render_literature_review(papers, now))
+        f.write(render_literature_review(papers, now, stats))
     print(f"Wrote {lit_path}")
 
     trend_path = os.path.join(BASE, "docs", "research", "graph_trends_2026.md")
     with open(trend_path, "w", encoding="utf-8") as f:
-        f.write(render_trend_report(papers, now))
+        f.write(render_trend_report(papers, now, stats))
     print(f"Wrote {trend_path}")
 
 

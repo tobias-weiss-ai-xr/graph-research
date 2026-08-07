@@ -22,6 +22,85 @@
 
 ---
 
+## 📈 Research Momentum (Last 12 Months)
+
+Categories ranked by a momentum score combining recent output density with year-over-year growth.
+
+| Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
+|----------|------:|---------:|----------:|-------:|----------:|----------:|
+| Graph Query Languages | 309 | 141 | 42 | +235.7% | 46% | 11.8 |
+| Graph RAG | 990 | 635 | 276 | +130.1% | 64% | 52.9 |
+| Graph Databases | 505 | 217 | 87 | +149.4% | 43% | 18.1 |
+| Ontologies & Schema | 934 | 419 | 180 | +132.8% | 45% | 34.9 |
+| Graph Visualization | 241 | 81 | 35 | +131.4% | 34% | 6.8 |
+| Semantic Web & Linked Data | 391 | 128 | 65 | +96.9% | 33% | 10.7 |
+| Graph Algorithms | 946 | 293 | 164 | +78.7% | 31% | 24.4 |
+| Graph Theory | 913 | 282 | 158 | +78.5% | 31% | 23.5 |
+| Graph Security & OSINT | 899 | 332 | 200 | +66.0% | 37% | 27.7 |
+| Graph Neural Networks | 2325 | 654 | 425 | +53.9% | 28% | 54.5 |
+| Knowledge Graphs | 1464 | 466 | 313 | +48.9% | 32% | 38.8 |
+| KG Construction & IE | 883 | 233 | 155 | +50.3% | 26% | 19.4 |
+| Distributed Graph Processing | 389 | 97 | 70 | +38.6% | 25% | 8.1 |
+| Network Science | 1434 | 341 | 271 | +25.8% | 24% | 28.4 |
+| Graph Applications | 1507 | 397 | 372 | +6.7% | 26% | 33.1 |
+| Temporal & Dynamic Graphs | 553 | 133 | 124 | +7.3% | 24% | 11.1 |
+| Graph Analytics | 258 | 48 | 44 | +9.1% | 19% | 4.0 |
+| Graph Embeddings | 964 | 175 | 175 | +0.0% | 18% | 14.6 |
+| Community Detection | 704 | 136 | 142 | -4.2% | 19% | 11.3 |
+| Graph Machine Learning | 944 | 188 | 226 | -16.8% | 20% | 15.7 |
+
+---
+
+## 🕳️ Research Gaps & White Space
+
+**Thinnest taxonomy cells:**
+
+| Cell | Papers |
+|------|--------|
+| `distributed-graphs/review` | 5 |
+| `graph-theory/development` | 6 |
+| `graph-algorithms/review` | 7 |
+| `graph-analytics/review` | 7 |
+| `graph-analytics/development` | 8 |
+| `temporal-graphs/review` | 8 |
+| `community-detection/development` | 8 |
+| `graph-query-languages/review` | 8 |
+
+**White-space cells** (low total but fast-growing):
+
+| Cell | Total | Last-12m | 12-m share |
+|------|-------:|---------:|-----------:|
+| `graph-query-languages/review` | 8 | 7 | 88% |
+| `graphrag/review` | 25 | 19 | 76% |
+| `distributed-graphs/method` | 15 | 8 | 53% |
+| `temporal-graphs/development` | 12 | 6 | 50% |
+| `graph-analytics/development` | 8 | 4 | 50% |
+| `graph-query-languages/mechanism` | 25 | 12 | 48% |
+| `distributed-graphs/evaluation` | 11 | 5 | 45% |
+| `graph-databases/development` | 25 | 11 | 44% |
+
+---
+
+## Publishing Venues
+
+Top venues by paper count (where present in the metadata):
+
+| Venue | Papers |
+|-------|--------|
+| Zenodo (CERN European Organization for Nuclear Research) | 192 |
+| arXiv | 98 |
+| Research Square | 62 |
+| Lecture notes in computer science | 49 |
+| Expert Systems with Applications | 48 |
+| Scientific Reports | 44 |
+| Open MIND | 34 |
+| Cairn.info | 34 |
+| IEEE Transactions on Knowledge and Data Engineering | 33 |
+| Knowledge-Based Systems | 33 |
+
+---
+
+
 ## Category Insights
 
 ### Graph Neural Networks (`graph-neural-networks`)

@@ -46,7 +46,26 @@
      "name": "Reviews & Surveys",
      "count": 79
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 75,
+    "2022": 222,
+    "2023": 232,
+    "2024": 297,
+    "2025": 301,
+    "2026": 337
+   },
+   "momentum": {
+    "id": "knowledge-graphs",
+    "name": "Knowledge Graphs",
+    "total": 1464,
+    "recent": 466,
+    "prior": 313,
+    "growth_pct": 48.9,
+    "recent_share": 0.318,
+    "papers_per_month": 38.8,
+    "score": 80.7
+   }
   },
   {
    "id": "graphrag",
@@ -94,7 +113,26 @@
      "name": "Reviews & Surveys",
      "count": 25
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 4,
+    "2022": 10,
+    "2023": 27,
+    "2024": 121,
+    "2025": 359,
+    "2026": 469
+   },
+   "momentum": {
+    "id": "graphrag",
+    "name": "Graph RAG",
+    "total": 990,
+    "recent": 635,
+    "prior": 276,
+    "growth_pct": 130.1,
+    "recent_share": 0.641,
+    "papers_per_month": 52.9,
+    "score": 194.2
+   }
   },
   {
    "id": "graph-databases",
@@ -142,7 +180,26 @@
      "name": "Reviews & Surveys",
      "count": 12
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 26,
+    "2022": 68,
+    "2023": 61,
+    "2024": 83,
+    "2025": 90,
+    "2026": 177
+   },
+   "momentum": {
+    "id": "graph-databases",
+    "name": "Graph Databases",
+    "total": 505,
+    "recent": 217,
+    "prior": 87,
+    "growth_pct": 149.4,
+    "recent_share": 0.43,
+    "papers_per_month": 18.1,
+    "score": 192.4
+   }
   },
   {
    "id": "graph-query-languages",
@@ -190,7 +247,26 @@
      "name": "Reviews & Surveys",
      "count": 8
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 8,
+    "2022": 44,
+    "2023": 39,
+    "2024": 49,
+    "2025": 50,
+    "2026": 119
+   },
+   "momentum": {
+    "id": "graph-query-languages",
+    "name": "Graph Query Languages",
+    "total": 309,
+    "recent": 141,
+    "prior": 42,
+    "growth_pct": 235.7,
+    "recent_share": 0.456,
+    "papers_per_month": 11.8,
+    "score": 281.3
+   }
   },
   {
    "id": "graph-algorithms",
@@ -238,7 +314,26 @@
      "name": "Reviews & Surveys",
      "count": 7
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 58,
+    "2022": 171,
+    "2023": 161,
+    "2024": 159,
+    "2025": 178,
+    "2026": 219
+   },
+   "momentum": {
+    "id": "graph-algorithms",
+    "name": "Graph Algorithms",
+    "total": 946,
+    "recent": 293,
+    "prior": 164,
+    "growth_pct": 78.7,
+    "recent_share": 0.31,
+    "papers_per_month": 24.4,
+    "score": 109.7
+   }
   },
   {
    "id": "graph-neural-networks",
@@ -286,7 +381,26 @@
      "name": "Reviews & Surveys",
      "count": 107
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 128,
+    "2022": 383,
+    "2023": 458,
+    "2024": 458,
+    "2025": 398,
+    "2026": 500
+   },
+   "momentum": {
+    "id": "graph-neural-networks",
+    "name": "Graph Neural Networks",
+    "total": 2325,
+    "recent": 654,
+    "prior": 425,
+    "growth_pct": 53.9,
+    "recent_share": 0.281,
+    "papers_per_month": 54.5,
+    "score": 82.0
+   }
   },
   {
    "id": "graph-theory",
@@ -334,7 +448,26 @@
      "name": "Reviews & Surveys",
      "count": 15
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 44,
+    "2022": 161,
+    "2023": 175,
+    "2024": 170,
+    "2025": 156,
+    "2026": 207
+   },
+   "momentum": {
+    "id": "graph-theory",
+    "name": "Graph Theory",
+    "total": 913,
+    "recent": 282,
+    "prior": 158,
+    "growth_pct": 78.5,
+    "recent_share": 0.309,
+    "papers_per_month": 23.5,
+    "score": 109.4
+   }
   },
   {
    "id": "network-science",
@@ -382,7 +515,26 @@
      "name": "Reviews & Surveys",
      "count": 38
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 106,
+    "2022": 276,
+    "2023": 269,
+    "2024": 291,
+    "2025": 244,
+    "2026": 248
+   },
+   "momentum": {
+    "id": "network-science",
+    "name": "Network Science",
+    "total": 1434,
+    "recent": 341,
+    "prior": 271,
+    "growth_pct": 25.8,
+    "recent_share": 0.238,
+    "papers_per_month": 28.4,
+    "score": 49.6
+   }
   },
   {
    "id": "graph-embeddings",
@@ -430,7 +582,26 @@
      "name": "Reviews & Surveys",
      "count": 22
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 92,
+    "2022": 225,
+    "2023": 186,
+    "2024": 190,
+    "2025": 156,
+    "2026": 115
+   },
+   "momentum": {
+    "id": "graph-embeddings",
+    "name": "Graph Embeddings",
+    "total": 964,
+    "recent": 175,
+    "prior": 175,
+    "growth_pct": 0.0,
+    "recent_share": 0.182,
+    "papers_per_month": 14.6,
+    "score": 18.2
+   }
   },
   {
    "id": "graph-construction",
@@ -478,7 +649,26 @@
      "name": "Reviews & Surveys",
      "count": 24
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 41,
+    "2022": 122,
+    "2023": 192,
+    "2024": 211,
+    "2025": 145,
+    "2026": 172
+   },
+   "momentum": {
+    "id": "graph-construction",
+    "name": "KG Construction & IE",
+    "total": 883,
+    "recent": 233,
+    "prior": 155,
+    "growth_pct": 50.3,
+    "recent_share": 0.264,
+    "papers_per_month": 19.4,
+    "score": 76.7
+   }
   },
   {
    "id": "semantic-web",
@@ -526,7 +716,26 @@
      "name": "Reviews & Surveys",
      "count": 15
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 19,
+    "2022": 79,
+    "2023": 67,
+    "2024": 66,
+    "2025": 44,
+    "2026": 116
+   },
+   "momentum": {
+    "id": "semantic-web",
+    "name": "Semantic Web & Linked Data",
+    "total": 391,
+    "recent": 128,
+    "prior": 65,
+    "growth_pct": 96.9,
+    "recent_share": 0.327,
+    "papers_per_month": 10.7,
+    "score": 129.6
+   }
   },
   {
    "id": "ontology",
@@ -574,7 +783,26 @@
      "name": "Reviews & Surveys",
      "count": 30
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 27,
+    "2022": 99,
+    "2023": 121,
+    "2024": 155,
+    "2025": 211,
+    "2026": 321
+   },
+   "momentum": {
+    "id": "ontology",
+    "name": "Ontologies & Schema",
+    "total": 934,
+    "recent": 419,
+    "prior": 180,
+    "growth_pct": 132.8,
+    "recent_share": 0.449,
+    "papers_per_month": 34.9,
+    "score": 177.7
+   }
   },
   {
    "id": "graph-analytics",
@@ -622,7 +850,26 @@
      "name": "Reviews & Surveys",
      "count": 7
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 19,
+    "2022": 66,
+    "2023": 49,
+    "2024": 51,
+    "2025": 39,
+    "2026": 34
+   },
+   "momentum": {
+    "id": "graph-analytics",
+    "name": "Graph Analytics",
+    "total": 258,
+    "recent": 48,
+    "prior": 44,
+    "growth_pct": 9.1,
+    "recent_share": 0.186,
+    "papers_per_month": 4.0,
+    "score": 27.7
+   }
   },
   {
    "id": "community-detection",
@@ -670,7 +917,26 @@
      "name": "Reviews & Surveys",
      "count": 14
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 53,
+    "2022": 147,
+    "2023": 146,
+    "2024": 144,
+    "2025": 140,
+    "2026": 74
+   },
+   "momentum": {
+    "id": "community-detection",
+    "name": "Community Detection",
+    "total": 704,
+    "recent": 136,
+    "prior": 142,
+    "growth_pct": -4.2,
+    "recent_share": 0.193,
+    "papers_per_month": 11.3,
+    "score": 15.1
+   }
   },
   {
    "id": "graph-visualization",
@@ -718,7 +984,26 @@
      "name": "Reviews & Surveys",
      "count": 9
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 13,
+    "2022": 42,
+    "2023": 49,
+    "2024": 38,
+    "2025": 39,
+    "2026": 60
+   },
+   "momentum": {
+    "id": "graph-visualization",
+    "name": "Graph Visualization",
+    "total": 241,
+    "recent": 81,
+    "prior": 35,
+    "growth_pct": 131.4,
+    "recent_share": 0.336,
+    "papers_per_month": 6.8,
+    "score": 165.0
+   }
   },
   {
    "id": "graph-machine-learning",
@@ -766,7 +1051,26 @@
      "name": "Reviews & Surveys",
      "count": 35
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 44,
+    "2022": 170,
+    "2023": 178,
+    "2024": 237,
+    "2025": 193,
+    "2026": 122
+   },
+   "momentum": {
+    "id": "graph-machine-learning",
+    "name": "Graph Machine Learning",
+    "total": 944,
+    "recent": 188,
+    "prior": 226,
+    "growth_pct": -16.8,
+    "recent_share": 0.199,
+    "papers_per_month": 15.7,
+    "score": 3.1
+   }
   },
   {
    "id": "temporal-graphs",
@@ -814,7 +1118,26 @@
      "name": "Reviews & Surveys",
      "count": 8
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 23,
+    "2022": 77,
+    "2023": 112,
+    "2024": 142,
+    "2025": 108,
+    "2026": 91
+   },
+   "momentum": {
+    "id": "temporal-graphs",
+    "name": "Temporal & Dynamic Graphs",
+    "total": 553,
+    "recent": 133,
+    "prior": 124,
+    "growth_pct": 7.3,
+    "recent_share": 0.241,
+    "papers_per_month": 11.1,
+    "score": 31.4
+   }
   },
   {
    "id": "distributed-graphs",
@@ -862,7 +1185,26 @@
      "name": "Reviews & Surveys",
      "count": 5
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 30,
+    "2022": 66,
+    "2023": 80,
+    "2024": 73,
+    "2025": 66,
+    "2026": 74
+   },
+   "momentum": {
+    "id": "distributed-graphs",
+    "name": "Distributed Graph Processing",
+    "total": 389,
+    "recent": 97,
+    "prior": 70,
+    "growth_pct": 38.6,
+    "recent_share": 0.249,
+    "papers_per_month": 8.1,
+    "score": 63.5
+   }
   },
   {
    "id": "graph-security",
@@ -910,7 +1252,26 @@
      "name": "Reviews & Surveys",
      "count": 36
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 36,
+    "2022": 92,
+    "2023": 142,
+    "2024": 179,
+    "2025": 226,
+    "2026": 224
+   },
+   "momentum": {
+    "id": "graph-security",
+    "name": "Graph Security & OSINT",
+    "total": 899,
+    "recent": 332,
+    "prior": 200,
+    "growth_pct": 66.0,
+    "recent_share": 0.369,
+    "papers_per_month": 27.7,
+    "score": 102.9
+   }
   },
   {
    "id": "graph-applications",
@@ -958,7 +1319,26 @@
      "name": "Reviews & Surveys",
      "count": 18
     }
-   ]
+   ],
+   "trajectory": {
+    "2021": 68,
+    "2022": 235,
+    "2023": 268,
+    "2024": 320,
+    "2025": 348,
+    "2026": 268
+   },
+   "momentum": {
+    "id": "graph-applications",
+    "name": "Graph Applications",
+    "total": 1507,
+    "recent": 397,
+    "prior": 372,
+    "growth_pct": 6.7,
+    "recent_share": 0.263,
+    "papers_per_month": 33.1,
+    "score": 33.0
+   }
   }
  ],
  "subcategories": [
@@ -88769,5 +89149,179 @@
    "temporal-graphs",
    "theory"
   ]
+ ],
+ "venues": [
+  {
+   "name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "papers": 192
+  },
+  {
+   "name": "arXiv",
+   "papers": 98
+  },
+  {
+   "name": "Research Square",
+   "papers": 62
+  },
+  {
+   "name": "Lecture notes in computer science",
+   "papers": 49
+  },
+  {
+   "name": "Expert Systems with Applications",
+   "papers": 48
+  },
+  {
+   "name": "Scientific Reports",
+   "papers": 44
+  },
+  {
+   "name": "Open MIND",
+   "papers": 34
+  },
+  {
+   "name": "Cairn.info",
+   "papers": 34
+  },
+  {
+   "name": "IEEE Transactions on Knowledge and Data Engineering",
+   "papers": 33
+  },
+  {
+   "name": "Knowledge-Based Systems",
+   "papers": 33
+  },
+  {
+   "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "papers": 24
+  },
+  {
+   "name": "IEEE Access",
+   "papers": 23
+  },
+  {
+   "name": "Applied Sciences",
+   "papers": 22
+  },
+  {
+   "name": "Information Sciences",
+   "papers": 20
+  },
+  {
+   "name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+   "papers": 19
+  }
+ ],
+ "source_breakdown": {
+  "arxiv": 14924,
+  "doi": 2431,
+  "other": 198
+ },
+ "keyword_bursts": [
+  {
+   "keyword": "osint",
+   "recent": 2,
+   "total": 2,
+   "burst_score": 3.25,
+   "recent_share": 0.0004
+  },
+  {
+   "keyword": "agentic",
+   "recent": 226,
+   "total": 260,
+   "burst_score": 2.83,
+   "recent_share": 0.0419
+  },
+  {
+   "keyword": "graphrag",
+   "recent": 187,
+   "total": 278,
+   "burst_score": 2.19,
+   "recent_share": 0.0347
+  },
+  {
+   "keyword": "graph rag",
+   "recent": 45,
+   "total": 71,
+   "burst_score": 2.06,
+   "recent_share": 0.0083
+  },
+  {
+   "keyword": "agent",
+   "recent": 694,
+   "total": 1103,
+   "burst_score": 2.05,
+   "recent_share": 0.1286
+  },
+  {
+   "keyword": "retrieval",
+   "recent": 863,
+   "total": 1549,
+   "burst_score": 1.81,
+   "recent_share": 0.1599
+  },
+  {
+   "keyword": "foundation model",
+   "recent": 128,
+   "total": 241,
+   "burst_score": 1.73,
+   "recent_share": 0.0237
+  },
+  {
+   "keyword": "graph foundation",
+   "recent": 77,
+   "total": 145,
+   "burst_score": 1.73,
+   "recent_share": 0.0143
+  },
+  {
+   "keyword": "production",
+   "recent": 107,
+   "total": 208,
+   "burst_score": 1.67,
+   "recent_share": 0.0198
+  },
+  {
+   "keyword": "llm",
+   "recent": 1252,
+   "total": 2463,
+   "burst_score": 1.65,
+   "recent_share": 0.232
+  },
+  {
+   "keyword": "multimodal",
+   "recent": 200,
+   "total": 409,
+   "burst_score": 1.59,
+   "recent_share": 0.0371
+  },
+  {
+   "keyword": "gql",
+   "recent": 17,
+   "total": 37,
+   "burst_score": 1.49,
+   "recent_share": 0.0032
+  },
+  {
+   "keyword": "large language model",
+   "recent": 984,
+   "total": 2192,
+   "burst_score": 1.46,
+   "recent_share": 0.1824
+  },
+  {
+   "keyword": "cypher",
+   "recent": 37,
+   "total": 84,
+   "burst_score": 1.43,
+   "recent_share": 0.0069
+  },
+  {
+   "keyword": "memory",
+   "recent": 392,
+   "total": 933,
+   "burst_score": 1.37,
+   "recent_share": 0.0726
+  }
  ]
 }
