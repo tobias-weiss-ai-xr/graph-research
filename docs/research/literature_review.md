@@ -1,7 +1,7 @@
 # Graph Research — Literature Review
 
-**Generated:** 2026-08-06  
-**Corpus:** 16,979 papers across 20 categories
+**Generated:** 2026-08-07  
+**Corpus:** 17,553 papers across 20 categories
 
 > Synthesis of the graph research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -11,14 +11,14 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Graph Neural Networks | 2240 |
-| 2 | Graph Applications | 1441 |
-| 3 | Knowledge Graphs | 1440 |
-| 4 | Network Science | 1394 |
-| 5 | Graph RAG | 956 |
+| 1 | Graph Neural Networks | 2325 |
+| 2 | Graph Applications | 1507 |
+| 3 | Knowledge Graphs | 1464 |
+| 4 | Network Science | 1434 |
+| 5 | Graph RAG | 990 |
 
 **Time span:** 2021–2026 (median year 2024)
-**Dominant aspects:** Application (4881), Systems & Technology (2998), Method (2631)
+**Dominant aspects:** Application (5051), Systems & Technology (3107), Method (2739)
 
 ---
 
@@ -28,7 +28,7 @@
 
 GNN research has shifted from new architectures toward expressivity limits, scalability and explainability — maturity signals for production.
 
-**Corpus size:** 2240 papers
+**Corpus size:** 2325 papers
 
 **Recent papers:**
 
@@ -42,13 +42,13 @@ GNN research has shifted from new architectures toward expressivity limits, scal
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 1441 papers
+**Corpus size:** 1507 papers
 
 **Recent papers:**
 
 - [2026-08] Pretraining on Call Graphs: When Binary Analysis Tasks Profit From Context — https://arxiv.org/abs/2608.02084v1
 - [2026-08] GARDRec: Decision-Level Graph Grounding for Large Language Model Recommendation — https://arxiv.org/abs/2608.00669v1
-- [2026-07] MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion — https://arxiv.org/abs/2607.21634v1
+- [2026-08] ATLAS: Learning to Recommend Across Unseen Domains — https://arxiv.org/abs/2608.03899v1
 
 ---
 
@@ -56,7 +56,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Knowledge graphs are consolidating as the context layer for LLM agents. The LLM×KG intersection dominates recent output: KG-augmented reasoning, hallucination mitigation and KG completion with LLMs.
 
-**Corpus size:** 1440 papers
+**Corpus size:** 1464 papers
 
 **Recent papers:**
 
@@ -70,7 +70,7 @@ Knowledge graphs are consolidating as the context layer for LLM agents. The LLM�
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 1394 papers
+**Corpus size:** 1434 papers
 
 **Recent papers:**
 
@@ -84,7 +84,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 GraphRAG is the fastest-moving category: a flood of method papers (hierarchical, agentic, adaptive retrieval) but relatively few production benchmarks — a gap worth covering on graphwiz.ai.
 
-**Corpus size:** 956 papers
+**Corpus size:** 990 papers
 
 **Recent papers:**
 
@@ -98,7 +98,7 @@ GraphRAG is the fastest-moving category: a flood of method papers (hierarchical,
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 948 papers
+**Corpus size:** 964 papers
 
 **Recent papers:**
 
@@ -112,7 +112,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 945 papers
+**Corpus size:** 946 papers
 
 **Recent papers:**
 
@@ -122,11 +122,25 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 ---
 
+### Graph Machine Learning (`graph-machine-learning`)
+
+Graph foundation models and self-supervised pre-training are emerging as the next wave, replacing task-specific GNN training.
+
+**Corpus size:** 944 papers
+
+**Recent papers:**
+
+- [2026-08] HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning — https://arxiv.org/abs/2608.00491v1
+- [2026-08] Link prediction on multi-relational graphs from an influence propagation perspective — https://arxiv.org/abs/2608.05016v1
+- [2026-08] Towards Trustworthy Hypergraph Neural Networks under Label Noise — https://arxiv.org/abs/2608.04377v1
+
+---
+
 ### Ontologies & Schema (`ontology`)
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 932 papers
+**Corpus size:** 934 papers
 
 **Recent papers:**
 
@@ -136,31 +150,31 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 ---
 
-### Graph Machine Learning (`graph-machine-learning`)
-
-Graph foundation models and self-supervised pre-training are emerging as the next wave, replacing task-specific GNN training.
-
-**Corpus size:** 920 papers
-
-**Recent papers:**
-
-- [2026-08] HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning — https://arxiv.org/abs/2608.00491v1
-- [2026-07] Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Founda — https://arxiv.org/abs/2607.28980v1
-- [2026-07] Attacking Graph Foundation Models Through Their Shared Representation — https://arxiv.org/abs/2607.18567v1
-
----
-
 ### Graph Theory (`graph-theory`)
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 892 papers
+**Corpus size:** 913 papers
 
 **Recent papers:**
 
 - [2026-08] A finite forbidden family with superlinear surplus and non-join extremal graphs — https://arxiv.org/abs/2608.02115v1
 - [2026-08] On Hamilton cycles in connected vertex-transitive graphs of order $2pq$ — https://arxiv.org/abs/2608.02349v1
 - [2026-08] Removable trees and matchings in $k$-connected and $k$-edge-connected graphs — https://arxiv.org/abs/2608.03643v1
+
+---
+
+### Graph Security & OSINT (`graph-security`)
+
+Fraud detection, attack graphs and threat intelligence are the dominant applications; graph + GNN approaches increasingly beat tabular baselines.
+
+**Corpus size:** 899 papers
+
+**Recent papers:**
+
+- [2026-08] Tool Demo: Topology analysis with GPML for detection of cyberattacks in Water Distribution Networks — https://arxiv.org/abs/2608.05902v1
+- [2026-08] CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection — https://arxiv.org/abs/2608.03134v1
+- [2026-08] Understanding the Ethics of Generative AI — https://doi.org/10.1201/9781003679974
 
 ---
 
@@ -178,31 +192,17 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 ---
 
-### Graph Security & OSINT (`graph-security`)
-
-Fraud detection, attack graphs and threat intelligence are the dominant applications; graph + GNN approaches increasingly beat tabular baselines.
-
-**Corpus size:** 821 papers
-
-**Recent papers:**
-
-- [2026-07] TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in — https://arxiv.org/abs/2607.09528v1
-- [2026-07] A Novel Graph Fraud Detector via Grouped Attribute Completion and Confidence-Aware Contrastive Learn — https://arxiv.org/abs/2607.11107v1
-- [2026-07] TACTIC-KG: Toward Small Agent Teams for Cyber Threat Intelligence Knowledge Graph Construction — https://arxiv.org/abs/2607.05001v2
-
----
-
 ### Community Detection (`community-detection`)
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 683 papers
+**Corpus size:** 704 papers
 
 **Recent papers:**
 
-- [2026-07] Comprehensive, Efficient Large-Scale Community Detection via Structural Entropy Game — https://arxiv.org/abs/2607.13713v2
-- [2026-07] Growing Hypergraphs with Homophily — https://arxiv.org/abs/2607.16046v1
-- [2026-07] Overlapping Network Community Detection Using Sparse Backbones — https://arxiv.org/abs/2607.14531v1
+- [2026-08] Semantic Networks as Clues: A Theoretical Foundation and Process Optimization for Semantic Network C — https://arxiv.org/abs/2608.01936v1
+- [2026-08] Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Mea — https://arxiv.org/abs/2608.05336v1
+- [2026-08] DUSTSWARM: A Calibrated ESA Swarm Star-Tracker Dataset for Space Situational Awareness — https://doi.org/10.5281/zenodo.21803137
 
 ---
 
@@ -210,13 +210,13 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Temporal and dynamic knowledge graphs are a clear growth cell — time-aware embeddings and event-driven KG updates are active frontiers.
 
-**Corpus size:** 536 papers
+**Corpus size:** 553 papers
 
 **Recent papers:**
 
-- [2026-07] GTIN: A Unified Framework for Joint Event and Time Prediction in Temporal Graphs — https://arxiv.org/abs/2607.23556v1
-- [2026-07] CA-DGCL: Dynamic Graph Continual Learning via Condensation and Attachment — https://arxiv.org/abs/2607.11112v1
-- [2026-07] Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graph — https://arxiv.org/abs/2607.18412v1
+- [2026-08] Smart Manufacturing IIoT Anomaly Dataset (SMIAD25) — https://doi.org/10.5281/zenodo.18245455
+- [2026-08] A Multi-Scale Process for Mining and Abstracting Environmental Spatio-temporal Graphs — https://hal.science/hal-05696588
+- [2026-08] Regenerative Computing System: A Closed-Loop Theoretical Framework for Computational Resource Genera — https://doi.org/10.5281/zenodo.21800633
 
 ---
 
@@ -224,7 +224,7 @@ Temporal and dynamic knowledge graphs are a clear growth cell — time-aware emb
 
 Graph database research clusters around query performance, indexing and benchmarks; native-graph engines and GQL adoption are recurring themes.
 
-**Corpus size:** 504 papers
+**Corpus size:** 505 papers
 
 **Recent papers:**
 
@@ -238,7 +238,7 @@ Graph database research clusters around query performance, indexing and benchmar
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 361 papers
+**Corpus size:** 391 papers
 
 **Recent papers:**
 
@@ -252,13 +252,13 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 350 papers
+**Corpus size:** 389 papers
 
 **Recent papers:**
 
 - [2026-08] Greedy-Like Defective Coloring: Distributed Algorithms and Applications — https://arxiv.org/abs/2608.02386v1
-- [2026-07] DMG: A Scalable and Efficient Memory-Disaggregated Graph Processing System — https://arxiv.org/abs/2607.20881v1
-- [2026-07] Task-Centered Benchmark for Interactive Network Visualization &amp; Analysis — https://arxiv.org/abs/2607.03725v1
+- [2026-08] Early differential impact of MeCP2 mutations on functional networks in Rett syndrome patient-derived — https://doi.org/10.5281/zenodo.18487289
+- [2026-08] Stitch: an AI-based workflow for graph processing frameworks selection and deployment — https://hal.science/hal-05661022
 
 ---
 
@@ -266,7 +266,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 The move toward a GQL standard plus Cypher/SPARQL interop is the main story; query optimisation remains the core research problem.
 
-**Corpus size:** 288 papers
+**Corpus size:** 309 papers
 
 **Recent papers:**
 
@@ -280,13 +280,13 @@ The move toward a GQL standard plus Cypher/SPARQL interop is the main story; que
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 244 papers
+**Corpus size:** 258 papers
 
 **Recent papers:**
 
-- [2026-07] CGS: Configurable Graph Summarization with Bounded Neighborhood Loss and Query Support — https://arxiv.org/abs/2607.10969v1
-- [2026-07] path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boos — https://arxiv.org/abs/2607.07935v1
-- [2026-06] GraphAlg Playground: An Online Platform for Learning and Experimenting with the GraphAlg Language — https://arxiv.org/abs/2606.04813v1
+- [2026-08] Accelerating Dynamic Graph Clustering on GPU Architectures with cuGraph — https://arxiv.org/abs/2608.03695v2
+- [2026-08] SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System — https://arxiv.org/abs/2608.05033v1
+- [2026-08] Ab Initio Investigation of Structural, Elastic, and Optoelectronic Properties of Oxide Double Perovs — https://doi.org/10.21203/rs.3.rs-10586508/v1
 
 ---
 
@@ -294,13 +294,13 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 201 papers
+**Corpus size:** 241 papers
 
 **Recent papers:**
 
 - [2026-08] SNAP-tFDP: Massively Scalable Graph Layouts via Sparse Negative Sampling — https://arxiv.org/abs/2608.01907v1
-- [2026-07] A Design Study on Voice-based Interaction for Immersive Network Visualization and Analysis — https://arxiv.org/abs/2607.26526v1
-- [2026-07] GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation — https://arxiv.org/abs/2607.27182v1
+- [2026-08] Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Langu — https://arxiv.org/abs/2608.04002v1
+- [2026-08] Investigating the effects of vaping on lung structure and function with pulmonary imaging — https://hdl.handle.net/2429/93933
 
 ---
 

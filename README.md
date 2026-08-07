@@ -1,6 +1,6 @@
 # Graph Research Corpus
 
-**Evidence base for graphwiz.ai** — Analysis of 16,979 research papers across 20 graph disciplines.
+**Evidence base for graphwiz.ai** — Analysis of 17,553 research papers across 20 graph disciplines.
 
 **Author:** Tobias Weiss
 **Contact:** tobias@graphwiz.ai
@@ -22,7 +22,7 @@ pipeline.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 16,979 |
+| **Papers Analyzed** | 17,553 |
 | **Graph Disciplines** | 20 |
 | **Time Span** | 2021-2026 |
 | **Research Aspects** | 8 |
@@ -31,12 +31,12 @@ pipeline.
 
 ### Top Evidence Areas
 
-1. **Graph Neural Networks** — 2240 papers
-2. **Graph Applications** — 1441 papers
-3. **Knowledge Graphs** — 1440 papers
-4. **Network Science** — 1394 papers
-5. **Graph RAG** — 956 papers
-6. **Graph Embeddings** — 948 papers
+1. **Graph Neural Networks** — 2325 papers
+2. **Graph Applications** — 1507 papers
+3. **Knowledge Graphs** — 1464 papers
+4. **Network Science** — 1434 papers
+5. **Graph RAG** — 990 papers
+6. **Graph Embeddings** — 964 papers
 
 ---
 
@@ -44,50 +44,50 @@ pipeline.
 
 | Category | Papers |
 |----------|--------|
-| Knowledge Graphs | 1440 |
-| Graph RAG | 956 |
-| Graph Databases | 504 |
-| Graph Query Languages | 288 |
-| Graph Algorithms | 945 |
-| Graph Neural Networks | 2240 |
-| Graph Theory | 892 |
-| Network Science | 1394 |
-| Graph Embeddings | 948 |
+| Knowledge Graphs | 1464 |
+| Graph RAG | 990 |
+| Graph Databases | 505 |
+| Graph Query Languages | 309 |
+| Graph Algorithms | 946 |
+| Graph Neural Networks | 2325 |
+| Graph Theory | 913 |
+| Network Science | 1434 |
+| Graph Embeddings | 964 |
 | KG Construction & IE | 883 |
-| Semantic Web & Linked Data | 361 |
-| Ontologies & Schema | 932 |
-| Graph Analytics | 244 |
-| Community Detection | 683 |
-| Graph Visualization | 201 |
-| Graph Machine Learning | 920 |
-| Temporal & Dynamic Graphs | 536 |
-| Distributed Graph Processing | 350 |
-| Graph Security & OSINT | 821 |
-| Graph Applications | 1441 |
+| Semantic Web & Linked Data | 391 |
+| Ontologies & Schema | 934 |
+| Graph Analytics | 258 |
+| Community Detection | 704 |
+| Graph Visualization | 241 |
+| Graph Machine Learning | 944 |
+| Temporal & Dynamic Graphs | 553 |
+| Distributed Graph Processing | 389 |
+| Graph Security & OSINT | 899 |
+| Graph Applications | 1507 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 2299 |
-| Mechanism | 1807 |
-| Method | 2631 |
-| Application | 4881 |
-| Development | 431 |
-| Systems & Technology | 2998 |
-| Evaluation & Benchmarks | 1439 |
-| Reviews & Surveys | 493 |
+| Theory | 2359 |
+| Mechanism | 1883 |
+| Method | 2739 |
+| Application | 5051 |
+| Development | 446 |
+| Systems & Technology | 3107 |
+| Evaluation & Benchmarks | 1454 |
+| Reviews & Surveys | 514 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **LLM** — 1295 papers
-2. **agent** — 674 papers
-3. **temporal** — 484 papers
-4. **heterogeneous** — 423 papers
-5. **scalable** — 386 papers
-6. **GraphRAG** — 199 papers
+1. **LLM** — 1329 papers
+2. **agent** — 724 papers
+3. **temporal** — 529 papers
+4. **heterogeneous** — 445 papers
+5. **scalable** — 394 papers
+6. **multimodal** — 217 papers
 
 ---
 
@@ -98,11 +98,11 @@ Cells with the fewest papers are prime opportunities for graphwiz.ai articles:
 - `distributed-graphs/review` — 5 papers
 - `graph-theory/development` — 6 papers
 - `graph-algorithms/review` — 7 papers
-- `graph-analytics/development` — 7 papers
 - `graph-analytics/review` — 7 papers
-- `temporal-graphs/review` — 7 papers
-- `distributed-graphs/method` — 7 papers
-- `community-detection/development` — 7 papers
+- `graph-analytics/development` — 8 papers
+- `temporal-graphs/review` — 8 papers
+- `community-detection/development` — 8 papers
+- `graph-query-languages/review` — 8 papers
 
 ---
 
@@ -202,7 +202,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 16,979 papers across 2021-2026 to create a
+This corpus synthesizes 17,553 papers across 2021-2026 to create a
 comprehensive evidence base for graph-focused content and product decisions.
 
 ---
