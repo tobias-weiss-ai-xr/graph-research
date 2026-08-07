@@ -7,6 +7,7 @@
 | [`research/taxonomy.md`](research/taxonomy.md) | The 20×8 taxonomy definition |
 | [`research/literature_review.md`](research/literature_review.md) | Synthesis of the corpus |
 | [`research/graph_trends_2026.md`](research/graph_trends_2026.md) | Trend analysis for article planning |
+| [`research/gql_investigation.md`](research/gql_investigation.md) | Deep-dive on the GQL standard & graph query languages |
 
 ## Topics (Generated)
 
