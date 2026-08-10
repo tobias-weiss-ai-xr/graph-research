@@ -357,6 +357,8 @@ def _url_venue(name):
     """Normalise a venue string for grouping."""
     if not name:
         return ""
+    if isinstance(name, list):
+        name = " ".join(str(x) for x in name)
     s = re.sub(r" \(Cornell University\)| CERN European Organization for Nuclear", "", name.strip())
     return s
 
