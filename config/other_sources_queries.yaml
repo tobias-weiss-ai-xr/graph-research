@@ -1,0 +1,94 @@
+# Multi-source queries for graph research
+# Focus: graph algorithms reviews, GNN surveys, knowledge graph books, graph security
+
+# ── Graph surveys/reviews (CrossRef — catches Springer/Elsevier/ACM) ──
+- source: crossref
+  query: graph neural network survey
+  category: graph-neural-networks
+  subcategory_hint: review
+- source: crossref
+  query: knowledge graph survey
+  category: knowledge-graphs
+  subcategory_hint: review
+- source: crossref
+  query: graph embedding survey
+  category: graph-embeddings
+  subcategory_hint: review
+- source: crossref
+  query: graph database survey
+  category: graph-databases
+  subcategory_hint: review
+- source: crossref
+  query: community detection survey
+  category: community-detection
+  subcategory_hint: review
+
+# ── Graph algorithms & theory (DBLP — conference-heavy) ──
+- source: dblp
+  query: graph algorithm survey
+  category: graph-algorithms
+  subcategory_hint: review
+- source: dblp
+  query: graph theory algorithms
+  category: graph-theory
+  subcategory_hint: theory
+- source: dblp
+  query: temporal graph analysis
+  category: temporal-graphs
+  subcategory_hint: method
+- source: dblp
+  query: graph analytics benchmark
+  category: graph-analytics
+  subcategory_hint: evaluation
+- source: dblp
+  query: graph visualization survey
+  category: graph-visualization
+  subcategory_hint: review
+- source: dblp
+  query: distributed graph processing
+  category: distributed-graphs
+  subcategory_hint: systems
+
+# ── GraphRAG (newer field, likely sparse in DBLP) ──
+- source: dblp
+  query: retrieval augmented generation graph
+  category: graphrag
+  subcategory_hint: method
+- source: crossref
+  query: graph retrieval augmented generation
+  category: graphrag
+  subcategory_hint: method
+
+# ── Graph security (IEEE-heavy, good for CrossRef) ──
+- source: crossref
+  query: graph neural network security
+  category: graph-security
+  subcategory_hint: application
+- source: crossref
+  query: knowledge graph privacy
+  category: graph-security
+  subcategory_hint: theory
+- source: dblp
+  query: graph data privacy
+  category: graph-security
+  subcategory_hint: mechanism
+
+# ── Ontology/semantic web (DBLP strong here) ──
+- source: dblp
+  query: ontology survey
+  category: ontology
+  subcategory_hint: review
+- source: dblp
+  query: semantic web ontology
+  category: semantic-web
+  subcategory_hint: application
+
+# ── Graph query languages (DBLP/VLDB/SIGMOD) ──
+- source: dblp
+  query: graph query language survey
+  category: graph-query-languages
+  subcategory_hint: review
+- source: dblp
+  query: SPARQL benchmark
+  category: graph-query-languages
+  subcategory_hint: evaluation

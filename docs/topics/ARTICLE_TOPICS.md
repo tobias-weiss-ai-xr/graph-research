@@ -1,79 +1,51 @@
-# Article Topics for graphwiz.ai
+# Article Topics (auto-generated)
 
-**Generated:** 2026-08-07  
-**Corpus:** 17,553 papers | **Topics:** 10
 
-> Topics are ranked by corpus density × 12-month research velocity.
-> Each topic is backed by the cited paper counts — research first, then write.
+## Graph Neural Networks
 
----
+Evidence-based topic: 2334 curated papers, 501 in the last 12 months.
 
-## 🏆 Top Article Topics
 
-### 1. Graph neural networks in production: scaling and real-world adoption
+## Graph Applications
 
-- **Category:** Graph Neural Networks (`graph-neural-networks`)
-- **Evidence:** 2325 papers in corpus | 39% published in last 12 months
-- **Angle:** scaling and real-world adoption
+Evidence-based topic: 1507 curated papers, 268 in the last 12 months.
 
-### 2. GNN expressivity limits: scaling and real-world adoption
 
-- **Category:** Graph Neural Networks (`graph-neural-networks`)
-- **Evidence:** 2325 papers in corpus | 39% published in last 12 months
-- **Angle:** scaling and real-world adoption
+## Knowledge Graphs
 
-### 3. Knowledge graphs as the context layer for AI agents: LLM integration and agent context
+Evidence-based topic: 1468 curated papers, 337 in the last 12 months.
 
-- **Category:** Knowledge Graphs (`knowledge-graphs`)
-- **Evidence:** 1464 papers in corpus | 44% published in last 12 months
-- **Angle:** LLM integration and agent context
 
-### 4. From knowledge graphs to context graphs: LLM integration and agent context
+## Network Science
 
-- **Category:** Knowledge Graphs (`knowledge-graphs`)
-- **Evidence:** 1464 papers in corpus | 44% published in last 12 months
-- **Angle:** LLM integration and agent context
+Evidence-based topic: 1434 curated papers, 248 in the last 12 months.
 
-### 5. Graph-based recommendation systems: what works in production
 
-- **Category:** Graph Applications (`graph-applications`)
-- **Evidence:** 1507 papers in corpus | 41% published in last 12 months
-- **Angle:** what works in production
+## Graphrag
 
-### 6. Knowledge graphs in the enterprise: what works in production
+Evidence-based topic: 1017 curated papers, 480 in the last 12 months.
 
-- **Category:** Graph Applications (`graph-applications`)
-- **Evidence:** 1507 papers in corpus | 41% published in last 12 months
-- **Angle:** what works in production
 
-### 7. GraphRAG in production: deployment realities and cost models
+## Graph Embeddings
 
-- **Category:** Graph RAG (`graphrag`)
-- **Evidence:** 990 papers in corpus | 84% published in last 12 months
-- **Angle:** deployment realities and cost models
+Evidence-based topic: 971 curated papers, 115 in the last 12 months.
 
-### 8. GraphRAG variants compared 2026: deployment realities and cost models
 
-- **Category:** Graph RAG (`graphrag`)
-- **Evidence:** 990 papers in corpus | 84% published in last 12 months
-- **Angle:** deployment realities and cost models
+## Ontology
 
-### 9. Network science for engineers: what changed this year
+Evidence-based topic: 953 curated papers, 323 in the last 12 months.
 
-- **Category:** Network Science (`network-science`)
-- **Evidence:** 1434 papers in corpus | 34% published in last 12 months
-- **Angle:** what changed this year
 
-### 10. Complex networks in production: what changed this year
+## Graph Algorithms
 
-- **Category:** Network Science (`network-science`)
-- **Evidence:** 1434 papers in corpus | 34% published in last 12 months
-- **Angle:** what changed this year
+Evidence-based topic: 946 curated papers, 219 in the last 12 months.
 
----
 
-## 🛠️ Workflow
+## Graph Machine Learning
 
-1. Pick a topic above.
-2. `python3 tools/brief_generator.py "<topic title>" --papers 5` for a full brief.
-3. Write and publish via the `graphwiz-reporter` pipeline.
+Evidence-based topic: 944 curated papers, 122 in the last 12 months.
+
+
+## Graph Security
+
+Evidence-based topic: 938 curated papers, 231 in the last 12 months.
