@@ -3,49 +3,49 @@
 
 ## Graph Neural Networks
 
-Evidence-based topic: 2334 curated papers, 501 in the last 12 months.
+Evidence-based topic: 2425 curated papers, 592 in the last 12 months.
 
 
 ## Graph Applications
 
-Evidence-based topic: 1507 curated papers, 268 in the last 12 months.
+Evidence-based topic: 1525 curated papers, 286 in the last 12 months.
 
 
 ## Knowledge Graphs
 
-Evidence-based topic: 1468 curated papers, 337 in the last 12 months.
+Evidence-based topic: 1520 curated papers, 389 in the last 12 months.
 
 
 ## Network Science
 
-Evidence-based topic: 1434 curated papers, 248 in the last 12 months.
+Evidence-based topic: 1466 curated papers, 280 in the last 12 months.
 
 
 ## Graphrag
 
-Evidence-based topic: 1017 curated papers, 480 in the last 12 months.
+Evidence-based topic: 1044 curated papers, 507 in the last 12 months.
 
 
 ## Graph Embeddings
 
-Evidence-based topic: 971 curated papers, 115 in the last 12 months.
+Evidence-based topic: 978 curated papers, 122 in the last 12 months.
 
 
 ## Ontology
 
-Evidence-based topic: 953 curated papers, 323 in the last 12 months.
+Evidence-based topic: 965 curated papers, 335 in the last 12 months.
 
 
 ## Graph Algorithms
 
-Evidence-based topic: 946 curated papers, 219 in the last 12 months.
+Evidence-based topic: 959 curated papers, 232 in the last 12 months.
 
 
 ## Graph Machine Learning
 
-Evidence-based topic: 944 curated papers, 122 in the last 12 months.
+Evidence-based topic: 957 curated papers, 135 in the last 12 months.
 
 
-## Graph Security
+## Graph Theory
 
-Evidence-based topic: 938 curated papers, 231 in the last 12 months.
+Evidence-based topic: 951 curated papers, 225 in the last 12 months.

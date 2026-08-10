@@ -41,6 +41,8 @@ def main():
         title = sanitize_bibtex(paper.get("title", ""))
         url = paper.get("url", "")
         venue = paper.get("venue", "")
+        if isinstance(venue, list):
+            venue = ", ".join(str(v) for v in venue)
         abstract = paper.get("abstract", "")
         if authors:
             # pick the first author whose surname has letters (guards empty strings)

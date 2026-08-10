@@ -89,7 +89,7 @@ def analyze(papers):
     year_total = Counter(p["date"][:4] for p in papers if p.get("date"))
 
     # venue mix (OpenAlex entries carry venue; arXiv entries empty)
-    venue = Counter((p.get("venue") or "").strip() for p in papers)
+    venue = Counter((", ".join(p.get("venue")) if isinstance(p.get("venue"), list) else (p.get("venue") or "")).strip() for p in papers)
     venue.pop("", None)
     arxiv_count = sum(1 for p in papers if "arxiv.org" in p.get("url", ""))
     journal_count = n - arxiv_count
