@@ -1,42 +1,42 @@
 # Graph Paper Landscape Report
 
 **Generated:** 2026-08-11  
-**Corpus:** 18,099 papers (1980-2027) | 15,218 arXiv preprints · 2,881 journal/publisher records
+**Corpus:** 18,143 papers (1980-2027) | 15,262 arXiv preprints · 2,881 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-| Graph Neural Networks | 2425 | 398 | 591 | +48% | 13% |
-| Graph Applications | 1525 | 348 | 286 | -18% | 7% |
-| Knowledge Graphs | 1520 | 301 | 389 | +29% | 9% |
-| Network Science | 1466 | 244 | 280 | +15% | 6% |
-| Graph RAG | 1044 | 370 | 507 | +37% | 12% |
-| Graph Embeddings | 978 | 156 | 122 | -22% | 3% |
-| Ontologies & Schema | 965 | 218 | 335 | +54% | 8% |
-| Graph Algorithms | 959 | 178 | 232 | +30% | 5% |
-| Graph Machine Learning | 957 | 193 | 135 | -30% | 4% |
-| Graph Theory | 951 | 156 | 225 | +44% | 5% |
-| Graph Security & OSINT | 944 | 238 | 237 | -0% | 6% |
-| KG Construction & IE | 886 | 145 | 175 | +21% | 4% |
+| Graph Neural Networks | 2433 | 398 | 599 | +51% | 13% |
+| Knowledge Graphs | 1530 | 301 | 399 | +33% | 9% |
+| Graph Applications | 1526 | 348 | 287 | -18% | 7% |
+| Network Science | 1467 | 244 | 281 | +15% | 6% |
+| Graph RAG | 1047 | 370 | 510 | +38% | 12% |
+| Graph Embeddings | 980 | 156 | 124 | -21% | 3% |
+| Ontologies & Schema | 971 | 218 | 341 | +56% | 8% |
+| Graph Algorithms | 962 | 178 | 235 | +32% | 5% |
+| Graph Machine Learning | 959 | 193 | 137 | -29% | 4% |
+| Graph Theory | 952 | 156 | 226 | +45% | 5% |
+| Graph Security & OSINT | 946 | 238 | 239 | +0% | 6% |
+| KG Construction & IE | 887 | 145 | 176 | +21% | 4% |
 | Community Detection | 717 | 142 | 79 | -44% | 2% |
 | Temporal & Dynamic Graphs | 578 | 108 | 105 | -3% | 3% |
-| Graph Databases | 515 | 90 | 177 | +97% | 4% |
+| Graph Databases | 516 | 90 | 178 | +98% | 4% |
 | Semantic Web & Linked Data | 409 | 45 | 116 | +158% | 2% |
-| Distributed Graph Processing | 408 | 66 | 74 | +12% | 2% |
-| Graph Query Languages | 332 | 53 | 121 | +128% | 2% |
-| Graph Visualization | 261 | 46 | 60 | +30% | 1% |
+| Distributed Graph Processing | 409 | 66 | 75 | +14% | 2% |
+| Graph Query Languages | 333 | 53 | 122 | +130% | 2% |
+| Graph Visualization | 262 | 46 | 61 | +33% | 1% |
 | Graph Analytics | 259 | 39 | 35 | -10% | 1% |
 
 ## Research Aspects
 
-- **Theory** (theory): 2430 papers (13%) ######
-- **Mechanism** (mechanism): 1937 papers (11%) #####
-- **Method** (method): 2819 papers (16%) #######
-- **Application** (application): 5177 papers (29%) ##############
-- **Development** (development): 449 papers (2%) #
-- **Systems & Technology** (systems): 3186 papers (18%) ########
-- **Evaluation & Benchmarks** (evaluation): 1504 papers (8%) ####
+- **Theory** (theory): 2432 papers (13%) ######
+- **Mechanism** (mechanism): 1943 papers (11%) #####
+- **Method** (method): 2826 papers (16%) #######
+- **Application** (application): 5186 papers (29%) ##############
+- **Development** (development): 452 papers (2%) #
+- **Systems & Technology** (systems): 3199 papers (18%) ########
+- **Evaluation & Benchmarks** (evaluation): 1508 papers (8%) ####
 - **Reviews & Surveys** (review): 597 papers (3%) #
 
 ## Year Trend
@@ -66,25 +66,25 @@
 | 2023 | 3032 |
 | 2024 | 3461 |
 | 2025 | 3534 |
-| 2026 | 4281 |
+| 2026 | 4325 |
 | 2027 | 2 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| osint | 2 | 2 | 3.16× |
-| agentic | 238 | 272 | 2.76× |
-| graphrag | 191 | 284 | 2.12× |
-| agent | 751 | 1162 | 2.04× |
-| foundation model | 137 | 253 | 1.71× |
-| llm | 1332 | 2545 | 1.65× |
-| multimodal | 218 | 427 | 1.61× |
-| gql | 17 | 37 | 1.45× |
-| cypher | 37 | 84 | 1.39× |
-| memory | 418 | 961 | 1.37× |
-| causal | 145 | 338 | 1.35× |
-| supply chain | 32 | 75 | 1.35× |
+| osint | 2 | 2 | 3.14× |
+| agentic | 245 | 279 | 2.76× |
+| graphrag | 192 | 285 | 2.12× |
+| agent | 760 | 1171 | 2.04× |
+| foundation model | 139 | 255 | 1.71× |
+| llm | 1344 | 2557 | 1.65× |
+| multimodal | 220 | 429 | 1.61× |
+| gql | 17 | 37 | 1.44× |
+| memory | 424 | 967 | 1.38× |
+| cypher | 37 | 84 | 1.38× |
+| causal | 147 | 340 | 1.36× |
+| supply chain | 32 | 75 | 1.34× |
 
 ## Venue Landscape (Top Publishers)
 
@@ -119,14 +119,14 @@
 ## Hottest Cells
 
 - `graph-applications/application` — 695
-- `graph-neural-networks/application` — 616
-- `graph-theory/method` — 568
+- `graph-neural-networks/application` — 617
+- `graph-theory/method` — 569
 - `graph-neural-networks/theory` — 532
 - `graph-security/application` — 481
-- `knowledge-graphs/application` — 458
+- `knowledge-graphs/application` — 459
 - `network-science/application` — 413
-- `graph-neural-networks/systems` — 406
-- `graph-neural-networks/mechanism` — 340
+- `graph-neural-networks/systems` — 408
+- `graph-neural-networks/mechanism` — 343
 - `graph-algorithms/method` — 320
 
 ## Thin Cells (White Space)

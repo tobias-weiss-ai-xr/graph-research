@@ -1,7 +1,7 @@
 # Graph Research — Literature Review
 
 **Generated:** 2026-08-11  
-**Corpus:** 18,099 papers across 20 categories
+**Corpus:** 18,143 papers across 20 categories
 
 > Synthesis of the graph research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -11,14 +11,14 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Graph Neural Networks | 2425 |
-| 2 | Graph Applications | 1525 |
-| 3 | Knowledge Graphs | 1520 |
-| 4 | Network Science | 1466 |
-| 5 | Graph RAG | 1044 |
+| 1 | Graph Neural Networks | 2433 |
+| 2 | Knowledge Graphs | 1530 |
+| 3 | Graph Applications | 1526 |
+| 4 | Network Science | 1467 |
+| 5 | Graph RAG | 1047 |
 
 **Time span:** 1980–2027 (median year 2015)
-**Dominant aspects:** Application (5177), Systems & Technology (3186), Method (2819)
+**Dominant aspects:** Application (5186), Systems & Technology (3199), Method (2826)
 
 ---
 
@@ -28,26 +28,26 @@ Categories ranked by a momentum score combining recent output density with year-
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Graph Query Languages | 332 | 143 | 45 | +217.8% | 43% | 11.9 |
-| Graph RAG | 1044 | 673 | 287 | +134.5% | 64% | 56.1 |
-| Graph Databases | 515 | 217 | 87 | +149.4% | 42% | 18.1 |
-| Ontologies & Schema | 965 | 433 | 187 | +131.6% | 45% | 36.1 |
+| Graph Query Languages | 333 | 144 | 45 | +220.0% | 43% | 12.0 |
+| Graph RAG | 1047 | 676 | 287 | +135.5% | 65% | 56.3 |
+| Graph Databases | 516 | 218 | 87 | +150.6% | 42% | 18.2 |
+| Ontologies & Schema | 971 | 439 | 187 | +134.8% | 45% | 36.6 |
+| Graph Visualization | 262 | 82 | 42 | +95.2% | 31% | 6.8 |
 | Semantic Web & Linked Data | 409 | 128 | 66 | +93.9% | 31% | 10.7 |
-| Graph Visualization | 261 | 81 | 42 | +92.9% | 31% | 6.8 |
-| Graph Theory | 951 | 300 | 158 | +89.9% | 32% | 25.0 |
-| Graph Algorithms | 959 | 306 | 164 | +86.6% | 32% | 25.5 |
-| Graph Neural Networks | 2425 | 746 | 425 | +75.5% | 31% | 62.2 |
-| Graph Security & OSINT | 944 | 346 | 212 | +63.2% | 37% | 28.8 |
-| Knowledge Graphs | 1520 | 518 | 313 | +65.5% | 34% | 43.2 |
-| KG Construction & IE | 886 | 236 | 155 | +52.3% | 27% | 19.7 |
-| Network Science | 1466 | 373 | 271 | +37.6% | 25% | 31.1 |
-| Distributed Graph Processing | 408 | 97 | 70 | +38.6% | 24% | 8.1 |
+| Graph Theory | 952 | 301 | 158 | +90.5% | 32% | 25.1 |
+| Graph Algorithms | 962 | 309 | 164 | +88.4% | 32% | 25.8 |
+| Graph Neural Networks | 2433 | 754 | 425 | +77.4% | 31% | 62.8 |
+| Knowledge Graphs | 1530 | 528 | 313 | +68.7% | 34% | 44.0 |
+| Graph Security & OSINT | 946 | 348 | 212 | +64.2% | 37% | 29.0 |
+| KG Construction & IE | 887 | 237 | 155 | +52.9% | 27% | 19.8 |
+| Distributed Graph Processing | 409 | 98 | 70 | +40.0% | 24% | 8.2 |
+| Network Science | 1467 | 374 | 271 | +38.0% | 26% | 31.2 |
 | Temporal & Dynamic Graphs | 578 | 148 | 124 | +19.4% | 26% | 12.3 |
-| Graph Applications | 1525 | 415 | 372 | +11.6% | 27% | 34.6 |
+| Graph Applications | 1526 | 416 | 372 | +11.8% | 27% | 34.7 |
 | Graph Analytics | 259 | 49 | 44 | +11.4% | 19% | 4.1 |
-| Graph Embeddings | 978 | 182 | 175 | +4.0% | 19% | 15.2 |
+| Graph Embeddings | 980 | 184 | 175 | +5.1% | 19% | 15.3 |
 | Community Detection | 717 | 143 | 143 | +0.0% | 20% | 11.9 |
-| Graph Machine Learning | 957 | 201 | 226 | -11.1% | 21% | 16.8 |
+| Graph Machine Learning | 959 | 203 | 226 | -10.2% | 21% | 16.9 |
 
 ---
 
@@ -76,8 +76,8 @@ Categories ranked by a momentum score combining recent output density with year-
 | `graph-analytics/development` | 8 | 4 | 50% |
 | `graph-query-languages/mechanism` | 25 | 12 | 48% |
 | `distributed-graphs/evaluation` | 11 | 5 | 45% |
-| `graph-databases/development` | 25 | 11 | 44% |
 | `graph-visualization/theory` | 18 | 7 | 39% |
+| `distributed-graphs/development` | 18 | 7 | 39% |
 
 ---
 
@@ -107,7 +107,7 @@ Top venues by paper count (where present in the metadata):
 
 GNN research has shifted from new architectures toward expressivity limits, scalability and explainability — maturity signals for production.
 
-**Corpus size:** 2425 papers
+**Corpus size:** 2433 papers
 
 **Recent papers:**
 
@@ -117,25 +117,11 @@ GNN research has shifted from new architectures toward expressivity limits, scal
 
 ---
 
-### Graph Applications (`graph-applications`)
-
-Category is still saturating — see `statistics.json` for cell counts.
-
-**Corpus size:** 1525 papers
-
-**Recent papers:**
-
-- [2026-08] Pretraining on Call Graphs: When Binary Analysis Tasks Profit From Context — https://arxiv.org/abs/2608.02084v1
-- [2026-08] GARDRec: Decision-Level Graph Grounding for Large Language Model Recommendation — https://arxiv.org/abs/2608.00669v1
-- [2026-08] ATLAS: Learning to Recommend Across Unseen Domains — https://arxiv.org/abs/2608.03899v1
-
----
-
 ### Knowledge Graphs (`knowledge-graphs`)
 
 Knowledge graphs are consolidating as the context layer for LLM agents. The LLM×KG intersection dominates recent output: KG-augmented reasoning, hallucination mitigation and KG completion with LLMs.
 
-**Corpus size:** 1520 papers
+**Corpus size:** 1530 papers
 
 **Recent papers:**
 
@@ -145,11 +131,25 @@ Knowledge graphs are consolidating as the context layer for LLM agents. The LLM�
 
 ---
 
+### Graph Applications (`graph-applications`)
+
+Category is still saturating — see `statistics.json` for cell counts.
+
+**Corpus size:** 1526 papers
+
+**Recent papers:**
+
+- [2026-08] Pretraining on Call Graphs: When Binary Analysis Tasks Profit From Context — https://arxiv.org/abs/2608.02084v1
+- [2026-08] GARDRec: Decision-Level Graph Grounding for Large Language Model Recommendation — https://arxiv.org/abs/2608.00669v1
+- [2026-08] ATLAS: Learning to Recommend Across Unseen Domains — https://arxiv.org/abs/2608.03899v1
+
+---
+
 ### Network Science (`network-science`)
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 1466 papers
+**Corpus size:** 1467 papers
 
 **Recent papers:**
 
@@ -163,7 +163,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 GraphRAG is the fastest-moving category: a flood of method papers (hierarchical, agentic, adaptive retrieval) but relatively few production benchmarks — a gap worth covering on graphwiz.ai.
 
-**Corpus size:** 1044 papers
+**Corpus size:** 1047 papers
 
 **Recent papers:**
 
@@ -177,7 +177,7 @@ GraphRAG is the fastest-moving category: a flood of method papers (hierarchical,
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 978 papers
+**Corpus size:** 980 papers
 
 **Recent papers:**
 
@@ -191,7 +191,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 965 papers
+**Corpus size:** 971 papers
 
 **Recent papers:**
 
@@ -205,7 +205,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 959 papers
+**Corpus size:** 962 papers
 
 **Recent papers:**
 
@@ -219,7 +219,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Graph foundation models and self-supervised pre-training are emerging as the next wave, replacing task-specific GNN training.
 
-**Corpus size:** 957 papers
+**Corpus size:** 959 papers
 
 **Recent papers:**
 
@@ -233,7 +233,7 @@ Graph foundation models and self-supervised pre-training are emerging as the nex
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 951 papers
+**Corpus size:** 952 papers
 
 **Recent papers:**
 
@@ -247,7 +247,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Fraud detection, attack graphs and threat intelligence are the dominant applications; graph + GNN approaches increasingly beat tabular baselines.
 
-**Corpus size:** 944 papers
+**Corpus size:** 946 papers
 
 **Recent papers:**
 
@@ -261,7 +261,7 @@ Fraud detection, attack graphs and threat intelligence are the dominant applicat
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 886 papers
+**Corpus size:** 887 papers
 
 **Recent papers:**
 
@@ -303,7 +303,7 @@ Temporal and dynamic knowledge graphs are a clear growth cell — time-aware emb
 
 Graph database research clusters around query performance, indexing and benchmarks; native-graph engines and GQL adoption are recurring themes.
 
-**Corpus size:** 515 papers
+**Corpus size:** 516 papers
 
 **Recent papers:**
 
@@ -331,7 +331,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 408 papers
+**Corpus size:** 409 papers
 
 **Recent papers:**
 
@@ -345,7 +345,7 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 The move toward a GQL standard plus Cypher/SPARQL interop is the main story; query optimisation remains the core research problem.
 
-**Corpus size:** 332 papers
+**Corpus size:** 333 papers
 
 **Recent papers:**
 
@@ -359,7 +359,7 @@ The move toward a GQL standard plus Cypher/SPARQL interop is the main story; que
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 261 papers
+**Corpus size:** 262 papers
 
 **Recent papers:**
 

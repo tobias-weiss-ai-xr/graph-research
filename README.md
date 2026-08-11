@@ -1,6 +1,6 @@
 # Graph Research Corpus
 
-**Evidence base for graphwiz.ai** — Analysis of 18,099 research papers across 20 graph disciplines.
+**Evidence base for graphwiz.ai** — Analysis of 18,143 research papers across 20 graph disciplines.
 
 **Author:** Tobias Weiss
 **Contact:** tobias@graphwiz.ai
@@ -22,7 +22,7 @@ pipeline.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 18,099 |
+| **Papers Analyzed** | 18,143 |
 | **Graph Disciplines** | 20 |
 | **Time Span** | 1980-2027 |
 | **Research Aspects** | 8 |
@@ -31,12 +31,12 @@ pipeline.
 
 ### Top Evidence Areas
 
-1. **Graph Neural Networks** — 2425 papers
-2. **Graph Applications** — 1525 papers
-3. **Knowledge Graphs** — 1520 papers
-4. **Network Science** — 1466 papers
-5. **Graph RAG** — 1044 papers
-6. **Graph Embeddings** — 978 papers
+1. **Graph Neural Networks** — 2433 papers
+2. **Knowledge Graphs** — 1530 papers
+3. **Graph Applications** — 1526 papers
+4. **Network Science** — 1467 papers
+5. **Graph RAG** — 1047 papers
+6. **Graph Embeddings** — 980 papers
 
 ---
 
@@ -44,38 +44,38 @@ pipeline.
 
 | Category | Papers |
 |----------|--------|
-| Knowledge Graphs | 1520 |
-| Graph RAG | 1044 |
-| Graph Databases | 515 |
-| Graph Query Languages | 332 |
-| Graph Algorithms | 959 |
-| Graph Neural Networks | 2425 |
-| Graph Theory | 951 |
-| Network Science | 1466 |
-| Graph Embeddings | 978 |
-| KG Construction & IE | 886 |
+| Knowledge Graphs | 1530 |
+| Graph RAG | 1047 |
+| Graph Databases | 516 |
+| Graph Query Languages | 333 |
+| Graph Algorithms | 962 |
+| Graph Neural Networks | 2433 |
+| Graph Theory | 952 |
+| Network Science | 1467 |
+| Graph Embeddings | 980 |
+| KG Construction & IE | 887 |
 | Semantic Web & Linked Data | 409 |
-| Ontologies & Schema | 965 |
+| Ontologies & Schema | 971 |
 | Graph Analytics | 259 |
 | Community Detection | 717 |
-| Graph Visualization | 261 |
-| Graph Machine Learning | 957 |
+| Graph Visualization | 262 |
+| Graph Machine Learning | 959 |
 | Temporal & Dynamic Graphs | 578 |
-| Distributed Graph Processing | 408 |
-| Graph Security & OSINT | 944 |
-| Graph Applications | 1525 |
+| Distributed Graph Processing | 409 |
+| Graph Security & OSINT | 946 |
+| Graph Applications | 1526 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 2430 |
-| Mechanism | 1937 |
-| Method | 2819 |
-| Application | 5177 |
-| Development | 449 |
-| Systems & Technology | 3186 |
-| Evaluation & Benchmarks | 1504 |
+| Theory | 2432 |
+| Mechanism | 1943 |
+| Method | 2826 |
+| Application | 5186 |
+| Development | 452 |
+| Systems & Technology | 3199 |
+| Evaluation & Benchmarks | 1508 |
 | Reviews & Surveys | 597 |
 
 ---
@@ -83,11 +83,11 @@ pipeline.
 ## 🚀 Emerging Themes (Last 12 Months)
 
 1. **osint** — 2 papers
-2. **agentic** — 238 papers
-3. **graphrag** — 191 papers
-4. **agent** — 751 papers
-5. **graph rag** — 45 papers
-6. **retrieval** — 914 papers
+2. **agentic** — 245 papers
+3. **graphrag** — 192 papers
+4. **agent** — 760 papers
+5. **graph rag** — 46 papers
+6. **retrieval** — 926 papers
 
 ## 📈 Category Momentum (Last 12 Months)
 
@@ -95,12 +95,12 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 
 | Category | Total | Last 12m | Growth | 12-m share |
 |----------|------:|---------:|-------:|-----------:|
-| Graph Query Languages | 332 | 143 | +217.8% | 43% |
-| Graph RAG | 1044 | 673 | +134.5% | 64% |
-| Graph Databases | 515 | 217 | +149.4% | 42% |
-| Ontologies & Schema | 965 | 433 | +131.6% | 45% |
+| Graph Query Languages | 333 | 144 | +220.0% | 43% |
+| Graph RAG | 1047 | 676 | +135.5% | 65% |
+| Graph Databases | 516 | 218 | +150.6% | 42% |
+| Ontologies & Schema | 971 | 439 | +134.8% | 45% |
+| Graph Visualization | 262 | 82 | +95.2% | 31% |
 | Semantic Web & Linked Data | 409 | 128 | +93.9% | 31% |
-| Graph Visualization | 261 | 81 | +92.9% | 31% |
 
 ---
 
@@ -215,7 +215,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 18,099 papers across 1980-2027 to create a
+This corpus synthesizes 18,143 papers across 1980-2027 to create a
 comprehensive evidence base for graph-focused content and product decisions.
 
 ---
