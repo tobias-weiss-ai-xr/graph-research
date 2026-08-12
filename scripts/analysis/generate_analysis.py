@@ -358,7 +358,11 @@ def _url_venue(name):
     if not name:
         return ""
     if isinstance(name, list):
+<<<<<<< HEAD
         name = ", ".join(str(x) for x in name)
+=======
+        name = " ".join(str(x) for x in name)
+>>>>>>> origin/main
     s = re.sub(r" \(Cornell University\)| CERN European Organization for Nuclear", "", name.strip())
     return s
 
