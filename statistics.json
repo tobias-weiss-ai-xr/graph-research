@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 19026,
+    "total_papers": 19479,
     "generated_date": "2027-01",
     "taxonomy": {
       "categories": 20,
@@ -28,23 +28,23 @@
     "semantic-web": 499,
     "ontology": 1009,
     "graph-analytics": 259,
-    "community-detection": 717,
-    "graph-visualization": 262,
-    "graph-machine-learning": 959,
-    "temporal-graphs": 578,
-    "distributed-graphs": 409,
+    "community-detection": 790,
+    "graph-visualization": 411,
+    "graph-machine-learning": 1039,
+    "temporal-graphs": 655,
+    "distributed-graphs": 483,
     "graph-security": 948,
     "graph-applications": 1526
   },
   "by_subcategory": {
-    "theory": 2506,
-    "mechanism": 2041,
-    "method": 3065,
-    "application": 5400,
-    "development": 478,
-    "systems": 3343,
-    "evaluation": 1545,
-    "review": 648
+    "theory": 2539,
+    "mechanism": 2088,
+    "method": 3224,
+    "application": 5496,
+    "development": 486,
+    "systems": 3417,
+    "evaluation": 1572,
+    "review": 657
   },
   "by_year": {
     "1980": 4,
@@ -68,9 +68,9 @@
     "2021": 919,
     "2022": 2765,
     "2023": 3032,
-    "2024": 3743,
-    "2025": 3956,
-    "2026": 4504,
+    "2024": 3885,
+    "2025": 4239,
+    "2026": 4532,
     "2027": 2,
     "unknown": 19
   },
@@ -89,94 +89,95 @@
     "network-science/method": 322,
     "graphrag/application": 297,
     "ontology/application": 296,
+    "graph-machine-learning/application": 289,
     "graph-construction/application": 288,
     "graph-algorithms/theory": 287,
     "graphrag/systems": 280,
     "graph-embeddings/application": 275,
-    "graph-machine-learning/application": 268,
     "graph-applications/systems": 259,
     "network-science/systems": 254,
     "ontology/systems": 244,
+    "community-detection/application": 230,
     "graph-neural-networks/method": 220,
     "network-science/theory": 218,
     "graph-theory/theory": 217,
-    "community-detection/application": 211,
+    "temporal-graphs/application": 209,
     "knowledge-graphs/mechanism": 208,
     "knowledge-graphs/evaluation": 204,
     "network-science/mechanism": 204,
+    "graph-machine-learning/theory": 203,
     "graph-construction/systems": 199,
-    "graph-machine-learning/theory": 197,
-    "temporal-graphs/application": 197,
+    "distributed-graphs/systems": 191,
     "graph-embeddings/method": 190,
     "graph-neural-networks/evaluation": 188,
     "knowledge-graphs/method": 182,
     "graphrag/mechanism": 167,
     "graph-databases/application": 161,
-    "distributed-graphs/systems": 159,
     "graph-construction/evaluation": 158,
     "graph-applications/mechanism": 157,
     "graph-embeddings/theory": 156,
+    "graph-machine-learning/evaluation": 151,
+    "graph-machine-learning/method": 149,
     "graph-databases/systems": 148,
     "graph-algorithms/application": 147,
-    "graph-machine-learning/evaluation": 146,
+    "community-detection/method": 145,
     "graph-algorithms/systems": 143,
     "graph-security/systems": 143,
     "graph-embeddings/systems": 138,
+    "community-detection/theory": 138,
     "ontology/method": 136,
-    "community-detection/theory": 136,
     "semantic-web/application": 133,
     "graph-neural-networks/review": 130,
     "graph-embeddings/evaluation": 129,
     "graph-embeddings/mechanism": 128,
+    "temporal-graphs/method": 128,
+    "distributed-graphs/application": 126,
     "graph-applications/method": 124,
-    "graph-machine-learning/method": 121,
     "graph-construction/method": 118,
     "semantic-web/systems": 118,
     "graphrag/evaluation": 117,
     "graph-applications/theory": 117,
     "ontology/mechanism": 116,
-    "community-detection/method": 115,
-    "distributed-graphs/application": 115,
     "graphrag/method": 107,
     "graph-security/mechanism": 107,
     "graph-applications/evaluation": 107,
-    "community-detection/systems": 97,
+    "community-detection/systems": 105,
+    "graph-visualization/method": 102,
+    "graph-machine-learning/systems": 100,
     "graph-construction/mechanism": 96,
+    "graph-machine-learning/mechanism": 95,
     "semantic-web/method": 93,
-    "graph-machine-learning/systems": 91,
+    "graph-visualization/application": 91,
     "knowledge-graphs/review": 89,
     "graph-query-languages/application": 86,
-    "temporal-graphs/method": 86,
-    "graph-machine-learning/mechanism": 85,
     "graph-theory/systems": 82,
+    "temporal-graphs/evaluation": 80,
+    "distributed-graphs/theory": 78,
     "graph-security/theory": 77,
     "graph-databases/theory": 76,
     "graph-query-languages/method": 76,
     "graph-query-languages/systems": 76,
+    "community-detection/mechanism": 75,
     "graph-databases/method": 74,
-    "temporal-graphs/evaluation": 73,
+    "temporal-graphs/mechanism": 74,
+    "temporal-graphs/systems": 73,
     "graph-theory/application": 72,
-    "community-detection/mechanism": 71,
     "graph-analytics/application": 70,
     "knowledge-graphs/theory": 69,
     "ontology/evaluation": 69,
     "temporal-graphs/theory": 69,
-    "temporal-graphs/systems": 67,
-    "distributed-graphs/theory": 67,
-    "temporal-graphs/mechanism": 66,
+    "graph-visualization/systems": 68,
+    "community-detection/evaluation": 62,
     "ontology/theory": 59,
-    "graph-visualization/application": 58,
     "graph-algorithms/mechanism": 56,
-    "community-detection/evaluation": 56,
     "graph-query-languages/evaluation": 53,
     "network-science/evaluation": 53,
-    "graph-visualization/method": 52,
     "ontology/review": 49,
-    "graph-visualization/systems": 49,
     "graph-applications/development": 49,
     "graph-analytics/theory": 48,
     "semantic-web/mechanism": 47,
     "graph-analytics/systems": 46,
+    "graph-visualization/mechanism": 46,
     "graph-query-languages/theory": 45,
     "network-science/review": 45,
     "knowledge-graphs/development": 44,
@@ -188,51 +189,50 @@
     "graph-databases/mechanism": 37,
     "graph-neural-networks/development": 37,
     "graph-construction/development": 37,
+    "graph-machine-learning/review": 37,
     "graph-security/review": 37,
-    "graph-machine-learning/review": 36,
     "graph-databases/evaluation": 35,
     "graph-theory/mechanism": 35,
     "semantic-web/theory": 35,
     "graph-analytics/method": 33,
+    "graph-visualization/review": 33,
     "graph-query-languages/mechanism": 32,
+    "graph-visualization/theory": 32,
     "graph-embeddings/review": 31,
-    "graph-visualization/mechanism": 31,
     "graph-databases/development": 30,
     "graph-construction/theory": 30,
-    "graph-visualization/review": 29,
+    "distributed-graphs/mechanism": 29,
     "semantic-web/evaluation": 28,
     "graphrag/review": 27,
     "graph-algorithms/development": 27,
     "network-science/development": 26,
     "graph-construction/review": 26,
+    "community-detection/review": 26,
     "graph-algorithms/evaluation": 25,
     "semantic-web/development": 25,
     "graph-analytics/evaluation": 25,
+    "distributed-graphs/method": 24,
     "graph-databases/review": 23,
-    "community-detection/review": 23,
+    "graph-visualization/evaluation": 23,
     "graph-analytics/mechanism": 22,
     "semantic-web/review": 20,
-    "distributed-graphs/mechanism": 19,
-    "graph-visualization/theory": 18,
-    "distributed-graphs/development": 18,
+    "distributed-graphs/development": 19,
     "graph-applications/review": 18,
     "graph-theory/review": 17,
     "graph-query-languages/development": 16,
+    "graph-visualization/development": 16,
     "graph-security/development": 16,
     "graph-machine-learning/development": 15,
-    "distributed-graphs/method": 15,
     "graph-algorithms/review": 14,
-    "graph-visualization/evaluation": 14,
     "graph-query-languages/review": 14,
-    "temporal-graphs/development": 12,
+    "temporal-graphs/development": 13,
     "graph-theory/evaluation": 11,
     "graph-embeddings/development": 11,
-    "graph-visualization/development": 11,
     "distributed-graphs/evaluation": 11,
     "graph-theory/development": 9,
+    "temporal-graphs/review": 9,
+    "community-detection/development": 9,
     "graph-analytics/development": 8,
-    "temporal-graphs/review": 8,
-    "community-detection/development": 8,
     "graph-analytics/review": 7,
     "distributed-graphs/review": 5
   },
@@ -251,7 +251,7 @@
     },
     {
       "keyword": "agent",
-      "papers": 784
+      "papers": 785
     },
     {
       "keyword": "graph rag",
@@ -271,11 +271,11 @@
     },
     {
       "keyword": "llm",
-      "papers": 1388
+      "papers": 1390
     },
     {
       "keyword": "production",
-      "papers": 117
+      "papers": 118
     }
   ],
   "momentum": [
@@ -311,17 +311,6 @@
       "recent_share": 0.454,
       "papers_per_month": 38.2,
       "score": 167.7
-    },
-    {
-      "id": "graph-visualization",
-      "name": "Graph Visualization",
-      "total": 262,
-      "recent": 82,
-      "prior": 42,
-      "growth_pct": 95.2,
-      "recent_share": 0.313,
-      "papers_per_month": 6.8,
-      "score": 126.5
     },
     {
       "id": "graph-databases",
@@ -390,17 +379,6 @@
       "score": 70.5
     },
     {
-      "id": "distributed-graphs",
-      "name": "Distributed Graph Processing",
-      "total": 409,
-      "recent": 98,
-      "prior": 70,
-      "growth_pct": 40.0,
-      "recent_share": 0.24,
-      "papers_per_month": 8.2,
-      "score": 64.0
-    },
-    {
       "id": "graph-construction",
       "name": "KG Construction & IE",
       "total": 952,
@@ -410,17 +388,6 @@
       "recent_share": 0.27,
       "papers_per_month": 21.4,
       "score": 55.5
-    },
-    {
-      "id": "temporal-graphs",
-      "name": "Temporal & Dynamic Graphs",
-      "total": 578,
-      "recent": 148,
-      "prior": 124,
-      "growth_pct": 19.4,
-      "recent_share": 0.256,
-      "papers_per_month": 12.3,
-      "score": 45.0
     },
     {
       "id": "semantic-web",
@@ -467,26 +434,37 @@
       "score": 30.3
     },
     {
-      "id": "community-detection",
-      "name": "Community Detection",
-      "total": 717,
-      "recent": 143,
-      "prior": 143,
-      "growth_pct": 0.0,
-      "recent_share": 0.199,
-      "papers_per_month": 11.9,
-      "score": 19.9
+      "id": "graph-visualization",
+      "name": "Graph Visualization",
+      "total": 411,
+      "recent": 132,
+      "prior": 141,
+      "growth_pct": -6.4,
+      "recent_share": 0.321,
+      "papers_per_month": 11.0,
+      "score": 25.7
     },
     {
-      "id": "graph-machine-learning",
-      "name": "Graph Machine Learning",
-      "total": 959,
-      "recent": 203,
-      "prior": 226,
-      "growth_pct": -10.2,
-      "recent_share": 0.212,
-      "papers_per_month": 16.9,
-      "score": 11.0
+      "id": "temporal-graphs",
+      "name": "Temporal & Dynamic Graphs",
+      "total": 655,
+      "recent": 163,
+      "prior": 186,
+      "growth_pct": -12.4,
+      "recent_share": 0.249,
+      "papers_per_month": 13.6,
+      "score": 12.5
+    },
+    {
+      "id": "distributed-graphs",
+      "name": "Distributed Graph Processing",
+      "total": 483,
+      "recent": 112,
+      "prior": 130,
+      "growth_pct": -13.8,
+      "recent_share": 0.232,
+      "papers_per_month": 9.3,
+      "score": 9.4
     },
     {
       "id": "graph-embeddings",
@@ -498,6 +476,28 @@
       "recent_share": 0.181,
       "papers_per_month": 15.9,
       "score": -4.3
+    },
+    {
+      "id": "graph-machine-learning",
+      "name": "Graph Machine Learning",
+      "total": 1039,
+      "recent": 215,
+      "prior": 294,
+      "growth_pct": -26.9,
+      "recent_share": 0.207,
+      "papers_per_month": 17.9,
+      "score": -6.2
+    },
+    {
+      "id": "community-detection",
+      "name": "Community Detection",
+      "total": 790,
+      "recent": 150,
+      "prior": 209,
+      "growth_pct": -28.2,
+      "recent_share": 0.19,
+      "papers_per_month": 12.5,
+      "score": -9.2
     }
   ],
   "category_trajectory": {
@@ -648,8 +648,8 @@
       "2021": 53,
       "2022": 148,
       "2023": 146,
-      "2024": 145,
-      "2025": 142,
+      "2024": 169,
+      "2025": 191,
       "2026": 79
     },
     "graph-visualization": {
@@ -659,17 +659,17 @@
       "2021": 13,
       "2022": 43,
       "2023": 51,
-      "2024": 43,
-      "2025": 46,
-      "2026": 61
+      "2024": 80,
+      "2025": 136,
+      "2026": 83
     },
     "graph-machine-learning": {
       "2021": 44,
       "2022": 170,
       "2023": 178,
-      "2024": 237,
-      "2025": 193,
-      "2026": 137
+      "2024": 271,
+      "2025": 237,
+      "2026": 139
     },
     "temporal-graphs": {
       "2009": 1,
@@ -678,9 +678,9 @@
       "2021": 24,
       "2022": 77,
       "2023": 114,
-      "2024": 146,
-      "2025": 108,
-      "2026": 105,
+      "2024": 164,
+      "2025": 166,
+      "2026": 106,
       "2027": 1
     },
     "distributed-graphs": {
@@ -692,9 +692,9 @@
       "2021": 30,
       "2022": 66,
       "2023": 81,
-      "2024": 77,
-      "2025": 66,
-      "2026": 75
+      "2024": 106,
+      "2025": 108,
+      "2026": 78
     },
     "graph-security": {
       "2020": 1,
@@ -719,173 +719,173 @@
       "keyword": "osint",
       "recent": 2,
       "total": 2,
-      "burst_score": 3.15,
+      "burst_score": 3.17,
       "recent_share": 0.0003
     },
     {
       "keyword": "agentic",
       "recent": 248,
       "total": 283,
-      "burst_score": 2.76,
-      "recent_share": 0.041
+      "burst_score": 2.78,
+      "recent_share": 0.0404
     },
     {
       "keyword": "graphrag",
       "recent": 198,
       "total": 293,
-      "burst_score": 2.13,
-      "recent_share": 0.0327
+      "burst_score": 2.14,
+      "recent_share": 0.0322
     },
     {
       "keyword": "agent",
-      "recent": 784,
-      "total": 1200,
+      "recent": 785,
+      "total": 1211,
       "burst_score": 2.06,
-      "recent_share": 0.1297
+      "recent_share": 0.1278
     },
     {
       "keyword": "graph rag",
       "recent": 47,
       "total": 75,
-      "burst_score": 1.97,
-      "recent_share": 0.0078
+      "burst_score": 1.99,
+      "recent_share": 0.0076
     },
     {
       "keyword": "retrieval",
       "recent": 940,
       "total": 1660,
-      "burst_score": 1.78,
-      "recent_share": 0.1555
+      "burst_score": 1.8,
+      "recent_share": 0.153
     },
     {
       "keyword": "foundation model",
       "recent": 141,
       "total": 257,
-      "burst_score": 1.73,
-      "recent_share": 0.0233
+      "burst_score": 1.74,
+      "recent_share": 0.0229
     },
     {
       "keyword": "graph foundation",
       "recent": 81,
       "total": 151,
-      "burst_score": 1.69,
-      "recent_share": 0.0134
+      "burst_score": 1.7,
+      "recent_share": 0.0132
     },
     {
       "keyword": "llm",
-      "recent": 1388,
-      "total": 2637,
-      "burst_score": 1.66,
-      "recent_share": 0.2296
+      "recent": 1390,
+      "total": 2643,
+      "burst_score": 1.67,
+      "recent_share": 0.2262
     },
     {
       "keyword": "production",
-      "recent": 117,
-      "total": 226,
+      "recent": 118,
+      "total": 229,
       "burst_score": 1.63,
-      "recent_share": 0.0194
+      "recent_share": 0.0192
     },
     {
       "keyword": "multimodal",
-      "recent": 234,
-      "total": 457,
-      "burst_score": 1.61,
-      "recent_share": 0.0387
+      "recent": 235,
+      "total": 461,
+      "burst_score": 1.62,
+      "recent_share": 0.0382
     },
     {
       "keyword": "large language model",
-      "recent": 1085,
-      "total": 2353,
-      "burst_score": 1.45,
-      "recent_share": 0.1795
+      "recent": 1088,
+      "total": 2363,
+      "burst_score": 1.46,
+      "recent_share": 0.1771
     },
     {
       "keyword": "gql",
       "recent": 19,
       "total": 42,
-      "burst_score": 1.42,
+      "burst_score": 1.43,
       "recent_share": 0.0031
     },
     {
       "keyword": "memory",
-      "recent": 433,
-      "total": 979,
-      "burst_score": 1.39,
-      "recent_share": 0.0716
+      "recent": 434,
+      "total": 982,
+      "burst_score": 1.4,
+      "recent_share": 0.0706
     },
     {
       "keyword": "causal",
       "recent": 149,
-      "total": 350,
+      "total": 353,
       "burst_score": 1.34,
-      "recent_share": 0.0246
+      "recent_share": 0.0243
     }
   ],
   "source_breakdown": {
-    "arxiv": 15413,
-    "doi": 3232,
-    "other": 381
+    "arxiv": 15420,
+    "doi": 3671,
+    "other": 388
   },
   "venues": [
     {
       "name": "Zenodo (CERN European Organization for Nuclear Research)",
-      "papers": 197
+      "papers": 201
     },
     {
       "name": "arXiv",
-      "papers": 102
-    },
-    {
-      "name": "Lecture notes in computer science",
-      "papers": 69
-    },
-    {
-      "name": "Research Square",
-      "papers": 63
-    },
-    {
-      "name": "Scientific Reports",
-      "papers": 59
+      "papers": 104
     },
     {
       "name": "Expert Systems with Applications",
-      "papers": 58
+      "papers": 76
+    },
+    {
+      "name": "Lecture notes in computer science",
+      "papers": 72
+    },
+    {
+      "name": "Scientific Reports",
+      "papers": 65
+    },
+    {
+      "name": "Research Square",
+      "papers": 64
     },
     {
       "name": "Knowledge-Based Systems",
-      "papers": 46
+      "papers": 61
     },
     {
       "name": "IEEE Transactions on Knowledge and Data Engineering",
-      "papers": 38
+      "papers": 42
     },
     {
       "name": "Open MIND",
-      "papers": 36
+      "papers": 38
+    },
+    {
+      "name": "Neurocomputing",
+      "papers": 38
+    },
+    {
+      "name": "Applied Sciences",
+      "papers": 34
     },
     {
       "name": "Cairn.info",
       "papers": 34
     },
     {
-      "name": "Applied Sciences",
-      "papers": 30
+      "name": "IEEE Access",
+      "papers": 31
     },
     {
       "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "papers": 30
+    },
+    {
+      "name": "Neural Networks",
       "papers": 28
-    },
-    {
-      "name": "Neurocomputing",
-      "papers": 28
-    },
-    {
-      "name": "IEEE Access",
-      "papers": 27
-    },
-    {
-      "name": "International Journal on Semantic Web and Information Systems",
-      "papers": 27
     }
   ],
   "gaps": {
@@ -903,15 +903,15 @@
         "papers": 8
       },
       {
+        "cell": "graph-theory/development",
+        "papers": 9
+      },
+      {
         "cell": "temporal-graphs/review",
-        "papers": 8
+        "papers": 9
       },
       {
         "cell": "community-detection/development",
-        "papers": 8
-      },
-      {
-        "cell": "graph-theory/development",
         "papers": 9
       },
       {
@@ -923,12 +923,12 @@
         "papers": 11
       },
       {
-        "cell": "graph-visualization/development",
+        "cell": "distributed-graphs/evaluation",
         "papers": 11
       },
       {
-        "cell": "distributed-graphs/evaluation",
-        "papers": 11
+        "cell": "temporal-graphs/development",
+        "papers": 13
       }
     ],
     "white_space": [
@@ -939,16 +939,10 @@
         "recent_share": 0.71
       },
       {
-        "cell": "distributed-graphs/method",
-        "total": 15,
-        "recent": 8,
-        "recent_share": 0.53
-      },
-      {
         "cell": "temporal-graphs/development",
-        "total": 12,
-        "recent": 6,
-        "recent_share": 0.5
+        "total": 13,
+        "recent": 7,
+        "recent_share": 0.54
       },
       {
         "cell": "graph-analytics/development",
@@ -969,28 +963,34 @@
         "recent_share": 0.44
       },
       {
+        "cell": "graph-visualization/development",
+        "total": 16,
+        "recent": 7,
+        "recent_share": 0.44
+      },
+      {
         "cell": "graph-theory/development",
         "total": 9,
         "recent": 4,
         "recent_share": 0.44
       },
       {
-        "cell": "graph-visualization/theory",
-        "total": 18,
-        "recent": 7,
-        "recent_share": 0.39
+        "cell": "distributed-graphs/method",
+        "total": 24,
+        "recent": 9,
+        "recent_share": 0.38
       },
       {
         "cell": "distributed-graphs/development",
-        "total": 18,
+        "total": 19,
         "recent": 7,
-        "recent_share": 0.39
+        "recent_share": 0.37
       },
       {
         "cell": "community-detection/development",
-        "total": 8,
+        "total": 9,
         "recent": 3,
-        "recent_share": 0.38
+        "recent_share": 0.33
       }
     ]
   },
@@ -1012,12 +1012,12 @@
       "papers": 27
     },
     {
-      "name": "Xin Wang",
+      "name": "Heiko Paulheim",
       "papers": 25
     },
     {
-      "name": "Heiko Paulheim",
-      "papers": 24
+      "name": "Xin Wang",
+      "papers": 25
     },
     {
       "name": "Xiang Li",

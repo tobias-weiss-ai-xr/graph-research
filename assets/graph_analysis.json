@@ -911,47 +911,47 @@
    "id": "community-detection",
    "name": "Community Detection",
    "color": "#b392f0",
-   "count": 717,
+   "count": 790,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 136
+     "count": 138
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 71
+     "count": 75
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 115
+     "count": 145
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 211
+     "count": 230
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 8
+     "count": 9
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 97
+     "count": 105
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 56
+     "count": 62
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 23
+     "count": 26
     }
    ],
    "trajectory": {
@@ -961,67 +961,67 @@
     "2021": 53,
     "2022": 148,
     "2023": 146,
-    "2024": 145,
-    "2025": 142,
+    "2024": 169,
+    "2025": 191,
     "2026": 79
    },
    "momentum": {
     "id": "community-detection",
     "name": "Community Detection",
-    "total": 717,
-    "recent": 143,
-    "prior": 143,
-    "growth_pct": 0.0,
-    "recent_share": 0.199,
-    "papers_per_month": 11.9,
-    "score": 19.9
+    "total": 790,
+    "recent": 150,
+    "prior": 209,
+    "growth_pct": -28.2,
+    "recent_share": 0.19,
+    "papers_per_month": 12.5,
+    "score": -9.2
    }
   },
   {
    "id": "graph-visualization",
    "name": "Graph Visualization",
    "color": "#ffc680",
-   "count": 262,
+   "count": 411,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 18
+     "count": 32
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 31
+     "count": 46
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 52
+     "count": 102
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 58
+     "count": 91
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 11
+     "count": 16
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 49
+     "count": 68
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 14
+     "count": 23
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 29
+     "count": 33
     }
    ],
    "trajectory": {
@@ -1031,47 +1031,47 @@
     "2021": 13,
     "2022": 43,
     "2023": 51,
-    "2024": 43,
-    "2025": 46,
-    "2026": 61
+    "2024": 80,
+    "2025": 136,
+    "2026": 83
    },
    "momentum": {
     "id": "graph-visualization",
     "name": "Graph Visualization",
-    "total": 262,
-    "recent": 82,
-    "prior": 42,
-    "growth_pct": 95.2,
-    "recent_share": 0.313,
-    "papers_per_month": 6.8,
-    "score": 126.5
+    "total": 411,
+    "recent": 132,
+    "prior": 141,
+    "growth_pct": -6.4,
+    "recent_share": 0.321,
+    "papers_per_month": 11.0,
+    "score": 25.7
    }
   },
   {
    "id": "graph-machine-learning",
    "name": "Graph Machine Learning",
    "color": "#85e89d",
-   "count": 959,
+   "count": 1039,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 197
+     "count": 203
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 85
+     "count": 95
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 121
+     "count": 149
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 268
+     "count": 289
     },
     {
      "id": "development",
@@ -1081,44 +1081,44 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 91
+     "count": 100
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 146
+     "count": 151
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 36
+     "count": 37
     }
    ],
    "trajectory": {
     "2021": 44,
     "2022": 170,
     "2023": 178,
-    "2024": 237,
-    "2025": 193,
-    "2026": 137
+    "2024": 271,
+    "2025": 237,
+    "2026": 139
    },
    "momentum": {
     "id": "graph-machine-learning",
     "name": "Graph Machine Learning",
-    "total": 959,
-    "recent": 203,
-    "prior": 226,
-    "growth_pct": -10.2,
-    "recent_share": 0.212,
-    "papers_per_month": 16.9,
-    "score": 11.0
+    "total": 1039,
+    "recent": 215,
+    "prior": 294,
+    "growth_pct": -26.9,
+    "recent_share": 0.207,
+    "papers_per_month": 17.9,
+    "score": -6.2
    }
   },
   {
    "id": "temporal-graphs",
    "name": "Temporal & Dynamic Graphs",
    "color": "#f778ba",
-   "count": 578,
+   "count": 655,
    "subcategories": [
     {
      "id": "theory",
@@ -1128,37 +1128,37 @@
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 66
+     "count": 74
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 86
+     "count": 128
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 197
+     "count": 209
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 12
+     "count": 13
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 67
+     "count": 73
     },
     {
      "id": "evaluation",
      "name": "Evaluation & Benchmarks",
-     "count": 73
+     "count": 80
     },
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 8
+     "count": 9
     }
    ],
    "trajectory": {
@@ -1168,58 +1168,58 @@
     "2021": 24,
     "2022": 77,
     "2023": 114,
-    "2024": 146,
-    "2025": 108,
-    "2026": 105,
+    "2024": 164,
+    "2025": 166,
+    "2026": 106,
     "2027": 1
    },
    "momentum": {
     "id": "temporal-graphs",
     "name": "Temporal & Dynamic Graphs",
-    "total": 578,
-    "recent": 148,
-    "prior": 124,
-    "growth_pct": 19.4,
-    "recent_share": 0.256,
-    "papers_per_month": 12.3,
-    "score": 45.0
+    "total": 655,
+    "recent": 163,
+    "prior": 186,
+    "growth_pct": -12.4,
+    "recent_share": 0.249,
+    "papers_per_month": 13.6,
+    "score": 12.5
    }
   },
   {
    "id": "distributed-graphs",
    "name": "Distributed Graph Processing",
    "color": "#68a4ff",
-   "count": 409,
+   "count": 483,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 67
+     "count": 78
     },
     {
      "id": "mechanism",
      "name": "Mechanism",
-     "count": 19
+     "count": 29
     },
     {
      "id": "method",
      "name": "Method",
-     "count": 15
+     "count": 24
     },
     {
      "id": "application",
      "name": "Application",
-     "count": 115
+     "count": 126
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 18
+     "count": 19
     },
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 159
+     "count": 191
     },
     {
      "id": "evaluation",
@@ -1241,20 +1241,20 @@
     "2021": 30,
     "2022": 66,
     "2023": 81,
-    "2024": 77,
-    "2025": 66,
-    "2026": 75
+    "2024": 106,
+    "2025": 108,
+    "2026": 78
    },
    "momentum": {
     "id": "distributed-graphs",
     "name": "Distributed Graph Processing",
-    "total": 409,
-    "recent": 98,
-    "prior": 70,
-    "growth_pct": 40.0,
-    "recent_share": 0.24,
-    "papers_per_month": 8.2,
-    "score": 64.0
+    "total": 483,
+    "recent": 112,
+    "prior": 130,
+    "growth_pct": -13.8,
+    "recent_share": 0.232,
+    "papers_per_month": 9.3,
+    "score": 9.4
    }
   },
   {
@@ -1397,42 +1397,42 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 2506
+   "count": 2539
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 2041
+   "count": 2088
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 3065
+   "count": 3224
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 5400
+   "count": 5496
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 478
+   "count": 486
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 3343
+   "count": 3417
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Benchmarks",
-   "count": 1545
+   "count": 1572
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 648
+   "count": 657
   }
  ],
  "timeline": [
@@ -45359,6 +45359,11 @@
   [
    "2024-08",
    "community-detection",
+   "application"
+  ],
+  [
+   "2024-08",
+   "community-detection",
    "evaluation"
   ],
   [
@@ -45405,6 +45410,21 @@
    "2024-08",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2024-08",
+   "distributed-graphs",
+   "development"
+  ],
+  [
+   "2024-08",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2024-08",
@@ -45870,6 +45890,11 @@
    "2024-08",
    "graph-machine-learning",
    "application"
+  ],
+  [
+   "2024-08",
+   "graph-machine-learning",
+   "evaluation"
   ],
   [
    "2024-08",
@@ -45890,6 +45915,21 @@
    "2024-08",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2024-08",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2024-08",
@@ -45914,6 +45954,11 @@
   [
    "2024-08",
    "graph-machine-learning",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "graph-machine-learning",
    "theory"
   ],
   [
@@ -46315,6 +46360,16 @@
    "2024-08",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2024-08",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2024-08",
+   "graph-visualization",
+   "application"
   ],
   [
    "2024-08",
@@ -46325,6 +46380,16 @@
    "2024-08",
    "graph-visualization",
    "evaluation"
+  ],
+  [
+   "2024-08",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "graph-visualization",
+   "method"
   ],
   [
    "2024-08",
@@ -46345,6 +46410,11 @@
    "2024-08",
    "graph-visualization",
    "review"
+  ],
+  [
+   "2024-08",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2024-08",
@@ -46850,6 +46920,11 @@
    "2024-08",
    "temporal-graphs",
    "application"
+  ],
+  [
+   "2024-08",
+   "temporal-graphs",
+   "evaluation"
   ],
   [
    "2024-08",
@@ -46880,6 +46955,11 @@
    "2024-08",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2024-08",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2024-08",
@@ -46904,6 +46984,11 @@
   [
    "2024-09",
    "community-detection",
+   "application"
+  ],
+  [
+   "2024-09",
+   "community-detection",
    "evaluation"
   ],
   [
@@ -46915,6 +47000,21 @@
    "2024-09",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2024-09",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2024-09",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2024-09",
+   "community-detection",
+   "method"
   ],
   [
    "2024-09",
@@ -46925,6 +47025,16 @@
    "2024-09",
    "community-detection",
    "review"
+  ],
+  [
+   "2024-09",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "community-detection",
+   "systems"
   ],
   [
    "2024-09",
@@ -46955,6 +47065,31 @@
    "2024-09",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2024-09",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "distributed-graphs",
+   "method"
+  ],
+  [
+   "2024-09",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2024-09",
@@ -47460,6 +47595,11 @@
    "2024-09",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2024-09",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2024-09",
@@ -47500,11 +47640,31 @@
    "2024-09",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2024-09",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2024-09",
    "graph-machine-learning",
    "method"
+  ],
+  [
+   "2024-09",
+   "graph-machine-learning",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "graph-machine-learning",
+   "systems"
   ],
   [
    "2024-09",
@@ -47974,12 +48134,67 @@
   [
    "2024-09",
    "graph-visualization",
+   "application"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "evaluation"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
    "evaluation"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "mechanism"
   ],
   [
    "2024-09",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2024-09",
@@ -48460,6 +48675,16 @@
    "2024-09",
    "temporal-graphs",
    "evaluation"
+  ],
+  [
+   "2024-09",
+   "temporal-graphs",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2024-09",
@@ -48495,6 +48720,21 @@
    "2024-09",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2024-10",
+   "community-detection",
+   "application"
+  ],
+  [
+   "2024-10",
+   "community-detection",
+   "application"
+  ],
+  [
+   "2024-10",
+   "community-detection",
+   "application"
   ],
   [
    "2024-10",
@@ -48544,6 +48784,16 @@
   [
    "2024-10",
    "community-detection",
+   "method"
+  ],
+  [
+   "2024-10",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "community-detection",
    "systems"
   ],
   [
@@ -48574,7 +48824,7 @@
   [
    "2024-10",
    "distributed-graphs",
-   "systems"
+   "method"
   ],
   [
    "2024-10",
@@ -48584,16 +48834,46 @@
   [
    "2024-10",
    "distributed-graphs",
-   "theory"
+   "systems"
   ],
   [
    "2024-10",
    "distributed-graphs",
-   "theory"
+   "systems"
   ],
   [
    "2024-10",
-   "graph-algorithms",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "graph-algorithms",
    "application"
   ],
   [
@@ -49230,6 +49510,11 @@
    "2024-10",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2024-10",
@@ -49270,6 +49555,21 @@
    "2024-10",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
+   "mechanism"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
+   "mechanism"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
+   "mechanism"
   ],
   [
    "2024-10",
@@ -49280,6 +49580,11 @@
    "2024-10",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2024-10",
@@ -49304,7 +49609,17 @@
   [
    "2024-10",
    "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
    "review"
+  ],
+  [
+   "2024-10",
+   "graph-machine-learning",
+   "systems"
   ],
   [
    "2024-10",
@@ -49890,11 +50205,36 @@
    "2024-10",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2024-10",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2024-10",
+   "graph-visualization",
+   "application"
   ],
   [
    "2024-10",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2024-10",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-10",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-10",
+   "graph-visualization",
+   "review"
   ],
   [
    "2024-10",
@@ -50640,6 +50980,11 @@
    "2024-10",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-10",
+   "temporal-graphs",
+   "application"
   ],
   [
    "2024-10",
@@ -50669,6 +51014,26 @@
   [
    "2024-10",
    "temporal-graphs",
+   "application"
+  ],
+  [
+   "2024-10",
+   "temporal-graphs",
+   "evaluation"
+  ],
+  [
+   "2024-10",
+   "temporal-graphs",
+   "mechanism"
+  ],
+  [
+   "2024-10",
+   "temporal-graphs",
+   "mechanism"
+  ],
+  [
+   "2024-10",
+   "temporal-graphs",
    "mechanism"
   ],
   [
@@ -50680,11 +51045,26 @@
    "2024-10",
    "temporal-graphs",
    "method"
+  ],
+  [
+   "2024-10",
+   "temporal-graphs",
+   "review"
   ],
   [
    "2024-10",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "application"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "application"
   ],
   [
    "2024-11",
@@ -50725,6 +51105,31 @@
    "2024-11",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "method"
   ],
   [
    "2024-11",
@@ -50740,6 +51145,11 @@
    "2024-11",
    "community-detection",
    "method"
+  ],
+  [
+   "2024-11",
+   "community-detection",
+   "systems"
   ],
   [
    "2024-11",
@@ -50775,6 +51185,21 @@
    "2024-11",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2024-11",
+   "distributed-graphs",
+   "method"
+  ],
+  [
+   "2024-11",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2024-11",
@@ -50788,6 +51213,21 @@
   ],
   [
    "2024-11",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-11",
    "graph-algorithms",
    "application"
   ],
@@ -51295,6 +51735,16 @@
    "2024-11",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2024-11",
@@ -51320,11 +51770,26 @@
    "2024-11",
    "graph-machine-learning",
    "application"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "evaluation"
   ],
   [
    "2024-11",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2024-11",
@@ -51334,12 +51799,22 @@
   [
    "2024-11",
    "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
    "review"
   ],
   [
    "2024-11",
    "graph-machine-learning",
    "review"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "systems"
   ],
   [
    "2024-11",
@@ -51380,6 +51855,11 @@
    "2024-11",
    "graph-machine-learning",
    "systems"
+  ],
+  [
+   "2024-11",
+   "graph-machine-learning",
+   "theory"
   ],
   [
    "2024-11",
@@ -51879,51 +52359,111 @@
   [
    "2024-11",
    "graph-visualization",
-   "method"
+   "application"
   ],
   [
    "2024-11",
-   "graphrag",
+   "graph-visualization",
    "application"
   ],
   [
    "2024-11",
-   "graphrag",
+   "graph-visualization",
    "application"
   ],
   [
    "2024-11",
-   "graphrag",
+   "graph-visualization",
    "application"
   ],
   [
    "2024-11",
-   "graphrag",
-   "development"
+   "graph-visualization",
+   "evaluation"
   ],
   [
    "2024-11",
-   "graphrag",
-   "evaluation"
+   "graph-visualization",
+   "mechanism"
   ],
   [
    "2024-11",
-   "graphrag",
-   "evaluation"
+   "graph-visualization",
+   "method"
   ],
   [
    "2024-11",
-   "graphrag",
-   "mechanism"
+   "graph-visualization",
+   "method"
   ],
   [
    "2024-11",
-   "graphrag",
-   "mechanism"
+   "graph-visualization",
+   "review"
+  ],
+  [
+   "2024-11",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "graph-visualization",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "graph-visualization",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "application"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "application"
   ],
   [
    "2024-11",
    "graphrag",
+   "application"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "development"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "evaluation"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "graphrag",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "graphrag",
    "method"
   ],
   [
@@ -52400,6 +52940,31 @@
    "2024-11",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2024-11",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2024-11",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2024-11",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2024-11",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2024-11",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2024-11",
@@ -52415,6 +52980,16 @@
    "2024-11",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2024-12",
+   "community-detection",
+   "application"
+  ],
+  [
+   "2024-12",
+   "community-detection",
+   "application"
   ],
   [
    "2024-12",
@@ -52445,6 +53020,11 @@
    "2024-12",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2024-12",
+   "community-detection",
+   "method"
   ],
   [
    "2024-12",
@@ -52455,6 +53035,11 @@
    "2024-12",
    "community-detection",
    "method"
+  ],
+  [
+   "2024-12",
+   "community-detection",
+   "review"
   ],
   [
    "2024-12",
@@ -52485,11 +53070,56 @@
    "2024-12",
    "community-detection",
    "theory"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "application"
   ],
   [
    "2024-12",
    "distributed-graphs",
+   "application"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "application"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
    "mechanism"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "method"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2024-12",
@@ -52970,6 +53600,16 @@
    "2024-12",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2024-12",
@@ -53015,6 +53655,11 @@
    "2024-12",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "mechanism"
   ],
   [
    "2024-12",
@@ -53025,6 +53670,31 @@
    "2024-12",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2024-12",
@@ -53039,6 +53709,11 @@
   [
    "2024-12",
    "graph-machine-learning",
+   "review"
+  ],
+  [
+   "2024-12",
+   "graph-machine-learning",
    "systems"
   ],
   [
@@ -53520,11 +54195,31 @@
    "2024-12",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2024-12",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-visualization",
+   "method"
   ],
   [
    "2024-12",
    "graph-visualization",
    "systems"
+  ],
+  [
+   "2024-12",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2024-12",
@@ -54110,6 +54805,11 @@
    "2024-12",
    "temporal-graphs",
    "evaluation"
+  ],
+  [
+   "2024-12",
+   "temporal-graphs",
+   "mechanism"
   ],
   [
    "2024-12",
@@ -54120,6 +54820,11 @@
    "2024-12",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2024-12",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2024-12",
@@ -54135,6 +54840,11 @@
    "2024-12",
    "temporal-graphs",
    "review"
+  ],
+  [
+   "2024-12",
+   "temporal-graphs",
+   "systems"
   ],
   [
    "2024-12",
@@ -54179,7 +54889,12 @@
   [
    "2025-01",
    "community-detection",
-   "evaluation"
+   "application"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "application"
   ],
   [
    "2025-01",
@@ -54189,12 +54904,12 @@
   [
    "2025-01",
    "community-detection",
-   "mechanism"
+   "evaluation"
   ],
   [
    "2025-01",
    "community-detection",
-   "mechanism"
+   "evaluation"
   ],
   [
    "2025-01",
@@ -54204,40 +54919,115 @@
   [
    "2025-01",
    "community-detection",
-   "systems"
+   "mechanism"
   ],
   [
    "2025-01",
    "community-detection",
-   "systems"
+   "mechanism"
   ],
   [
    "2025-01",
    "community-detection",
-   "systems"
+   "method"
   ],
   [
    "2025-01",
    "community-detection",
-   "systems"
+   "method"
   ],
   [
    "2025-01",
    "community-detection",
-   "systems"
+   "method"
   ],
   [
    "2025-01",
    "community-detection",
-   "theory"
+   "method"
   ],
   [
    "2025-01",
    "community-detection",
-   "theory"
+   "method"
   ],
   [
    "2025-01",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "community-detection",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-01",
    "distributed-graphs",
    "systems"
   ],
@@ -54245,6 +55035,26 @@
    "2025-01",
    "distributed-graphs",
    "systems"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "theory"
   ],
   [
    "2025-01",
@@ -54785,6 +55595,11 @@
    "2025-01",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-01",
@@ -54800,11 +55615,26 @@
    "2025-01",
    "graph-machine-learning",
    "application"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "evaluation"
   ],
   [
    "2025-01",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "mechanism"
   ],
   [
    "2025-01",
@@ -54815,11 +55645,31 @@
    "2025-01",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-01",
    "graph-machine-learning",
    "method"
+  ],
+  [
+   "2025-01",
+   "graph-machine-learning",
+   "theory"
   ],
   [
    "2025-01",
@@ -55375,6 +56225,86 @@
    "2025-01",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-01",
@@ -55384,6 +56314,36 @@
   [
    "2025-01",
    "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
    "review"
   ],
   [
@@ -55415,11 +56375,36 @@
    "2025-01",
    "graph-visualization",
    "review"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2025-01",
    "graph-visualization",
    "systems"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-01",
@@ -56090,46 +57075,121 @@
    "2025-01",
    "semantic-web",
    "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "systems"
   ],
   [
    "2025-01",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-01",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-01",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-01",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-01",
    "temporal-graphs",
-   "application"
+   "method"
   ],
   [
    "2025-01",
    "temporal-graphs",
-   "evaluation"
+   "method"
   ],
   [
    "2025-01",
    "temporal-graphs",
-   "evaluation"
+   "systems"
   ],
   [
    "2025-01",
    "temporal-graphs",
-   "mechanism"
+   "systems"
   ],
   [
    "2025-01",
    "temporal-graphs",
-   "method"
+   "systems"
   ],
   [
    "2025-01",
@@ -56170,6 +57230,26 @@
    "2025-02",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-02",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-02",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-02",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-02",
+   "community-detection",
+   "method"
   ],
   [
    "2025-02",
@@ -56180,6 +57260,11 @@
    "2025-02",
    "community-detection",
    "method"
+  ],
+  [
+   "2025-02",
+   "community-detection",
+   "theory"
   ],
   [
    "2025-02",
@@ -56195,10 +57280,25 @@
    "2025-02",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2025-02",
+   "distributed-graphs",
+   "mechanism"
   ],
   [
    "2025-02",
    "distributed-graphs",
+   "method"
+  ],
+  [
+   "2025-02",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "distributed-graphs",
    "theory"
   ],
   [
@@ -56735,6 +57835,16 @@
    "2025-02",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-02",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2025-02",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-02",
@@ -56810,6 +57920,26 @@
    "2025-02",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2025-02",
+   "graph-machine-learning",
+   "mechanism"
+  ],
+  [
+   "2025-02",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-02",
@@ -57259,6 +58389,31 @@
   [
    "2025-02",
    "graph-theory",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-02",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-02",
+   "graph-visualization",
+   "evaluation"
+  ],
+  [
+   "2025-02",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-02",
+   "graph-visualization",
    "theory"
   ],
   [
@@ -57830,6 +58985,11 @@
    "2025-02",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-02",
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-02",
@@ -57850,11 +59010,21 @@
    "2025-02",
    "temporal-graphs",
    "application"
+  ],
+  [
+   "2025-02",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-02",
    "temporal-graphs",
    "review"
+  ],
+  [
+   "2025-02",
+   "temporal-graphs",
+   "systems"
   ],
   [
    "2025-02",
@@ -57879,12 +59049,52 @@
   [
    "2025-03",
    "community-detection",
+   "application"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "application"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "evaluation"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "evaluation"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "evaluation"
+  ],
+  [
+   "2025-03",
+   "community-detection",
    "evaluation"
   ],
   [
    "2025-03",
    "community-detection",
    "evaluation"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-03",
+   "community-detection",
+   "method"
   ],
   [
    "2025-03",
@@ -57930,11 +59140,31 @@
    "2025-03",
    "distributed-graphs",
    "development"
+  ],
+  [
+   "2025-03",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "distributed-graphs",
+   "method"
   ],
   [
    "2025-03",
    "distributed-graphs",
    "method"
+  ],
+  [
+   "2025-03",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2025-03",
@@ -58480,6 +59710,16 @@
    "2025-03",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-03",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2025-03",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-03",
@@ -58550,6 +59790,11 @@
    "2025-03",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2025-03",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-03",
@@ -58565,6 +59810,11 @@
    "2025-03",
    "graph-machine-learning",
    "review"
+  ],
+  [
+   "2025-03",
+   "graph-machine-learning",
+   "systems"
   ],
   [
    "2025-03",
@@ -58603,6 +59853,11 @@
   ],
   [
    "2025-03",
+   "graph-machine-learning",
+   "theory"
+  ],
+  [
+   "2025-03",
    "graph-neural-networks",
    "application"
   ],
@@ -58915,11 +60170,31 @@
    "2025-03",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-03",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-03",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-03",
+   "graph-visualization",
+   "application"
   ],
   [
    "2025-03",
    "graph-visualization",
    "systems"
+  ],
+  [
+   "2025-03",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-03",
@@ -59330,6 +60605,11 @@
    "2025-03",
    "semantic-web",
    "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "systems"
   ],
   [
    "2025-03",
@@ -59340,51 +60620,71 @@
    "2025-03",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-03",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-03",
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-03",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-03",
-   "semantic-web",
-   "theory"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "application"
+   "evaluation"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "application"
+   "evaluation"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "application"
+   "mechanism"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "application"
+   "method"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "application"
+   "method"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "evaluation"
+   "method"
   ],
   [
    "2025-03",
    "temporal-graphs",
-   "evaluation"
+   "method"
   ],
   [
    "2025-03",
@@ -59395,6 +60695,11 @@
    "2025-03",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2025-04",
+   "community-detection",
+   "application"
   ],
   [
    "2025-04",
@@ -59430,11 +60735,31 @@
    "2025-04",
    "community-detection",
    "evaluation"
+  ],
+  [
+   "2025-04",
+   "community-detection",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "community-detection",
+   "mechanism"
   ],
   [
    "2025-04",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-04",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-04",
+   "community-detection",
+   "method"
   ],
   [
    "2025-04",
@@ -59474,12 +60799,22 @@
   [
    "2025-04",
    "distributed-graphs",
+   "application"
+  ],
+  [
+   "2025-04",
+   "distributed-graphs",
    "evaluation"
   ],
   [
    "2025-04",
    "distributed-graphs",
    "mechanism"
+  ],
+  [
+   "2025-04",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2025-04",
@@ -60010,6 +61345,11 @@
    "2025-04",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-04",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-04",
@@ -60060,11 +61400,21 @@
    "2025-04",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2025-04",
+   "graph-machine-learning",
+   "mechanism"
   ],
   [
    "2025-04",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2025-04",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-04",
@@ -60080,6 +61430,11 @@
    "2025-04",
    "graph-machine-learning",
    "systems"
+  ],
+  [
+   "2025-04",
+   "graph-machine-learning",
+   "theory"
   ],
   [
    "2025-04",
@@ -60460,11 +61815,21 @@
    "2025-04",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "application"
   ],
   [
    "2025-04",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "evaluation"
   ],
   [
    "2025-04",
@@ -60474,7 +61839,42 @@
   [
    "2025-04",
    "graph-visualization",
+   "evaluation"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-04",
@@ -61000,6 +62400,11 @@
    "2025-04",
    "temporal-graphs",
    "evaluation"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
+   "mechanism"
   ],
   [
    "2025-04",
@@ -61009,6 +62414,36 @@
   [
    "2025-04",
    "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "temporal-graphs",
    "systems"
   ],
   [
@@ -61025,6 +62460,11 @@
    "2025-04",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2025-05",
+   "community-detection",
+   "application"
   ],
   [
    "2025-05",
@@ -61050,6 +62490,21 @@
    "2025-05",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-05",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-05",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-05",
+   "community-detection",
+   "method"
   ],
   [
    "2025-05",
@@ -61070,6 +62525,11 @@
    "2025-05",
    "community-detection",
    "method"
+  ],
+  [
+   "2025-05",
+   "community-detection",
+   "systems"
   ],
   [
    "2025-05",
@@ -61085,6 +62545,11 @@
    "2025-05",
    "community-detection",
    "theory"
+  ],
+  [
+   "2025-05",
+   "distributed-graphs",
+   "application"
   ],
   [
    "2025-05",
@@ -61110,6 +62575,11 @@
    "2025-05",
    "distributed-graphs",
    "systems"
+  ],
+  [
+   "2025-05",
+   "distributed-graphs",
+   "theory"
   ],
   [
    "2025-05",
@@ -61695,6 +63165,11 @@
    "2025-05",
    "graph-machine-learning",
    "application"
+  ],
+  [
+   "2025-05",
+   "graph-machine-learning",
+   "evaluation"
   ],
   [
    "2025-05",
@@ -61725,6 +63200,16 @@
    "2025-05",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2025-05",
+   "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-05",
@@ -61759,6 +63244,16 @@
   [
    "2025-05",
    "graph-machine-learning",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "graph-machine-learning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "graph-machine-learning",
    "theory"
   ],
   [
@@ -62210,11 +63705,26 @@
    "2025-05",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-05",
+   "graph-visualization",
+   "evaluation"
   ],
   [
    "2025-05",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2025-05",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-05",
@@ -62225,6 +63735,11 @@
    "2025-05",
    "graph-visualization",
    "method"
+  ],
+  [
+   "2025-05",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2025-05",
@@ -62895,21 +64410,41 @@
    "2025-05",
    "semantic-web",
    "method"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-05",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-05",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-05",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-05",
@@ -62939,12 +64474,12 @@
   [
    "2025-05",
    "temporal-graphs",
-   "application"
+   "evaluation"
   ],
   [
    "2025-05",
    "temporal-graphs",
-   "application"
+   "evaluation"
   ],
   [
    "2025-05",
@@ -62965,10 +64500,30 @@
    "2025-05",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2025-05",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-05",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-05",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-05",
    "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-05",
+   "temporal-graphs",
    "systems"
   ],
   [
@@ -62990,16 +64545,51 @@
    "2025-05",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "application"
   ],
   [
    "2025-06",
    "community-detection",
    "application"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "development"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "evaluation"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "evaluation"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "mechanism"
   ],
   [
    "2025-06",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "method"
+  ],
+  [
+   "2025-06",
+   "community-detection",
+   "review"
   ],
   [
    "2025-06",
@@ -63014,6 +64604,11 @@
   [
    "2025-06",
    "community-detection",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "community-detection",
    "theory"
   ],
   [
@@ -63040,6 +64635,31 @@
    "2025-06",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2025-06",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "distributed-graphs",
+   "method"
+  ],
+  [
+   "2025-06",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "distributed-graphs",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2025-06",
@@ -63530,6 +65150,11 @@
    "2025-06",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-06",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-06",
@@ -63575,6 +65200,11 @@
    "2025-06",
    "graph-machine-learning",
    "evaluation"
+  ],
+  [
+   "2025-06",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-06",
@@ -64030,6 +65660,41 @@
    "2025-06",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "development"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "evaluation"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-06",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-06",
@@ -64605,6 +66270,11 @@
    "2025-06",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2025-07",
+   "community-detection",
+   "application"
   ],
   [
    "2025-07",
@@ -64664,6 +66334,11 @@
   [
    "2025-07",
    "community-detection",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "community-detection",
    "theory"
   ],
   [
@@ -64690,6 +66365,26 @@
    "2025-07",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2025-07",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "distributed-graphs",
+   "method"
   ],
   [
    "2025-07",
@@ -65205,6 +66900,16 @@
    "2025-07",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-07",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2025-07",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-07",
@@ -65245,6 +66950,11 @@
    "2025-07",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2025-07",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-07",
@@ -65259,6 +66969,11 @@
   [
    "2025-07",
    "graph-machine-learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "graph-machine-learning",
    "review"
   ],
   [
@@ -65600,6 +67315,11 @@
    "2025-07",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-07",
+   "graph-visualization",
+   "application"
   ],
   [
    "2025-07",
@@ -65615,6 +67335,31 @@
    "2025-07",
    "graph-visualization",
    "evaluation"
+  ],
+  [
+   "2025-07",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-07",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-07",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-07",
@@ -66175,31 +67920,61 @@
    "2025-07",
    "semantic-web",
    "application"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "mechanism"
   ],
   [
    "2025-07",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "review"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-07",
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-07",
-   "semantic-web",
-   "mechanism"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-07",
-   "semantic-web",
-   "method"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-07",
-   "semantic-web",
-   "review"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-07",
-   "semantic-web",
-   "systems"
+   "temporal-graphs",
+   "application"
   ],
   [
    "2025-07",
@@ -66214,17 +67989,17 @@
   [
    "2025-07",
    "temporal-graphs",
-   "application"
+   "method"
   ],
   [
    "2025-07",
    "temporal-graphs",
-   "application"
+   "method"
   ],
   [
    "2025-07",
    "temporal-graphs",
-   "application"
+   "method"
   ],
   [
    "2025-07",
@@ -66240,6 +68015,11 @@
    "2025-07",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2025-08",
+   "community-detection",
+   "application"
   ],
   [
    "2025-08",
@@ -66260,6 +68040,11 @@
    "2025-08",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-08",
+   "community-detection",
+   "method"
   ],
   [
    "2025-08",
@@ -66269,6 +68054,11 @@
   [
    "2025-08",
    "community-detection",
+   "review"
+  ],
+  [
+   "2025-08",
+   "community-detection",
    "systems"
   ],
   [
@@ -66295,6 +68085,11 @@
    "2025-08",
    "distributed-graphs",
    "evaluation"
+  ],
+  [
+   "2025-08",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2025-08",
@@ -66310,6 +68105,16 @@
    "2025-08",
    "distributed-graphs",
    "systems"
+  ],
+  [
+   "2025-08",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "distributed-graphs",
+   "theory"
   ],
   [
    "2025-08",
@@ -66650,6 +68455,21 @@
    "2025-08",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-08",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2025-08",
+   "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2025-08",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-08",
@@ -67120,11 +68940,26 @@
    "2025-08",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "application"
   ],
   [
    "2025-08",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "development"
   ],
   [
    "2025-08",
@@ -67135,11 +68970,41 @@
    "2025-08",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "review"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2025-08",
    "graph-visualization",
    "systems"
+  ],
+  [
+   "2025-08",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-08",
@@ -67714,7 +69579,37 @@
   [
    "2025-08",
    "temporal-graphs",
+   "evaluation"
+  ],
+  [
+   "2025-08",
+   "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2025-08",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-08",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-08",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-08",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-08",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-08",
@@ -67740,6 +69635,11 @@
    "2025-08",
    "temporal-graphs",
    "theory"
+  ],
+  [
+   "2025-09",
+   "community-detection",
+   "application"
   ],
   [
    "2025-09",
@@ -67840,6 +69740,11 @@
    "2025-09",
    "distributed-graphs",
    "systems"
+  ],
+  [
+   "2025-09",
+   "distributed-graphs",
+   "theory"
   ],
   [
    "2025-09",
@@ -68284,6 +70189,11 @@
   [
    "2025-09",
    "graph-machine-learning",
+   "application"
+  ],
+  [
+   "2025-09",
+   "graph-machine-learning",
    "evaluation"
   ],
   [
@@ -68665,16 +70575,31 @@
    "2025-09",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2025-09",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-09",
    "graph-visualization",
    "method"
+  ],
+  [
+   "2025-09",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2025-09",
    "graph-visualization",
    "systems"
+  ],
+  [
+   "2025-09",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-09",
@@ -69250,6 +71175,16 @@
    "2025-09",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2025-09",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-09",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-09",
@@ -69305,6 +71240,11 @@
    "2025-10",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-10",
+   "community-detection",
+   "method"
   ],
   [
    "2025-10",
@@ -69330,6 +71270,11 @@
    "2025-10",
    "community-detection",
    "systems"
+  ],
+  [
+   "2025-10",
+   "community-detection",
+   "theory"
   ],
   [
    "2025-10",
@@ -69368,6 +71313,11 @@
   ],
   [
    "2025-10",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2025-10",
    "graph-algorithms",
    "application"
   ],
@@ -69865,6 +71815,11 @@
    "2025-10",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2025-10",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2025-10",
@@ -69930,6 +71885,11 @@
    "2025-10",
    "graph-machine-learning",
    "mechanism"
+  ],
+  [
+   "2025-10",
+   "graph-machine-learning",
+   "method"
   ],
   [
    "2025-10",
@@ -69940,6 +71900,16 @@
    "2025-10",
    "graph-machine-learning",
    "review"
+  ],
+  [
+   "2025-10",
+   "graph-machine-learning",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "graph-machine-learning",
+   "systems"
   ],
   [
    "2025-10",
@@ -70395,6 +72365,11 @@
    "2025-10",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-10",
+   "graph-visualization",
+   "application"
   ],
   [
    "2025-10",
@@ -70405,11 +72380,21 @@
    "2025-10",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2025-10",
+   "graph-visualization",
+   "development"
   ],
   [
    "2025-10",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2025-10",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-10",
@@ -71075,6 +73060,16 @@
    "2025-10",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2025-10",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2025-10",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-10",
@@ -71145,6 +73140,11 @@
    "2025-11",
    "community-detection",
    "theory"
+  ],
+  [
+   "2025-11",
+   "distributed-graphs",
+   "application"
   ],
   [
    "2025-11",
@@ -71155,6 +73155,11 @@
    "2025-11",
    "distributed-graphs",
    "development"
+  ],
+  [
+   "2025-11",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2025-11",
@@ -71605,11 +73610,16 @@
    "2025-11",
    "graph-embeddings",
    "method"
+  ],
+  [
+   "2025-11",
+   "graph-machine-learning",
+   "evaluation"
   ],
   [
    "2025-11",
    "graph-machine-learning",
-   "evaluation"
+   "mechanism"
   ],
   [
    "2025-11",
@@ -72040,11 +74050,41 @@
    "2025-11",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "application"
   ],
   [
    "2025-11",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "development"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-11",
@@ -72054,7 +74094,17 @@
   [
    "2025-11",
    "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
    "review"
+  ],
+  [
+   "2025-11",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2025-11",
@@ -72585,16 +74635,36 @@
    "2025-11",
    "temporal-graphs",
    "application"
+  ],
+  [
+   "2025-11",
+   "temporal-graphs",
+   "development"
+  ],
+  [
+   "2025-11",
+   "temporal-graphs",
+   "evaluation"
   ],
   [
    "2025-11",
    "temporal-graphs",
    "evaluation"
+  ],
+  [
+   "2025-11",
+   "temporal-graphs",
+   "mechanism"
   ],
   [
    "2025-11",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2025-11",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2025-11",
@@ -72640,6 +74710,11 @@
    "2025-12",
    "community-detection",
    "mechanism"
+  ],
+  [
+   "2025-12",
+   "community-detection",
+   "systems"
   ],
   [
    "2025-12",
@@ -72650,11 +74725,31 @@
    "2025-12",
    "community-detection",
    "theory"
+  ],
+  [
+   "2025-12",
+   "distributed-graphs",
+   "application"
   ],
   [
    "2025-12",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2025-12",
+   "distributed-graphs",
+   "application"
+  ],
+  [
+   "2025-12",
+   "distributed-graphs",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "distributed-graphs",
+   "method"
   ],
   [
    "2025-12",
@@ -73070,6 +75165,11 @@
    "2025-12",
    "graph-machine-learning",
    "systems"
+  ],
+  [
+   "2025-12",
+   "graph-machine-learning",
+   "theory"
   ],
   [
    "2025-12",
@@ -73440,6 +75540,21 @@
    "2025-12",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2025-12",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-12",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2025-12",
+   "graph-visualization",
+   "method"
   ],
   [
    "2025-12",
@@ -73450,6 +75565,11 @@
    "2025-12",
    "graph-visualization",
    "method"
+  ],
+  [
+   "2025-12",
+   "graph-visualization",
+   "theory"
   ],
   [
    "2025-12",
@@ -73463,6 +75583,11 @@
   ],
   [
    "2025-12",
+   "graph-visualization",
+   "theory"
+  ],
+  [
+   "2025-12",
    "graphrag",
    "application"
   ],
@@ -74015,6 +76140,11 @@
    "2026-01",
    "distributed-graphs",
    "mechanism"
+  ],
+  [
+   "2026-01",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2026-01",
@@ -74420,6 +76550,11 @@
    "2026-01",
    "graph-machine-learning",
    "application"
+  ],
+  [
+   "2026-01",
+   "graph-machine-learning",
+   "mechanism"
   ],
   [
    "2026-01",
@@ -74815,11 +76950,51 @@
    "2026-01",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "application"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "application"
   ],
   [
    "2026-01",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "development"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2026-01",
@@ -75520,6 +77695,11 @@
    "2026-01",
    "temporal-graphs",
    "mechanism"
+  ],
+  [
+   "2026-01",
+   "temporal-graphs",
+   "method"
   ],
   [
    "2026-01",
@@ -75645,6 +77825,11 @@
    "2026-02",
    "distributed-graphs",
    "application"
+  ],
+  [
+   "2026-02",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2026-02",
@@ -76010,6 +78195,11 @@
    "2026-02",
    "graph-embeddings",
    "theory"
+  ],
+  [
+   "2026-02",
+   "graph-machine-learning",
+   "application"
   ],
   [
    "2026-02",
@@ -76440,6 +78630,11 @@
    "2026-02",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2026-02",
+   "graph-visualization",
+   "evaluation"
   ],
   [
    "2026-02",
@@ -78020,6 +80215,11 @@
    "2026-03",
    "graph-visualization",
    "application"
+  ],
+  [
+   "2026-03",
+   "graph-visualization",
+   "method"
   ],
   [
    "2026-03",
@@ -78033,6 +80233,16 @@
   ],
   [
    "2026-03",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-03",
    "graphrag",
    "application"
   ],
@@ -78615,6 +80825,11 @@
    "2026-04",
    "distributed-graphs",
    "systems"
+  ],
+  [
+   "2026-04",
+   "distributed-graphs",
+   "theory"
   ],
   [
    "2026-04",
@@ -82015,6 +84230,11 @@
    "2026-05",
    "graph-theory",
    "theory"
+  ],
+  [
+   "2026-05",
+   "graph-visualization",
+   "method"
   ],
   [
    "2026-05",
@@ -85080,6 +87300,16 @@
    "2026-06",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-visualization",
+   "systems"
   ],
   [
    "2026-06",
@@ -88610,6 +90840,11 @@
    "2026-07",
    "graph-visualization",
    "development"
+  ],
+  [
+   "2026-07",
+   "graph-visualization",
+   "evaluation"
   ],
   [
    "2026-07",
@@ -88630,6 +90865,11 @@
    "2026-07",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-visualization",
+   "method"
   ],
   [
    "2026-07",
@@ -88659,6 +90899,11 @@
   [
    "2026-07",
    "graph-visualization",
+   "review"
+  ],
+  [
+   "2026-07",
+   "graph-visualization",
    "systems"
   ],
   [
@@ -94090,6 +96335,26 @@
    "2026-08",
    "graph-visualization",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-visualization",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-visualization",
+   "method"
   ],
   [
    "2026-08",
@@ -96475,175 +98740,175 @@
  "venues": [
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 197
+   "papers": 201
   },
   {
    "name": "arXiv",
-   "papers": 102
-  },
-  {
-   "name": "Lecture notes in computer science",
-   "papers": 69
-  },
-  {
-   "name": "Research Square",
-   "papers": 63
-  },
-  {
-   "name": "Scientific Reports",
-   "papers": 59
+   "papers": 104
   },
   {
    "name": "Expert Systems with Applications",
-   "papers": 58
+   "papers": 76
+  },
+  {
+   "name": "Lecture notes in computer science",
+   "papers": 72
+  },
+  {
+   "name": "Scientific Reports",
+   "papers": 65
+  },
+  {
+   "name": "Research Square",
+   "papers": 64
   },
   {
    "name": "Knowledge-Based Systems",
-   "papers": 46
+   "papers": 61
   },
   {
    "name": "IEEE Transactions on Knowledge and Data Engineering",
-   "papers": 38
+   "papers": 42
   },
   {
    "name": "Open MIND",
-   "papers": 36
+   "papers": 38
+  },
+  {
+   "name": "Neurocomputing",
+   "papers": 38
+  },
+  {
+   "name": "Applied Sciences",
+   "papers": 34
   },
   {
    "name": "Cairn.info",
    "papers": 34
   },
   {
-   "name": "Applied Sciences",
-   "papers": 30
+   "name": "IEEE Access",
+   "papers": 31
   },
   {
    "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "papers": 30
+  },
+  {
+   "name": "Neural Networks",
    "papers": 28
-  },
-  {
-   "name": "Neurocomputing",
-   "papers": 28
-  },
-  {
-   "name": "IEEE Access",
-   "papers": 27
-  },
-  {
-   "name": "International Journal on Semantic Web and Information Systems",
-   "papers": 27
   }
  ],
  "source_breakdown": {
-  "arxiv": 15413,
-  "doi": 3232,
-  "other": 381
+  "arxiv": 15420,
+  "doi": 3671,
+  "other": 388
  },
  "keyword_bursts": [
   {
    "keyword": "osint",
    "recent": 2,
    "total": 2,
-   "burst_score": 3.15,
+   "burst_score": 3.17,
    "recent_share": 0.0003
   },
   {
    "keyword": "agentic",
    "recent": 248,
    "total": 283,
-   "burst_score": 2.76,
-   "recent_share": 0.041
+   "burst_score": 2.78,
+   "recent_share": 0.0404
   },
   {
    "keyword": "graphrag",
    "recent": 198,
    "total": 293,
-   "burst_score": 2.13,
-   "recent_share": 0.0327
+   "burst_score": 2.14,
+   "recent_share": 0.0322
   },
   {
    "keyword": "agent",
-   "recent": 784,
-   "total": 1200,
+   "recent": 785,
+   "total": 1211,
    "burst_score": 2.06,
-   "recent_share": 0.1297
+   "recent_share": 0.1278
   },
   {
    "keyword": "graph rag",
    "recent": 47,
    "total": 75,
-   "burst_score": 1.97,
-   "recent_share": 0.0078
+   "burst_score": 1.99,
+   "recent_share": 0.0076
   },
   {
    "keyword": "retrieval",
    "recent": 940,
    "total": 1660,
-   "burst_score": 1.78,
-   "recent_share": 0.1555
+   "burst_score": 1.8,
+   "recent_share": 0.153
   },
   {
    "keyword": "foundation model",
    "recent": 141,
    "total": 257,
-   "burst_score": 1.73,
-   "recent_share": 0.0233
+   "burst_score": 1.74,
+   "recent_share": 0.0229
   },
   {
    "keyword": "graph foundation",
    "recent": 81,
    "total": 151,
-   "burst_score": 1.69,
-   "recent_share": 0.0134
+   "burst_score": 1.7,
+   "recent_share": 0.0132
   },
   {
    "keyword": "llm",
-   "recent": 1388,
-   "total": 2637,
-   "burst_score": 1.66,
-   "recent_share": 0.2296
+   "recent": 1390,
+   "total": 2643,
+   "burst_score": 1.67,
+   "recent_share": 0.2262
   },
   {
    "keyword": "production",
-   "recent": 117,
-   "total": 226,
+   "recent": 118,
+   "total": 229,
    "burst_score": 1.63,
-   "recent_share": 0.0194
+   "recent_share": 0.0192
   },
   {
    "keyword": "multimodal",
-   "recent": 234,
-   "total": 457,
-   "burst_score": 1.61,
-   "recent_share": 0.0387
+   "recent": 235,
+   "total": 461,
+   "burst_score": 1.62,
+   "recent_share": 0.0382
   },
   {
    "keyword": "large language model",
-   "recent": 1085,
-   "total": 2353,
-   "burst_score": 1.45,
-   "recent_share": 0.1795
+   "recent": 1088,
+   "total": 2363,
+   "burst_score": 1.46,
+   "recent_share": 0.1771
   },
   {
    "keyword": "gql",
    "recent": 19,
    "total": 42,
-   "burst_score": 1.42,
+   "burst_score": 1.43,
    "recent_share": 0.0031
   },
   {
    "keyword": "memory",
-   "recent": 433,
-   "total": 979,
-   "burst_score": 1.39,
-   "recent_share": 0.0716
+   "recent": 434,
+   "total": 982,
+   "burst_score": 1.4,
+   "recent_share": 0.0706
   },
   {
    "keyword": "causal",
    "recent": 149,
-   "total": 350,
+   "total": 353,
    "burst_score": 1.34,
-   "recent_share": 0.0246
+   "recent_share": 0.0243
   }
  ]
 }

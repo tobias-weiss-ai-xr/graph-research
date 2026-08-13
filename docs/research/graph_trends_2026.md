@@ -1,27 +1,27 @@
 # Graph Research Trends (12-Month View)
 
 **Generated:** 2026-08-13  
-**Window:** since 2025-08 — 6046 of 19026 papers
+**Window:** since 2025-08 — 6144 of 19479 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| osint | 2 | 2 | 3.1× |
+| osint | 2 | 2 | 3.2× |
 | agentic | 248 | 283 | 2.8× |
-| agent | 784 | 1200 | 2.1× |
+| agent | 785 | 1211 | 2.1× |
 | graphrag | 198 | 293 | 2.1× |
 | graph rag | 47 | 75 | 2.0× |
 | retrieval | 940 | 1660 | 1.8× |
-| llm | 1388 | 2637 | 1.7× |
+| llm | 1390 | 2643 | 1.7× |
 | foundation model | 141 | 257 | 1.7× |
 | graph foundation | 81 | 151 | 1.7× |
-| multimodal | 234 | 457 | 1.6× |
-| production | 117 | 226 | 1.6× |
-| large language model | 1085 | 2353 | 1.5× |
-| memory | 433 | 979 | 1.4× |
-| supply chain | 34 | 79 | 1.4× |
+| multimodal | 235 | 461 | 1.6× |
+| production | 118 | 229 | 1.6× |
+| large language model | 1088 | 2363 | 1.5× |
+| memory | 434 | 982 | 1.4× |
 | gql | 19 | 42 | 1.4× |
+| benchmark | 1367 | 3296 | 1.3× |
 
 ## 📈 Fastest-Growing Cells
 
@@ -37,9 +37,9 @@
 | `graph-databases/mechanism` | 21 | 37 | 57% |
 | `ontology/mechanism` | 66 | 116 | 57% |
 | `graphrag/method` | 60 | 107 | 56% |
+| `temporal-graphs/development` | 7 | 13 | 54% |
 | `ontology/application` | 156 | 296 | 53% |
 | `ontology/development` | 21 | 40 | 53% |
-| `distributed-graphs/method` | 8 | 15 | 53% |
 | `graph-databases/application` | 81 | 161 | 50% |
 | `graph-analytics/development` | 4 | 8 | 50% |
 

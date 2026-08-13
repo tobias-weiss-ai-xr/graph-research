@@ -1,7 +1,7 @@
 # Graph Research — Literature Review
 
 **Generated:** 2026-08-13  
-**Corpus:** 19,026 papers across 20 categories
+**Corpus:** 19,479 papers across 20 categories
 
 > Synthesis of the graph research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -18,7 +18,7 @@
 | 5 | Graph RAG | 1077 |
 
 **Time span:** 1980–2027 (median year 2015)
-**Dominant aspects:** Application (5400), Systems & Technology (3343), Method (3065)
+**Dominant aspects:** Application (5496), Systems & Technology (3417), Method (3224)
 
 ---
 
@@ -31,23 +31,23 @@ Categories ranked by a momentum score combining recent output density with year-
 | Graph RAG | 1077 | 705 | 288 | +144.8% | 66% | 58.8 |
 | Graph Query Languages | 398 | 177 | 77 | +129.9% | 44% | 14.8 |
 | Ontologies & Schema | 1009 | 458 | 206 | +122.3% | 45% | 38.2 |
-| Graph Visualization | 262 | 82 | 42 | +95.2% | 31% | 6.8 |
 | Graph Databases | 584 | 242 | 131 | +84.7% | 41% | 20.2 |
 | Graph Security & OSINT | 948 | 350 | 212 | +65.1% | 37% | 29.2 |
 | Graph Neural Networks | 2539 | 790 | 495 | +59.6% | 31% | 65.8 |
 | Knowledge Graphs | 1602 | 542 | 371 | +46.1% | 34% | 45.2 |
 | Graph Theory | 1053 | 329 | 231 | +42.4% | 31% | 27.4 |
 | Graph Algorithms | 1047 | 325 | 233 | +39.5% | 31% | 27.1 |
-| Distributed Graph Processing | 409 | 98 | 70 | +40.0% | 24% | 8.2 |
 | KG Construction & IE | 952 | 257 | 200 | +28.5% | 27% | 21.4 |
-| Temporal & Dynamic Graphs | 578 | 148 | 124 | +19.4% | 26% | 12.3 |
 | Semantic Web & Linked Data | 499 | 150 | 134 | +11.9% | 30% | 12.5 |
 | Network Science | 1550 | 391 | 337 | +16.0% | 25% | 32.6 |
 | Graph Applications | 1526 | 416 | 372 | +11.8% | 27% | 34.7 |
 | Graph Analytics | 259 | 49 | 44 | +11.4% | 19% | 4.1 |
-| Community Detection | 717 | 143 | 143 | +0.0% | 20% | 11.9 |
-| Graph Machine Learning | 959 | 203 | 226 | -10.2% | 21% | 16.9 |
+| Graph Visualization | 411 | 132 | 141 | -6.4% | 32% | 11.0 |
+| Temporal & Dynamic Graphs | 655 | 163 | 186 | -12.4% | 25% | 13.6 |
+| Distributed Graph Processing | 483 | 112 | 130 | -13.8% | 23% | 9.3 |
 | Graph Embeddings | 1058 | 191 | 246 | -22.4% | 18% | 15.9 |
+| Graph Machine Learning | 1039 | 215 | 294 | -26.9% | 21% | 17.9 |
+| Community Detection | 790 | 150 | 209 | -28.2% | 19% | 12.5 |
 
 ---
 
@@ -60,9 +60,9 @@ Categories ranked by a momentum score combining recent output density with year-
 | `distributed-graphs/review` | 5 |
 | `graph-analytics/review` | 7 |
 | `graph-analytics/development` | 8 |
-| `temporal-graphs/review` | 8 |
-| `community-detection/development` | 8 |
 | `graph-theory/development` | 9 |
+| `temporal-graphs/review` | 9 |
+| `community-detection/development` | 9 |
 | `graph-theory/evaluation` | 11 |
 | `graph-embeddings/development` | 11 |
 
@@ -71,13 +71,13 @@ Categories ranked by a momentum score combining recent output density with year-
 | Cell | Total | Last-12m | 12-m share |
 |------|-------:|---------:|-----------:|
 | `graph-query-languages/review` | 14 | 10 | 71% |
-| `distributed-graphs/method` | 15 | 8 | 53% |
-| `temporal-graphs/development` | 12 | 6 | 50% |
+| `temporal-graphs/development` | 13 | 7 | 54% |
 | `graph-analytics/development` | 8 | 4 | 50% |
 | `distributed-graphs/evaluation` | 11 | 5 | 45% |
 | `semantic-web/development` | 25 | 11 | 44% |
+| `graph-visualization/development` | 16 | 7 | 44% |
 | `graph-theory/development` | 9 | 4 | 44% |
-| `graph-visualization/theory` | 18 | 7 | 39% |
+| `distributed-graphs/method` | 24 | 9 | 38% |
 
 ---
 
@@ -87,16 +87,16 @@ Top venues by paper count (where present in the metadata):
 
 | Venue | Papers |
 |-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 197 |
-| arXiv | 102 |
-| Lecture notes in computer science | 69 |
-| Research Square | 63 |
-| Scientific Reports | 59 |
-| Expert Systems with Applications | 58 |
-| Knowledge-Based Systems | 46 |
-| IEEE Transactions on Knowledge and Data Engineering | 38 |
-| Open MIND | 36 |
-| Cairn.info | 34 |
+| Zenodo (CERN European Organization for Nuclear Research) | 201 |
+| arXiv | 104 |
+| Expert Systems with Applications | 76 |
+| Lecture notes in computer science | 72 |
+| Scientific Reports | 65 |
+| Research Square | 64 |
+| Knowledge-Based Systems | 61 |
+| IEEE Transactions on Knowledge and Data Engineering | 42 |
+| Open MIND | 38 |
+| Neurocomputing | 38 |
 
 ---
 
@@ -215,6 +215,20 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 ---
 
+### Graph Machine Learning (`graph-machine-learning`)
+
+Graph foundation models and self-supervised pre-training are emerging as the next wave, replacing task-specific GNN training.
+
+**Corpus size:** 1039 papers
+
+**Recent papers:**
+
+- [2026-08] HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning — https://arxiv.org/abs/2608.00491v1
+- [2026-08] Link prediction on multi-relational graphs from an influence propagation perspective — https://arxiv.org/abs/2608.05016v1
+- [2026-08] Towards Trustworthy Hypergraph Neural Networks under Label Noise — https://arxiv.org/abs/2608.04377v1
+
+---
+
 ### Ontologies & Schema (`ontology`)
 
 Category is still saturating — see `statistics.json` for cell counts.
@@ -226,20 +240,6 @@ Category is still saturating — see `statistics.json` for cell counts.
 - [2026-08] Supporting Cybersecurity Risk Management for Medical Devices via the SECUMAN Ontology and Shapes — https://arxiv.org/abs/2608.00698v1
 - [2026-08] HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts — https://arxiv.org/abs/2608.02252v1
 - [2026-08] Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems — https://arxiv.org/abs/2608.00937v1
-
----
-
-### Graph Machine Learning (`graph-machine-learning`)
-
-Graph foundation models and self-supervised pre-training are emerging as the next wave, replacing task-specific GNN training.
-
-**Corpus size:** 959 papers
-
-**Recent papers:**
-
-- [2026-08] HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning — https://arxiv.org/abs/2608.00491v1
-- [2026-08] Link prediction on multi-relational graphs from an influence propagation perspective — https://arxiv.org/abs/2608.05016v1
-- [2026-08] Towards Trustworthy Hypergraph Neural Networks under Label Noise — https://arxiv.org/abs/2608.04377v1
 
 ---
 
@@ -275,13 +275,27 @@ Fraud detection, attack graphs and threat intelligence are the dominant applicat
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 717 papers
+**Corpus size:** 790 papers
 
 **Recent papers:**
 
 - [2026-08] Semantic Networks as Clues: A Theoretical Foundation and Process Optimization for Semantic Network C — https://arxiv.org/abs/2608.01936v1
 - [2026-08] Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Mea — https://arxiv.org/abs/2608.05336v1
 - [2026-08] DUSTSWARM: A Calibrated ESA Swarm Star-Tracker Dataset for Space Situational Awareness — https://doi.org/10.5281/zenodo.21803137
+
+---
+
+### Temporal & Dynamic Graphs (`temporal-graphs`)
+
+Temporal and dynamic knowledge graphs are a clear growth cell — time-aware embeddings and event-driven KG updates are active frontiers.
+
+**Corpus size:** 655 papers
+
+**Recent papers:**
+
+- [2027-01] Spatio-temporal maritime piracy analysis with cost-sensitive multi-graphs neural network. — https://dblp.org/rec/journals/ress/WanZL27
+- [2026-08] Smart Manufacturing IIoT Anomaly Dataset (SMIAD25) — https://doi.org/10.5281/zenodo.18245455
+- [2026-08] A Multi-Scale Process for Mining and Abstracting Environmental Spatio-temporal Graphs — https://hal.science/hal-05696588
 
 ---
 
@@ -296,20 +310,6 @@ Graph database research clusters around query performance, indexing and benchmar
 - [2026-08] RaG-Tree: Combining R-Tree and HNSW for Multi-Attribute Range Filtered Approximate Nearest Neighbor  — https://arxiv.org/abs/2608.01255v1
 - [2026-08] Uplifting the Superpowers of Worst-Case-Optimal Join Algorithms — https://arxiv.org/abs/2608.03840v1
 - [2026-08] Databáze environmentálních dopadů vozidel v závislosti na vstupních parametrech — https://doi.org/10.5281/zenodo.19334415
-
----
-
-### Temporal & Dynamic Graphs (`temporal-graphs`)
-
-Temporal and dynamic knowledge graphs are a clear growth cell — time-aware embeddings and event-driven KG updates are active frontiers.
-
-**Corpus size:** 578 papers
-
-**Recent papers:**
-
-- [2027-01] Spatio-temporal maritime piracy analysis with cost-sensitive multi-graphs neural network. — https://dblp.org/rec/journals/ress/WanZL27
-- [2026-08] Smart Manufacturing IIoT Anomaly Dataset (SMIAD25) — https://doi.org/10.5281/zenodo.18245455
-- [2026-08] A Multi-Scale Process for Mining and Abstracting Environmental Spatio-temporal Graphs — https://hal.science/hal-05696588
 
 ---
 
@@ -331,13 +331,27 @@ Category is still saturating — see `statistics.json` for cell counts.
 
 Category is still saturating — see `statistics.json` for cell counts.
 
-**Corpus size:** 409 papers
+**Corpus size:** 483 papers
 
 **Recent papers:**
 
 - [2026-08] Greedy-Like Defective Coloring: Distributed Algorithms and Applications — https://arxiv.org/abs/2608.02386v1
 - [2026-08] Early differential impact of MeCP2 mutations on functional networks in Rett syndrome patient-derived — https://doi.org/10.5281/zenodo.18487289
 - [2026-08] Stitch: an AI-based workflow for graph processing frameworks selection and deployment — https://hal.science/hal-05661022
+
+---
+
+### Graph Visualization (`graph-visualization`)
+
+Category is still saturating — see `statistics.json` for cell counts.
+
+**Corpus size:** 411 papers
+
+**Recent papers:**
+
+- [2026-08] SNAP-tFDP: Massively Scalable Graph Layouts via Sparse Negative Sampling — https://arxiv.org/abs/2608.01907v1
+- [2026-08] Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Langu — https://arxiv.org/abs/2608.04002v1
+- [2026-08] Investigating the effects of vaping on lung structure and function with pulmonary imaging — https://hdl.handle.net/2429/93933
 
 ---
 
@@ -352,20 +366,6 @@ The move toward a GQL standard plus Cypher/SPARQL interop is the main story; que
 - [2026-08] FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante — https://arxiv.org/abs/2608.02321v1
 - [2026-08] The Violation Situation Pattern: Persistent Representation of Compliance Violations in Knowledge Gra — https://doi.org/10.5281/zenodo.21769799
 - [2026-08] Ábreme la Puerta y Entraré: Utilizing Hip Hop Pedagogy to Build Community for English Learners with  — https://doi.org/10.5703/1288284318656
-
----
-
-### Graph Visualization (`graph-visualization`)
-
-Category is still saturating — see `statistics.json` for cell counts.
-
-**Corpus size:** 262 papers
-
-**Recent papers:**
-
-- [2026-08] SNAP-tFDP: Massively Scalable Graph Layouts via Sparse Negative Sampling — https://arxiv.org/abs/2608.01907v1
-- [2026-08] Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Langu — https://arxiv.org/abs/2608.04002v1
-- [2026-08] Investigating the effects of vaping on lung structure and function with pulmonary imaging — https://hdl.handle.net/2429/93933
 
 ---
 
