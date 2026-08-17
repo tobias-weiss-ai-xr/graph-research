@@ -1,6 +1,6 @@
 # Graph Research Corpus
 
-**Evidence base for graphwiz.ai** — Analysis of 18,272 research papers across 20 graph disciplines.
+**Evidence base for graphwiz.ai** — Analysis of 20,008 research papers across 20 graph disciplines.
 
 **Author:** Tobias Weiss
 **Contact:** tobias@graphwiz.ai
@@ -22,7 +22,7 @@ pipeline.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 18,272 |
+| **Papers Analyzed** | 20,008 |
 | **Graph Disciplines** | 20 |
 | **Time Span** | 1980-2027 |
 | **Research Aspects** | 8 |
@@ -31,12 +31,12 @@ pipeline.
 
 ### Top Evidence Areas
 
-1. **Graph Neural Networks** — 2467 papers
-2. **Knowledge Graphs** — 1540 papers
-3. **Graph Applications** — 1526 papers
-4. **Network Science** — 1468 papers
-5. **Graph RAG** — 1070 papers
-6. **Graph Embeddings** — 981 papers
+1. **Graph Neural Networks** — 2583 papers
+2. **Knowledge Graphs** — 1626 papers
+3. **Network Science** — 1586 papers
+4. **Graph Applications** — 1580 papers
+5. **Graph Theory** — 1096 papers
+6. **Graph Algorithms** — 1083 papers
 
 ---
 
@@ -44,50 +44,50 @@ pipeline.
 
 | Category | Papers |
 |----------|--------|
-| Knowledge Graphs | 1540 |
-| Graph RAG | 1070 |
-| Graph Databases | 525 |
-| Graph Query Languages | 352 |
-| Graph Algorithms | 964 |
-| Graph Neural Networks | 2467 |
-| Graph Theory | 967 |
-| Network Science | 1468 |
-| Graph Embeddings | 981 |
-| KG Construction & IE | 895 |
-| Semantic Web & Linked Data | 413 |
-| Ontologies & Schema | 972 |
-| Graph Analytics | 259 |
-| Community Detection | 717 |
-| Graph Visualization | 262 |
-| Graph Machine Learning | 959 |
-| Temporal & Dynamic Graphs | 578 |
-| Distributed Graph Processing | 409 |
-| Graph Security & OSINT | 948 |
-| Graph Applications | 1526 |
+| Knowledge Graphs | 1626 |
+| Graph RAG | 1078 |
+| Graph Databases | 614 |
+| Graph Query Languages | 409 |
+| Graph Algorithms | 1083 |
+| Graph Neural Networks | 2583 |
+| Graph Theory | 1096 |
+| Network Science | 1586 |
+| Graph Embeddings | 1058 |
+| KG Construction & IE | 952 |
+| Semantic Web & Linked Data | 499 |
+| Ontologies & Schema | 1009 |
+| Graph Analytics | 307 |
+| Community Detection | 840 |
+| Graph Visualization | 435 |
+| Graph Machine Learning | 1072 |
+| Temporal & Dynamic Graphs | 691 |
+| Distributed Graph Processing | 516 |
+| Graph Security & OSINT | 974 |
+| Graph Applications | 1580 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 2449 |
-| Mechanism | 1954 |
-| Method | 2854 |
-| Application | 5216 |
-| Development | 458 |
-| Systems & Technology | 3220 |
-| Evaluation & Benchmarks | 1518 |
-| Reviews & Surveys | 603 |
+| Theory | 2576 |
+| Mechanism | 2140 |
+| Method | 3384 |
+| Application | 5634 |
+| Development | 495 |
+| Systems & Technology | 3501 |
+| Evaluation & Benchmarks | 1599 |
+| Reviews & Surveys | 679 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
 1. **osint** — 2 papers
-2. **agentic** — 247 papers
-3. **graphrag** — 192 papers
-4. **agent** — 780 papers
-5. **graph rag** — 46 papers
-6. **retrieval** — 934 papers
+2. **agentic** — 248 papers
+3. **graphrag** — 199 papers
+4. **agent** — 786 papers
+5. **graph rag** — 48 papers
+6. **retrieval** — 940 papers
 
 ## 📈 Category Momentum (Last 12 Months)
 
@@ -95,12 +95,12 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 
 | Category | Total | Last 12m | Growth | 12-m share |
 |----------|------:|---------:|-------:|-----------:|
-| Graph Query Languages | 352 | 163 | +262.2% | 46% |
-| Graph RAG | 1070 | 699 | +143.6% | 65% |
-| Graph Databases | 525 | 227 | +160.9% | 43% |
-| Ontologies & Schema | 972 | 440 | +135.3% | 45% |
-| Graph Theory | 967 | 316 | +100.0% | 33% |
-| Semantic Web & Linked Data | 413 | 132 | +100.0% | 32% |
+| Graph RAG | 1078 | 706 | +145.1% | 66% |
+| Ontologies & Schema | 1009 | 458 | +122.3% | 45% |
+| Graph Query Languages | 409 | 177 | +124.1% | 43% |
+| Graph Databases | 614 | 242 | +83.3% | 39% |
+| Graph Security & OSINT | 974 | 356 | +58.9% | 37% |
+| Graph Neural Networks | 2583 | 790 | +58.0% | 31% |
 
 ---
 
@@ -109,13 +109,13 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 Cells with the fewest papers are prime opportunities for graphwiz.ai articles:
 
 - `distributed-graphs/review` — 5 papers
-- `graph-algorithms/review` — 7 papers
-- `graph-theory/development` — 7 papers
-- `graph-analytics/review` — 7 papers
 - `graph-analytics/development` — 8 papers
-- `temporal-graphs/review` — 8 papers
-- `community-detection/development` — 8 papers
+- `graph-theory/development` — 9 papers
+- `temporal-graphs/review` — 9 papers
+- `community-detection/development` — 9 papers
+- `graph-analytics/review` — 10 papers
 - `graph-theory/evaluation` — 11 papers
+- `graph-embeddings/development` — 11 papers
 
 ---
 
@@ -215,7 +215,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 18,272 papers across 1980-2027 to create a
+This corpus synthesizes 20,008 papers across 1980-2027 to create a
 comprehensive evidence base for graph-focused content and product decisions.
 
 ---
