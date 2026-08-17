@@ -253,9 +253,9 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/graph-
 
 | Year | Papers | |
 |------|--------|-|
+| 2024 | 4,230 | ███████████░ |
 | 2025 | 4,277 | ███████████░ |
-| 2026 | 4,535 | ████████████ |
-| 2027 | 2 | ░░░░░░░░░░░░ |
+| 2026 | 4,537 | ████████████ |
 
 
 ### Momentum (hottest categories)
@@ -309,7 +309,7 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/graph-
 
 
 
-*Generated 2027-01 by `scripts/standard_stats.py`.*
+*Generated 2026-08 by `scripts/standard_stats.py`.*
 
 
 ## 🙏 Acknowledgments
