@@ -4,10 +4,10 @@
 <h3 align="center">Evidence base for graphwiz.ai — 20 graph disciplines</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/graph--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/graph-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/graph--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/graph-research/actions/workflows/validate.yml)
-  [![AI Literacy](https://img.shields.io/badge/AI Literacy-ai--literacy--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [![Learning](https://img.shields.io/badge/Learning-learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/graph-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/graph-research/actions/workflows/validate.yml)
+  [**AI Literacy**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research)
 </div>
 
 > 🔗 **Graph research corpus:** knowledge graphs, graph neural networks,
