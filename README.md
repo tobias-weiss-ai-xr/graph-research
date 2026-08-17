@@ -3,12 +3,14 @@
 </h1>
 <h3 align="center">Evidence base for graphwiz.ai — 20 graph disciplines</h3>
 
-<div align="center">
-  [**GitHub**](https://github.com/tobias-weiss-ai-xr/graph-research)
-  [**License**](LICENSE)
-  [**CI**](https://github.com/tobias-weiss-ai-xr/graph-research/actions/workflows/validate.yml)
-  [**AI Literacy**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research)
-</div>
+### 🔗 Links
+
+- **GitHub**: https://github.com/tobias-weiss-ai-xr/graph-research
+- **License**: https://github.com/tobias-weiss-ai-xr/graph-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/graph-research/actions/workflows/validate.yml
+- **AI Literacy**: https://github.com/tobias-weiss-ai-xr/ai-literacy-research
+- **Learning**: https://github.com/tobias-weiss-ai-xr/learning-research
+
 
 > 🔗 **Graph research corpus:** knowledge graphs, graph neural networks,
 > graph algorithms, graph databases, and graph visualization — analyzed with
