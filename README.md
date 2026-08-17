@@ -1,10 +1,22 @@
-# Graph Research Corpus
+<h1 align="center">
+  <strong>Graph Research Corpus</strong>
+</h1>
+<h3 align="center">Evidence base for graphwiz.ai — 20 graph disciplines</h3>
 
-**Evidence base for graphwiz.ai** — Analysis of 18,272 research papers across 20 graph disciplines.
+<div align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/graph--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/graph-research)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/graph--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/graph-research/actions/workflows/validate.yml)
+  [![AI Literacy](https://img.shields.io/badge/AI Literacy-ai--literacy--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [![Learning](https://img.shields.io/badge/Learning-learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
+</div>
 
-**Author:** Tobias Weiss
-**Contact:** tobias@graphwiz.ai
-**Website:** [graphwiz.ai](https://graphwiz.ai)
+> 🔗 **Graph research corpus:** knowledge graphs, graph neural networks,
+> graph algorithms, graph databases, and graph visualization — analyzed with
+> the same pipeline as the other `*-research` corpus repos.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tobias-weiss-ai-xr/graph-research/main/assets/visualizations/category_distribution.png" alt="Teaser" width="600" />
+</p>
 
 ---
 
@@ -22,7 +34,7 @@ pipeline.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 18,272 |
+| **Papers Analyzed** | 20,008 |
 | **Graph Disciplines** | 20 |
 | **Time Span** | 1980-2027 |
 | **Research Aspects** | 8 |
@@ -31,12 +43,12 @@ pipeline.
 
 ### Top Evidence Areas
 
-1. **Graph Neural Networks** — 2467 papers
-2. **Knowledge Graphs** — 1540 papers
-3. **Graph Applications** — 1526 papers
-4. **Network Science** — 1468 papers
-5. **Graph RAG** — 1070 papers
-6. **Graph Embeddings** — 981 papers
+1. **Graph Neural Networks** — 2583 papers
+2. **Knowledge Graphs** — 1626 papers
+3. **Network Science** — 1586 papers
+4. **Graph Applications** — 1580 papers
+5. **Graph Theory** — 1096 papers
+6. **Graph Algorithms** — 1083 papers
 
 ---
 
@@ -44,50 +56,50 @@ pipeline.
 
 | Category | Papers |
 |----------|--------|
-| Knowledge Graphs | 1540 |
-| Graph RAG | 1070 |
-| Graph Databases | 525 |
-| Graph Query Languages | 352 |
-| Graph Algorithms | 964 |
-| Graph Neural Networks | 2467 |
-| Graph Theory | 967 |
-| Network Science | 1468 |
-| Graph Embeddings | 981 |
-| KG Construction & IE | 895 |
-| Semantic Web & Linked Data | 413 |
-| Ontologies & Schema | 972 |
-| Graph Analytics | 259 |
-| Community Detection | 717 |
-| Graph Visualization | 262 |
-| Graph Machine Learning | 959 |
-| Temporal & Dynamic Graphs | 578 |
-| Distributed Graph Processing | 409 |
-| Graph Security & OSINT | 948 |
-| Graph Applications | 1526 |
+| Knowledge Graphs | 1626 |
+| Graph RAG | 1078 |
+| Graph Databases | 614 |
+| Graph Query Languages | 409 |
+| Graph Algorithms | 1083 |
+| Graph Neural Networks | 2583 |
+| Graph Theory | 1096 |
+| Network Science | 1586 |
+| Graph Embeddings | 1058 |
+| KG Construction & IE | 952 |
+| Semantic Web & Linked Data | 499 |
+| Ontologies & Schema | 1009 |
+| Graph Analytics | 307 |
+| Community Detection | 840 |
+| Graph Visualization | 435 |
+| Graph Machine Learning | 1072 |
+| Temporal & Dynamic Graphs | 691 |
+| Distributed Graph Processing | 516 |
+| Graph Security & OSINT | 974 |
+| Graph Applications | 1580 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 2449 |
-| Mechanism | 1954 |
-| Method | 2854 |
-| Application | 5216 |
-| Development | 458 |
-| Systems & Technology | 3220 |
-| Evaluation & Benchmarks | 1518 |
-| Reviews & Surveys | 603 |
+| Theory | 2576 |
+| Mechanism | 2140 |
+| Method | 3384 |
+| Application | 5634 |
+| Development | 495 |
+| Systems & Technology | 3501 |
+| Evaluation & Benchmarks | 1599 |
+| Reviews & Surveys | 679 |
 
 ---
 
 ## 🚀 Emerging Themes (Last 12 Months)
 
-1. **osint** — 2 papers
-2. **agentic** — 247 papers
-3. **graphrag** — 192 papers
-4. **agent** — 780 papers
-5. **graph rag** — 46 papers
-6. **retrieval** — 934 papers
+1. **autonomous** — 149 papers
+2. **benchmark** — 1367 papers
+3. **framework** — 2282 papers
+4. **evaluation** — 873 papers
+5. **scalable** — 378 papers
+6. **system** — 2000 papers
 
 ## 📈 Category Momentum (Last 12 Months)
 
@@ -95,12 +107,12 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 
 | Category | Total | Last 12m | Growth | 12-m share |
 |----------|------:|---------:|-------:|-----------:|
-| Graph Query Languages | 352 | 163 | +262.2% | 46% |
-| Graph RAG | 1070 | 699 | +143.6% | 65% |
-| Graph Databases | 525 | 227 | +160.9% | 43% |
-| Ontologies & Schema | 972 | 440 | +135.3% | 45% |
-| Graph Theory | 967 | 316 | +100.0% | 33% |
-| Semantic Web & Linked Data | 413 | 132 | +100.0% | 32% |
+| Graphrag | 1078 | 706 | +145.1% | 66% |
+| Ontology | 1009 | 458 | +122.3% | 45% |
+| Graph Query Languages | 409 | 177 | +124.1% | 43% |
+| Graph Databases | 614 | 242 | +83.3% | 39% |
+| Graph Security | 974 | 356 | +58.9% | 37% |
+| Graph Neural Networks | 2583 | 790 | +58.0% | 31% |
 
 ---
 
@@ -109,13 +121,13 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 Cells with the fewest papers are prime opportunities for graphwiz.ai articles:
 
 - `distributed-graphs/review` — 5 papers
-- `graph-algorithms/review` — 7 papers
-- `graph-theory/development` — 7 papers
-- `graph-analytics/review` — 7 papers
 - `graph-analytics/development` — 8 papers
-- `temporal-graphs/review` — 8 papers
-- `community-detection/development` — 8 papers
+- `graph-theory/development` — 9 papers
+- `temporal-graphs/review` — 9 papers
+- `community-detection/development` — 9 papers
+- `graph-analytics/review` — 10 papers
 - `graph-theory/evaluation` — 11 papers
+- `graph-embeddings/development` — 11 papers
 
 ---
 
@@ -212,10 +224,95 @@ a weekly scheduled job opens a PR with newly discovered papers.
 - **Tools:** MIT License
 
 ---
+## 📊 Corpus Statistics
+
+**20,008 papers** across **20 categories**.  
+Sources: **arXiv** 15,427 (77%) · **DOI** 4,193 (20%) · **Other** 388 (1%).  
+Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/graph-research).
+
+### Top categories
+
+| Category | Papers | Recent | |
+|----------|--------|--------|-|
+| graph-neural-networks | **2,583** | 0 | ████████████ |
+| knowledge-graphs | **1,626** | 0 | ███████░░░░░ |
+| network-science | **1,586** | 0 | ███████░░░░░ |
+| graph-applications | **1,580** | 0 | ███████░░░░░ |
+| graph-theory | **1,096** | 0 | █████░░░░░░░ |
+| graph-algorithms | **1,083** | 0 | █████░░░░░░░ |
+| graphrag | **1,078** | 0 | █████░░░░░░░ |
+| graph-machine-learning | **1,072** | 0 | ████░░░░░░░░ |
+| graph-embeddings | **1,058** | 0 | ████░░░░░░░░ |
+| ontology | **1,009** | 0 | ████░░░░░░░░ |
+| *other* | **6,237** | | |
+
+
+### By year
+
+| Year | Papers | |
+|------|--------|-|
+| 2025 | 4,277 | ███████████░ |
+| 2026 | 4,535 | ████████████ |
+| 2027 | 2 | ░░░░░░░░░░░░ |
+
+
+### Momentum (hottest categories)
+
+| Category | Total | Rate | Recent | Score |
+|----------|-------|------|--------|-------|
+| Graphrag | 1,078 | 58.8/mo | 66% | 211 |
+| Ontology | 1,009 | 38.2/mo | 45% | 168 |
+| Graph Query Languages | 409 | 14.8/mo | 43% | 167 |
+| Graph Databases | 614 | 20.2/mo | 39% | 123 |
+| Graph Security | 974 | 29.7/mo | 37% | 96 |
+
+
+### Trending keywords
+
+| Keyword | Papers | Burst |
+|---------|--------|-------|
+| autonomous | 273 | 1.77 |
+| benchmark | 3,298 | 1.35 |
+| framework | 5,551 | 1.34 |
+| evaluation | 2,187 | 1.30 |
+| scalable | 947 | 1.30 |
+| system | 5,200 | 1.25 |
+| human | 1,181 | 1.14 |
+| review | 729 | 1.10 |
+
+
+### Top venues
+
+| Venue | Papers |
+|-------|--------|
+| Zenodo (CERN European Organization for Nuclear Research) | 201 |
+| arXiv (Cornell University) | 108 |
+| Expert Systems with Applications | 86 |
+| Lecture notes in computer science | 81 |
+| Scientific Reports | 74 |
+| Knowledge-Based Systems | 67 |
+| Research Square | 64 |
+| IEEE Transactions on Knowledge and Data Engineering | 50 |
+
+
+### Research gaps (thinnest cells)
+
+| Cell | Papers |
+|------|--------|
+| `distributed-graphs/review` | 5 |
+| `graph-analytics/development` | 8 |
+| `graph-theory/development` | 9 |
+| `temporal-graphs/review` | 9 |
+| `community-detection/development` | 9 |
+
+
+
+*Generated 2027-01 by `scripts/standard_stats.py`.*
+
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 18,272 papers across 1980-2027 to create a
+This corpus synthesizes 20,008 papers across 1980-2027 to create a
 comprehensive evidence base for graph-focused content and product decisions.
 
 ---
