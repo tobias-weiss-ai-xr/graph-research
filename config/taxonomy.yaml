@@ -1,0 +1,398 @@
+topic:
+  name: Graph
+  short: graph
+  description: '- GitHub: https://github.com/tobias-weiss-ai-xr/graph-research'
+  openalex_mailto: research@tobias-weiss-ai-xr.de
+taxonomy:
+  categories:
+  - id: graph-neural-networks
+    display: Graph Neural Networks
+  - id: knowledge-graphs
+    display: Knowledge Graphs
+  - id: graph-embeddings
+    display: Graph Embeddings
+  - id: graph-databases
+    display: Graph Databases
+  - id: community-detection
+    display: Community Detection
+  - id: graph-algorithms
+    display: Graph Algorithms
+  - id: graph-theory
+    display: Graph Theory
+  - id: temporal-graphs
+    display: Temporal Graphs
+  - id: graph-analytics
+    display: Graph Analytics
+  - id: graph-visualization
+    display: Graph Visualization
+  - id: distributed-graphs
+    display: Distributed Graphs
+  - id: graphrag
+    display: Graphrag
+  - id: graph-security
+    display: Graph Security
+  - id: ontology
+    display: Ontology
+  - id: semantic-web
+    display: Semantic Web
+  - id: graph-query-languages
+    display: Graph Query Languages
+  - id: survey
+    display: Survey
+  - id: method
+    display: Method
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
+  - id: experiment
+    display: Experiment
+  - id: systems
+    display: Systems
+  - id: development
+    display: Development
+arxiv_queries:
+- query: abs:"graph neural network survey"
+  category: graph-neural-networks
+  subcategory_hint: review
+- query: abs:"knowledge graph survey"
+  category: knowledge-graphs
+  subcategory_hint: review
+- query: abs:"graph embedding survey"
+  category: graph-embeddings
+  subcategory_hint: review
+- query: abs:"graph database survey"
+  category: graph-databases
+  subcategory_hint: review
+- query: abs:"community detection survey"
+  category: community-detection
+  subcategory_hint: review
+- query: abs:"graph algorithm survey"
+  category: graph-algorithms
+  subcategory_hint: review
+- query: abs:"graph theory algorithms"
+  category: graph-theory
+  subcategory_hint: theory
+- query: abs:"temporal graph analysis"
+  category: temporal-graphs
+  subcategory_hint: method
+- query: abs:"graph analytics benchmark"
+  category: graph-analytics
+  subcategory_hint: evaluation
+- query: abs:"graph visualization survey"
+  category: graph-visualization
+  subcategory_hint: review
+- query: abs:"distributed graph processing"
+  category: distributed-graphs
+  subcategory_hint: systems
+- query: abs:"retrieval augmented generation graph"
+  category: graphrag
+  subcategory_hint: method
+- query: abs:"graph retrieval augmented generation"
+  category: graphrag
+  subcategory_hint: method
+- query: abs:"graph neural network security"
+  category: graph-security
+  subcategory_hint: application
+- query: abs:"knowledge graph privacy"
+  category: graph-security
+  subcategory_hint: theory
+- query: abs:"graph data privacy"
+  category: graph-security
+  subcategory_hint: mechanism
+- query: abs:"ontology survey"
+  category: ontology
+  subcategory_hint: review
+- query: abs:"semantic web ontology"
+  category: semantic-web
+  subcategory_hint: application
+- query: abs:"graph query language survey"
+  category: graph-query-languages
+  subcategory_hint: review
+- query: abs:"SPARQL benchmark"
+  category: graph-query-languages
+  subcategory_hint: evaluation
+other_sources_queries:
+- source: crossref
+  query: graph neural network survey
+  category: graph-neural-networks
+  subcategory_hint: review
+- source: crossref
+  query: knowledge graph survey
+  category: knowledge-graphs
+  subcategory_hint: review
+- source: crossref
+  query: graph embedding survey
+  category: graph-embeddings
+  subcategory_hint: review
+- source: crossref
+  query: graph database survey
+  category: graph-databases
+  subcategory_hint: review
+- source: crossref
+  query: community detection survey
+  category: community-detection
+  subcategory_hint: review
+- source: dblp
+  query: graph algorithm survey
+  category: graph-algorithms
+  subcategory_hint: review
+- source: dblp
+  query: graph theory algorithms
+  category: graph-theory
+  subcategory_hint: theory
+- source: dblp
+  query: temporal graph analysis
+  category: temporal-graphs
+  subcategory_hint: method
+- source: dblp
+  query: graph analytics benchmark
+  category: graph-analytics
+  subcategory_hint: evaluation
+- source: dblp
+  query: graph visualization survey
+  category: graph-visualization
+  subcategory_hint: review
+- source: dblp
+  query: distributed graph processing
+  category: distributed-graphs
+  subcategory_hint: systems
+- source: dblp
+  query: retrieval augmented generation graph
+  category: graphrag
+  subcategory_hint: method
+- source: crossref
+  query: graph retrieval augmented generation
+  category: graphrag
+  subcategory_hint: method
+- source: crossref
+  query: graph neural network security
+  category: graph-security
+  subcategory_hint: application
+- source: crossref
+  query: knowledge graph privacy
+  category: graph-security
+  subcategory_hint: theory
+- source: dblp
+  query: graph data privacy
+  category: graph-security
+  subcategory_hint: mechanism
+- source: dblp
+  query: ontology survey
+  category: ontology
+  subcategory_hint: review
+- source: dblp
+  query: semantic web ontology
+  category: semantic-web
+  subcategory_hint: application
+- source: dblp
+  query: graph query language survey
+  category: graph-query-languages
+  subcategory_hint: review
+- source: dblp
+  query: SPARQL benchmark
+  category: graph-query-languages
+  subcategory_hint: evaluation
+openalex_queries:
+- category: graph-neural-networks
+  query: graph neural network survey
+- category: knowledge-graphs
+  query: knowledge graph survey
+- category: graph-embeddings
+  query: graph embedding survey
+- category: graph-databases
+  query: graph database survey
+- category: community-detection
+  query: community detection survey
+- category: graph-algorithms
+  query: graph algorithm survey
+- category: graph-theory
+  query: graph theory algorithms
+- category: temporal-graphs
+  query: temporal graph analysis
+- category: graph-analytics
+  query: graph analytics benchmark
+- category: graph-visualization
+  query: graph visualization survey
+- category: distributed-graphs
+  query: distributed graph processing
+- category: graphrag
+  query: retrieval augmented generation graph
+- category: graphrag
+  query: graph retrieval augmented generation
+- category: graph-security
+  query: graph neural network security
+- category: graph-security
+  query: knowledge graph privacy
+- category: graph-security
+  query: graph data privacy
+- category: ontology
+  query: ontology survey
+- category: semantic-web
+  query: semantic web ontology
+- category: graph-query-languages
+  query: graph query language survey
+- category: graph-query-languages
+  query: SPARQL benchmark
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - proof
+  - convergence
+  - bound
+  - consistency
+  - asymptotic
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - framework
+  - novel
+  - scheme
+- id: application
+  keywords:
+  - application
+  - applied
+  - real-world
+  - case study
+  - empirical
+- id: evaluation
+  keywords:
+  - benchmark
+  - evaluation
+  - comparison
+  - baseline
+  - empirical study
+- id: development
+  keywords:
+  - implementation
+  - software
+  - package
+  - library
+  - toolkit
+  - open-source
+- id: systems
+  keywords:
+  - system
+  - framework
+  - platform
+  - scalable
+  - distributed
+  - GPU
+  - parallel
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - tutorial
+  - overview
+  - taxonomy
+- id: experiment
+  keywords:
+  - experiment
+  - experimental
+  - simulation study
+  - numerical study
+  - synthetic
+relevance_keywords:
+- algorithm
+- algorithms
+- analysis
+- analytics
+- augmented
+- benchmark
+- community
+- community detection
+- data
+- database
+- detection
+- distributed
+- distributed graphs
+- embedding
+- generation
+- graph
+- graph algorithms
+- graph analytics
+- graph databases
+- graph embeddings
+- graph neural networks
+- graph query languages
+- graph security
+- graph theory
+- graph visualization
+- graphrag
+- knowledge
+- knowledge graphs
+- language
+- network
+- neural
+- ontology
+- privacy
+- processing
+- query
+- retrieval
+- security
+- semantic
+- semantic web
+- sparql
+- survey
+- temporal
+- temporal graphs
+- theory
+- visualization
+trend_keywords:
+- algorithm
+- algorithms
+- analysis
+- analytics
+- augmented
+- benchmark
+- community
+- community detection
+- data
+- database
+- detection
+- distributed
+- distributed graphs
+- embedding
+- generation
+- graph
+- graph algorithms
+- graph analytics
+- graph databases
+- graph embeddings
+- graph neural networks
+- graph query languages
+- graph security
+- graph theory
+- graph visualization
+- graphrag
+- knowledge
+- knowledge graphs
+- language
+- network
+- neural
+- ontology
+- privacy
+- processing
+- query
+- retrieval
+- security
+- semantic
+- semantic web
+- sparql
+- survey
+- temporal
+- temporal graphs
+- theory
+- visualization
