@@ -2,7 +2,7 @@
  "categories": [
   {
    "id": "community-detection",
-   "name": "community-detection",
+   "name": "Community Detection",
    "count": 840,
    "trajectory": {
     "2013": 2,
@@ -29,7 +29,7 @@
   },
   {
    "id": "distributed-graphs",
-   "name": "distributed-graphs",
+   "name": "Distributed Graphs",
    "count": 516,
    "trajectory": {
     "2016": 2,
@@ -58,7 +58,7 @@
   },
   {
    "id": "graph-algorithms",
-   "name": "graph-algorithms",
+   "name": "Graph Algorithms",
    "count": 1083,
    "trajectory": {
     "2021": 58,
@@ -82,7 +82,7 @@
   },
   {
    "id": "graph-analytics",
-   "name": "graph-analytics",
+   "name": "Graph Analytics",
    "count": 307,
    "trajectory": {
     "2021": 19,
@@ -154,7 +154,7 @@
   },
   {
    "id": "graph-databases",
-   "name": "graph-databases",
+   "name": "Graph Databases",
    "count": 614,
    "trajectory": {
     "2010": 7,
@@ -180,7 +180,7 @@
   },
   {
    "id": "graph-embeddings",
-   "name": "graph-embeddings",
+   "name": "Graph Embeddings",
    "count": 1058,
    "trajectory": {
     "2013": 3,
@@ -230,7 +230,7 @@
   },
   {
    "id": "graph-neural-networks",
-   "name": "graph-neural-networks",
+   "name": "Graph Neural Networks",
    "count": 2583,
    "trajectory": {
     "2021": 129,
@@ -254,7 +254,7 @@
   },
   {
    "id": "graph-query-languages",
-   "name": "graph-query-languages",
+   "name": "Graph Query Languages",
    "count": 409,
    "trajectory": {
     "2011": 1,
@@ -286,7 +286,7 @@
   },
   {
    "id": "graph-security",
-   "name": "graph-security",
+   "name": "Graph Security",
    "count": 974,
    "trajectory": {
     "2020": 1,
@@ -311,7 +311,7 @@
   },
   {
    "id": "graph-theory",
-   "name": "graph-theory",
+   "name": "Graph Theory",
    "count": 1096,
    "trajectory": {
     "1980": 4,
@@ -342,7 +342,7 @@
   },
   {
    "id": "graph-visualization",
-   "name": "graph-visualization",
+   "name": "Graph Visualization",
    "count": 435,
    "trajectory": {
     "2000": 1,
@@ -369,7 +369,7 @@
   },
   {
    "id": "graphrag",
-   "name": "graphrag",
+   "name": "Graphrag",
    "count": 1078,
    "trajectory": {
     "2021": 4,
@@ -393,7 +393,7 @@
   },
   {
    "id": "knowledge-graphs",
-   "name": "knowledge-graphs",
+   "name": "Knowledge Graphs",
    "count": 1626,
    "trajectory": {
     "2018": 1,
@@ -442,7 +442,7 @@
   },
   {
    "id": "ontology",
-   "name": "ontology",
+   "name": "Ontology",
    "count": 1009,
    "trajectory": {
     "2013": 1,
@@ -471,7 +471,7 @@
   },
   {
    "id": "semantic-web",
-   "name": "semantic-web",
+   "name": "Semantic Web",
    "count": 499,
    "trajectory": {
     "2007": 1,
@@ -505,7 +505,7 @@
   },
   {
    "id": "temporal-graphs",
-   "name": "temporal-graphs",
+   "name": "Temporal Graphs",
    "count": 691,
    "trajectory": {
     "2009": 1,
@@ -534,12 +534,12 @@
  "subcategories": [
   {
    "id": "application",
-   "name": "application",
+   "name": "Application",
    "count": 5634
   },
   {
    "id": "development",
-   "name": "development",
+   "name": "Development",
    "count": 495
   },
   {
@@ -554,7 +554,7 @@
   },
   {
    "id": "method",
-   "name": "method",
+   "name": "Method",
    "count": 3384
   },
   {
@@ -564,12 +564,12 @@
   },
   {
    "id": "systems",
-   "name": "systems",
+   "name": "Systems",
    "count": 3501
   },
   {
    "id": "theory",
-   "name": "theory",
+   "name": "Theory",
    "count": 2576
   }
  ],
@@ -100584,11 +100584,46 @@
  ],
  "keyword_bursts": [
   {
-   "keyword": "autonomous",
-   "recent": 149,
-   "total": 273,
-   "burst_score": 1.77,
-   "recent_share": 0.0242
+   "keyword": "graph security",
+   "recent": 1,
+   "total": 1,
+   "burst_score": 3.25,
+   "recent_share": 0.0002
+  },
+  {
+   "keyword": "graphrag",
+   "recent": 199,
+   "total": 294,
+   "burst_score": 2.2,
+   "recent_share": 0.0323
+  },
+  {
+   "keyword": "retrieval",
+   "recent": 940,
+   "total": 1663,
+   "burst_score": 1.84,
+   "recent_share": 0.1526
+  },
+  {
+   "keyword": "augmented",
+   "recent": 693,
+   "total": 1331,
+   "burst_score": 1.69,
+   "recent_share": 0.1125
+  },
+  {
+   "keyword": "generation",
+   "recent": 985,
+   "total": 2139,
+   "burst_score": 1.5,
+   "recent_share": 0.1599
+  },
+  {
+   "keyword": "query",
+   "recent": 588,
+   "total": 1390,
+   "burst_score": 1.37,
+   "recent_share": 0.0955
   },
   {
    "keyword": "benchmark",
@@ -100598,60 +100633,53 @@
    "recent_share": 0.2219
   },
   {
-   "keyword": "framework",
-   "recent": 2282,
-   "total": 5551,
-   "burst_score": 1.34,
-   "recent_share": 0.3705
+   "keyword": "language",
+   "recent": 1520,
+   "total": 3763,
+   "burst_score": 1.31,
+   "recent_share": 0.2468
   },
   {
-   "keyword": "evaluation",
-   "recent": 873,
-   "total": 2187,
-   "burst_score": 1.3,
-   "recent_share": 0.1417
+   "keyword": "semantic",
+   "recent": 993,
+   "total": 2554,
+   "burst_score": 1.26,
+   "recent_share": 0.1612
   },
   {
-   "keyword": "scalable",
-   "recent": 378,
-   "total": 947,
-   "burst_score": 1.3,
-   "recent_share": 0.0614
+   "keyword": "ontology",
+   "recent": 335,
+   "total": 942,
+   "burst_score": 1.16,
+   "recent_share": 0.0544
   },
   {
-   "keyword": "system",
-   "recent": 2000,
-   "total": 5200,
-   "burst_score": 1.25,
-   "recent_share": 0.3247
+   "keyword": "security",
+   "recent": 250,
+   "total": 707,
+   "burst_score": 1.15,
+   "recent_share": 0.0406
   },
   {
-   "keyword": "human",
-   "recent": 416,
-   "total": 1181,
-   "burst_score": 1.14,
-   "recent_share": 0.0675
+   "keyword": "database",
+   "recent": 286,
+   "total": 867,
+   "burst_score": 1.07,
+   "recent_share": 0.0464
   },
   {
-   "keyword": "review",
-   "recent": 248,
-   "total": 729,
-   "burst_score": 1.1,
-   "recent_share": 0.0403
+   "keyword": "sparql",
+   "recent": 71,
+   "total": 218,
+   "burst_score": 1.06,
+   "recent_share": 0.0115
   },
   {
-   "keyword": "tool",
-   "recent": 533,
-   "total": 1583,
-   "burst_score": 1.09,
-   "recent_share": 0.0865
-  },
-  {
-   "keyword": "model",
-   "recent": 3322,
-   "total": 10629,
-   "burst_score": 1.02,
-   "recent_share": 0.5393
+   "keyword": "graph visualization",
+   "recent": 38,
+   "total": 119,
+   "burst_score": 1.04,
+   "recent_share": 0.0062
   },
   {
    "keyword": "analysis",
@@ -100659,34 +100687,6 @@
    "total": 3411,
    "burst_score": 1.01,
    "recent_share": 0.1714
-  },
-  {
-   "keyword": "real-world",
-   "recent": 834,
-   "total": 3062,
-   "burst_score": 0.88,
-   "recent_share": 0.1354
-  },
-  {
-   "keyword": "dataset",
-   "recent": 1453,
-   "total": 5528,
-   "burst_score": 0.85,
-   "recent_share": 0.2359
-  },
-  {
-   "keyword": "method",
-   "recent": 1917,
-   "total": 7549,
-   "burst_score": 0.82,
-   "recent_share": 0.3112
-  },
-  {
-   "keyword": "learning",
-   "recent": 1562,
-   "total": 6402,
-   "burst_score": 0.79,
-   "recent_share": 0.2536
   }
  ]
 }

@@ -236,44 +236,44 @@
   },
   "emerging_themes_12m": [
     {
-      "keyword": "autonomous",
-      "papers": 149
+      "keyword": "graph security",
+      "papers": 1
+    },
+    {
+      "keyword": "graphrag",
+      "papers": 199
+    },
+    {
+      "keyword": "retrieval",
+      "papers": 940
+    },
+    {
+      "keyword": "augmented",
+      "papers": 693
+    },
+    {
+      "keyword": "generation",
+      "papers": 985
+    },
+    {
+      "keyword": "query",
+      "papers": 588
     },
     {
       "keyword": "benchmark",
       "papers": 1367
     },
     {
-      "keyword": "framework",
-      "papers": 2282
+      "keyword": "language",
+      "papers": 1520
     },
     {
-      "keyword": "evaluation",
-      "papers": 873
+      "keyword": "semantic",
+      "papers": 993
     },
     {
-      "keyword": "scalable",
-      "papers": 378
-    },
-    {
-      "keyword": "system",
-      "papers": 2000
-    },
-    {
-      "keyword": "human",
-      "papers": 416
-    },
-    {
-      "keyword": "review",
-      "papers": 248
-    },
-    {
-      "keyword": "tool",
-      "papers": 533
-    },
-    {
-      "keyword": "model",
-      "papers": 3322
+      "keyword": "ontology",
+      "papers": 335
     }
   ],
   "momentum": [
@@ -712,11 +712,46 @@
   },
   "keyword_bursts": [
     {
-      "keyword": "autonomous",
-      "recent": 149,
-      "total": 273,
-      "burst_score": 1.77,
-      "recent_share": 0.0242
+      "keyword": "graph security",
+      "recent": 1,
+      "total": 1,
+      "burst_score": 3.25,
+      "recent_share": 0.0002
+    },
+    {
+      "keyword": "graphrag",
+      "recent": 199,
+      "total": 294,
+      "burst_score": 2.2,
+      "recent_share": 0.0323
+    },
+    {
+      "keyword": "retrieval",
+      "recent": 940,
+      "total": 1663,
+      "burst_score": 1.84,
+      "recent_share": 0.1526
+    },
+    {
+      "keyword": "augmented",
+      "recent": 693,
+      "total": 1331,
+      "burst_score": 1.69,
+      "recent_share": 0.1125
+    },
+    {
+      "keyword": "generation",
+      "recent": 985,
+      "total": 2139,
+      "burst_score": 1.5,
+      "recent_share": 0.1599
+    },
+    {
+      "keyword": "query",
+      "recent": 588,
+      "total": 1390,
+      "burst_score": 1.37,
+      "recent_share": 0.0955
     },
     {
       "keyword": "benchmark",
@@ -726,60 +761,53 @@
       "recent_share": 0.2219
     },
     {
-      "keyword": "framework",
-      "recent": 2282,
-      "total": 5551,
-      "burst_score": 1.34,
-      "recent_share": 0.3705
+      "keyword": "language",
+      "recent": 1520,
+      "total": 3763,
+      "burst_score": 1.31,
+      "recent_share": 0.2468
     },
     {
-      "keyword": "evaluation",
-      "recent": 873,
-      "total": 2187,
-      "burst_score": 1.3,
-      "recent_share": 0.1417
+      "keyword": "semantic",
+      "recent": 993,
+      "total": 2554,
+      "burst_score": 1.26,
+      "recent_share": 0.1612
     },
     {
-      "keyword": "scalable",
-      "recent": 378,
-      "total": 947,
-      "burst_score": 1.3,
-      "recent_share": 0.0614
+      "keyword": "ontology",
+      "recent": 335,
+      "total": 942,
+      "burst_score": 1.16,
+      "recent_share": 0.0544
     },
     {
-      "keyword": "system",
-      "recent": 2000,
-      "total": 5200,
-      "burst_score": 1.25,
-      "recent_share": 0.3247
+      "keyword": "security",
+      "recent": 250,
+      "total": 707,
+      "burst_score": 1.15,
+      "recent_share": 0.0406
     },
     {
-      "keyword": "human",
-      "recent": 416,
-      "total": 1181,
-      "burst_score": 1.14,
-      "recent_share": 0.0675
+      "keyword": "database",
+      "recent": 286,
+      "total": 867,
+      "burst_score": 1.07,
+      "recent_share": 0.0464
     },
     {
-      "keyword": "review",
-      "recent": 248,
-      "total": 729,
-      "burst_score": 1.1,
-      "recent_share": 0.0403
+      "keyword": "sparql",
+      "recent": 71,
+      "total": 218,
+      "burst_score": 1.06,
+      "recent_share": 0.0115
     },
     {
-      "keyword": "tool",
-      "recent": 533,
-      "total": 1583,
-      "burst_score": 1.09,
-      "recent_share": 0.0865
-    },
-    {
-      "keyword": "model",
-      "recent": 3322,
-      "total": 10629,
-      "burst_score": 1.02,
-      "recent_share": 0.5393
+      "keyword": "graph visualization",
+      "recent": 38,
+      "total": 119,
+      "burst_score": 1.04,
+      "recent_share": 0.0062
     },
     {
       "keyword": "analysis",
@@ -787,34 +815,6 @@
       "total": 3411,
       "burst_score": 1.01,
       "recent_share": 0.1714
-    },
-    {
-      "keyword": "real-world",
-      "recent": 834,
-      "total": 3062,
-      "burst_score": 0.88,
-      "recent_share": 0.1354
-    },
-    {
-      "keyword": "dataset",
-      "recent": 1453,
-      "total": 5528,
-      "burst_score": 0.85,
-      "recent_share": 0.2359
-    },
-    {
-      "keyword": "method",
-      "recent": 1917,
-      "total": 7549,
-      "burst_score": 0.82,
-      "recent_share": 0.3112
-    },
-    {
-      "keyword": "learning",
-      "recent": 1562,
-      "total": 6402,
-      "burst_score": 0.79,
-      "recent_share": 0.2536
     }
   ],
   "source_breakdown": {
