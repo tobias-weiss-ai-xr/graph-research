@@ -273,14 +273,14 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/graph-
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| autonomous | 273 | 1.77 |
+| graph security | 1 | 3.25 |
+| graphrag | 294 | 2.20 |
+| retrieval | 1,663 | 1.84 |
+| augmented | 1,331 | 1.69 |
+| generation | 2,139 | 1.50 |
+| query | 1,390 | 1.37 |
 | benchmark | 3,298 | 1.35 |
-| framework | 5,551 | 1.34 |
-| evaluation | 2,187 | 1.30 |
-| scalable | 947 | 1.30 |
-| system | 5,200 | 1.25 |
-| human | 1,181 | 1.14 |
-| review | 729 | 1.10 |
+| language | 3,763 | 1.31 |
 
 
 ### Top venues
