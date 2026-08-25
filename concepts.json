@@ -1,6 +1,25 @@
 {
-  "count": 18,
+  "count": 38,
   "concepts": [
+    {
+      "term": "framework",
+      "kind": "curated",
+      "seed": true,
+      "df": 5334,
+      "match": {
+        "type": "text",
+        "forms": [
+          "framework"
+        ]
+      },
+      "papers": 5334,
+      "top_cells": [
+        "graph-applications/application",
+        "graph-neural-networks/application",
+        "knowledge-graphs/application",
+        "graph-neural-networks/theory"
+      ]
+    },
     {
       "term": "Graph Neural Networks",
       "kind": "taxonomy",
@@ -18,6 +37,44 @@
         "graph-neural-networks/mechanism"
       ],
       "papers": 2583
+    },
+    {
+      "term": "benchmark",
+      "kind": "curated",
+      "seed": true,
+      "df": 1964,
+      "match": {
+        "type": "text",
+        "forms": [
+          "benchmark"
+        ]
+      },
+      "papers": 1964,
+      "top_cells": [
+        "graph-applications/application",
+        "graph-neural-networks/systems",
+        "graph-neural-networks/application",
+        "knowledge-graphs/evaluation"
+      ]
+    },
+    {
+      "term": "dataset",
+      "kind": "curated",
+      "seed": true,
+      "df": 1701,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dataset"
+        ]
+      },
+      "papers": 1701,
+      "top_cells": [
+        "graph-applications/application",
+        "graph-neural-networks/application",
+        "graph-construction/evaluation",
+        "graph-security/application"
+      ]
     },
     {
       "term": "Knowledge Graphs",
@@ -200,6 +257,25 @@
       "papers": 614
     },
     {
+      "term": "survey",
+      "kind": "curated",
+      "seed": true,
+      "df": 601,
+      "match": {
+        "type": "text",
+        "forms": [
+          "survey"
+        ]
+      },
+      "papers": 601,
+      "top_cells": [
+        "graph-neural-networks/review",
+        "knowledge-graphs/review",
+        "ontology/review",
+        "graph-machine-learning/review"
+      ]
+    },
+    {
       "term": "Distributed Graphs",
       "kind": "taxonomy",
       "seed": true,
@@ -272,6 +348,25 @@
       "papers": 409
     },
     {
+      "term": "taxonomy",
+      "kind": "curated",
+      "seed": true,
+      "df": 380,
+      "match": {
+        "type": "text",
+        "forms": [
+          "taxonomy"
+        ]
+      },
+      "papers": 380,
+      "top_cells": [
+        "ontology/systems",
+        "ontology/application",
+        "ontology/evaluation",
+        "graph-neural-networks/review"
+      ]
+    },
+    {
       "term": "Graph Analytics",
       "kind": "taxonomy",
       "seed": true,
@@ -288,6 +383,267 @@
         "graph-analytics/method"
       ],
       "papers": 307
+    },
+    {
+      "term": "experiment",
+      "kind": "curated",
+      "seed": true,
+      "df": 224,
+      "match": {
+        "type": "text",
+        "forms": [
+          "experiment"
+        ]
+      },
+      "papers": 224,
+      "top_cells": [
+        "graph-neural-networks/application",
+        "ontology/application",
+        "graph-applications/systems",
+        "knowledge-graphs/systems"
+      ]
+    },
+    {
+      "term": "case study",
+      "kind": "curated",
+      "seed": true,
+      "df": 223,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case study"
+        ]
+      },
+      "papers": 223,
+      "top_cells": [
+        "network-science/application",
+        "knowledge-graphs/application",
+        "graph-security/application",
+        "graph-neural-networks/application"
+      ]
+    },
+    {
+      "term": "quantitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 222,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quantitative"
+        ]
+      },
+      "papers": 222,
+      "top_cells": [
+        "graph-neural-networks/application",
+        "network-science/application",
+        "knowledge-graphs/application",
+        "graph-neural-networks/theory"
+      ]
+    },
+    {
+      "term": "qualitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 144,
+      "match": {
+        "type": "text",
+        "forms": [
+          "qualitative"
+        ]
+      },
+      "papers": 144,
+      "top_cells": [
+        "knowledge-graphs/application",
+        "graph-neural-networks/application",
+        "graph-construction/application",
+        "ontology/systems"
+      ]
+    },
+    {
+      "term": "reproducibility",
+      "kind": "curated",
+      "seed": true,
+      "df": 109,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reproducibility"
+        ]
+      },
+      "papers": 109,
+      "top_cells": [
+        "graph-security/application",
+        "graph-applications/application",
+        "ontology/application",
+        "graph-construction/application"
+      ]
+    },
+    {
+      "term": "systematic review",
+      "kind": "curated",
+      "seed": true,
+      "df": 73,
+      "match": {
+        "type": "text",
+        "forms": [
+          "systematic review"
+        ]
+      },
+      "papers": 73,
+      "top_cells": [
+        "graph-neural-networks/review",
+        "knowledge-graphs/review",
+        "graphrag/review",
+        "graph-machine-learning/review"
+      ]
+    },
+    {
+      "term": "literature review",
+      "kind": "curated",
+      "seed": true,
+      "df": 52,
+      "match": {
+        "type": "text",
+        "forms": [
+          "literature review"
+        ]
+      },
+      "papers": 52,
+      "top_cells": [
+        "knowledge-graphs/review",
+        "knowledge-graphs/systems",
+        "ontology/review",
+        "graphrag/application"
+      ]
+    },
+    {
+      "term": "research gap",
+      "kind": "curated",
+      "seed": true,
+      "df": 21,
+      "match": {
+        "type": "text",
+        "forms": [
+          "research gap"
+        ]
+      },
+      "papers": 21,
+      "top_cells": [
+        "knowledge-graphs/mechanism",
+        "graph-neural-networks/application",
+        "ontology/systems",
+        "semantic-web/review"
+      ]
+    },
+    {
+      "term": "open access",
+      "kind": "curated",
+      "seed": true,
+      "df": 13,
+      "match": {
+        "type": "text",
+        "forms": [
+          "open access"
+        ]
+      },
+      "papers": 13,
+      "top_cells": [
+        "knowledge-graphs/evaluation",
+        "semantic-web/application",
+        "graph-neural-networks/application",
+        "temporal-graphs/application"
+      ]
+    },
+    {
+      "term": "peer review",
+      "kind": "curated",
+      "seed": true,
+      "df": 12,
+      "match": {
+        "type": "text",
+        "forms": [
+          "peer review"
+        ]
+      },
+      "papers": 12,
+      "top_cells": [
+        "graphrag/systems",
+        "knowledge-graphs/systems",
+        "ontology/systems",
+        "graph-neural-networks/review"
+      ]
+    },
+    {
+      "term": "triangulation",
+      "kind": "curated",
+      "seed": true,
+      "df": 11,
+      "match": {
+        "type": "text",
+        "forms": [
+          "triangulation"
+        ]
+      },
+      "papers": 11,
+      "top_cells": [
+        "graph-theory/method",
+        "graph-algorithms/systems",
+        "graph-neural-networks/method",
+        "graph-theory/theory"
+      ]
+    },
+    {
+      "term": "interview",
+      "kind": "curated",
+      "seed": true,
+      "df": 5,
+      "match": {
+        "type": "text",
+        "forms": [
+          "interview"
+        ]
+      },
+      "papers": 5,
+      "top_cells": [
+        "knowledge-graphs/application",
+        "graph-visualization/systems",
+        "graph-construction/systems",
+        "graph-visualization/review"
+      ]
+    },
+    {
+      "term": "mixed methods",
+      "kind": "curated",
+      "seed": true,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "mixed methods"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "ontology/application",
+        "ontology/method"
+      ]
+    },
+    {
+      "term": "grounded theory",
+      "kind": "curated",
+      "seed": true,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "grounded theory"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "graph-theory/theory"
+      ]
     },
     {
       "term": "Survey",
@@ -314,6 +670,20 @@
       },
       "top_cells": [],
       "papers": 0
+    },
+    {
+      "term": "meta analysis",
+      "kind": "curated",
+      "seed": true,
+      "df": 0,
+      "match": {
+        "type": "text",
+        "forms": [
+          "meta analysis"
+        ]
+      },
+      "papers": 0,
+      "top_cells": []
     }
   ]
 }
