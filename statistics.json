@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 20008,
+    "total_papers": 20011,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 20,
@@ -26,10 +26,10 @@
     "graph-machine-learning": 1072,
     "graph-neural-networks": 2583,
     "graph-query-languages": 409,
-    "graph-security": 974,
+    "graph-security": 975,
     "graph-theory": 1096,
     "graph-visualization": 435,
-    "graphrag": 1078,
+    "graphrag": 1080,
     "knowledge-graphs": 1626,
     "network-science": 1586,
     "ontology": 1009,
@@ -41,10 +41,10 @@
     "development": 495,
     "evaluation": 1599,
     "mechanism": 2140,
-    "method": 3384,
+    "method": 3386,
     "review": 679,
     "systems": 3501,
-    "theory": 2576
+    "theory": 2577
   },
   "by_year": {
     "1980": 4,
@@ -70,7 +70,7 @@
     "2023": 3175,
     "2024": 4230,
     "2025": 4277,
-    "2026": 4537
+    "2026": 4540
   },
   "by_cell": {
     "graph-applications/application": 709,
@@ -137,8 +137,8 @@
     "graphrag/evaluation": 117,
     "ontology/mechanism": 116,
     "community-detection/systems": 111,
+    "graphrag/method": 109,
     "graph-applications/evaluation": 108,
-    "graphrag/method": 107,
     "graph-visualization/method": 107,
     "graph-security/mechanism": 107,
     "graph-machine-learning/systems": 102,
@@ -157,9 +157,9 @@
     "temporal-graphs/mechanism": 79,
     "graph-databases/theory": 78,
     "graph-analytics/application": 78,
+    "graph-security/theory": 78,
     "graph-query-languages/systems": 77,
     "community-detection/mechanism": 77,
-    "graph-security/theory": 77,
     "temporal-graphs/systems": 73,
     "graph-visualization/systems": 71,
     "temporal-graphs/theory": 70,
@@ -245,15 +245,15 @@
     },
     {
       "keyword": "retrieval",
-      "papers": 940
+      "papers": 943
     },
     {
       "keyword": "augmented",
-      "papers": 693
+      "papers": 695
     },
     {
       "keyword": "generation",
-      "papers": 985
+      "papers": 987
     },
     {
       "keyword": "query",
@@ -265,11 +265,11 @@
     },
     {
       "keyword": "language",
-      "papers": 1520
+      "papers": 1522
     },
     {
       "keyword": "semantic",
-      "papers": 993
+      "papers": 994
     },
     {
       "keyword": "ontology",
@@ -280,13 +280,13 @@
     {
       "id": "graphrag",
       "name": "Graphrag",
-      "total": 1078,
-      "recent": 706,
+      "total": 1080,
+      "recent": 708,
       "prior": 288,
-      "growth_pct": 145.1,
-      "recent_share": 0.655,
-      "papers_per_month": 58.8,
-      "score": 210.6
+      "growth_pct": 145.8,
+      "recent_share": 0.656,
+      "papers_per_month": 59.0,
+      "score": 211.4
     },
     {
       "id": "ontology",
@@ -324,13 +324,13 @@
     {
       "id": "graph-security",
       "name": "Graph Security",
-      "total": 974,
-      "recent": 356,
+      "total": 975,
+      "recent": 357,
       "prior": 224,
-      "growth_pct": 58.9,
+      "growth_pct": 59.4,
       "recent_share": 0.366,
-      "papers_per_month": 29.7,
-      "score": 95.5
+      "papers_per_month": 29.8,
+      "score": 96.0
     },
     {
       "id": "graph-neural-networks",
@@ -614,7 +614,7 @@
       "2023": 153,
       "2024": 193,
       "2025": 252,
-      "2026": 241
+      "2026": 242
     },
     "graph-theory": {
       "1980": 4,
@@ -648,7 +648,7 @@
       "2023": 27,
       "2024": 121,
       "2025": 374,
-      "2026": 537
+      "2026": 539
     },
     "knowledge-graphs": {
       "2018": 1,
@@ -727,58 +727,58 @@
     },
     {
       "keyword": "retrieval",
-      "recent": 940,
-      "total": 1663,
+      "recent": 943,
+      "total": 1666,
       "burst_score": 1.84,
-      "recent_share": 0.1526
+      "recent_share": 0.153
     },
     {
       "keyword": "augmented",
-      "recent": 693,
-      "total": 1331,
+      "recent": 695,
+      "total": 1333,
       "burst_score": 1.69,
-      "recent_share": 0.1125
+      "recent_share": 0.1128
     },
     {
       "keyword": "generation",
-      "recent": 985,
-      "total": 2139,
+      "recent": 987,
+      "total": 2141,
       "burst_score": 1.5,
-      "recent_share": 0.1599
+      "recent_share": 0.1601
     },
     {
       "keyword": "query",
       "recent": 588,
       "total": 1390,
       "burst_score": 1.37,
-      "recent_share": 0.0955
+      "recent_share": 0.0954
     },
     {
       "keyword": "benchmark",
       "recent": 1367,
       "total": 3298,
       "burst_score": 1.35,
-      "recent_share": 0.2219
+      "recent_share": 0.2218
     },
     {
       "keyword": "language",
-      "recent": 1520,
-      "total": 3763,
+      "recent": 1522,
+      "total": 3765,
       "burst_score": 1.31,
-      "recent_share": 0.2468
+      "recent_share": 0.247
     },
     {
       "keyword": "semantic",
-      "recent": 993,
-      "total": 2554,
+      "recent": 994,
+      "total": 2555,
       "burst_score": 1.26,
-      "recent_share": 0.1612
+      "recent_share": 0.1613
     },
     {
       "keyword": "ontology",
       "recent": 335,
       "total": 942,
-      "burst_score": 1.16,
+      "burst_score": 1.15,
       "recent_share": 0.0544
     },
     {
@@ -811,14 +811,14 @@
     },
     {
       "keyword": "analysis",
-      "recent": 1056,
-      "total": 3411,
+      "recent": 1057,
+      "total": 3412,
       "burst_score": 1.01,
-      "recent_share": 0.1714
+      "recent_share": 0.1715
     }
   ],
   "source_breakdown": {
-    "arxiv": 15427,
+    "arxiv": 15430,
     "doi": 4193,
     "other": 388
   },
