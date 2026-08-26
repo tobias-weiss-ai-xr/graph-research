@@ -4,7 +4,7 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 5334
+      "df": 5336
     },
     {
       "id": 1,
@@ -46,7 +46,7 @@
       "id": 7,
       "term": "Graphrag",
       "kind": "taxonomy",
-      "df": 1078
+      "df": 1080
     },
     {
       "id": 8,
@@ -64,7 +64,7 @@
       "id": 10,
       "term": "Graph Security",
       "kind": "taxonomy",
-      "df": 974
+      "df": 975
     },
     {
       "id": 11,
@@ -142,7 +142,7 @@
       "id": 23,
       "term": "quantitative",
       "kind": "curated",
-      "df": 222
+      "df": 223
     },
     {
       "id": 24,
@@ -313,7 +313,7 @@
     {
       "source": 0,
       "target": 23,
-      "weight": 85
+      "weight": 86
     },
     {
       "source": 4,
@@ -358,7 +358,7 @@
     {
       "source": 0,
       "target": 7,
-      "weight": 530
+      "weight": 531
     },
     {
       "source": 7,
@@ -833,7 +833,7 @@
     {
       "source": 0,
       "target": 10,
-      "weight": 315
+      "weight": 316
     },
     {
       "source": 3,
@@ -853,7 +853,7 @@
     {
       "source": 10,
       "target": 23,
-      "weight": 12
+      "weight": 13
     },
     {
       "source": 10,
@@ -1449,6 +1449,6 @@
   "stats": {
     "concepts": 38,
     "edges": 243,
-    "papers": 20008
+    "papers": 20011
   }
 }

@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 5334,
+      "df": 5336,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 5334,
+      "papers": 5336,
       "top_cells": [
         "graph-applications/application",
         "graph-neural-networks/application",
@@ -134,7 +134,7 @@
       "term": "Graphrag",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1078,
+      "df": 1080,
       "match": {
         "type": "field",
         "field": "category",
@@ -146,7 +146,7 @@
         "graphrag/mechanism",
         "graphrag/evaluation"
       ],
-      "papers": 1078
+      "papers": 1080
     },
     {
       "term": "Graph Embeddings",
@@ -188,7 +188,7 @@
       "term": "Graph Security",
       "kind": "taxonomy",
       "seed": true,
-      "df": 974,
+      "df": 975,
       "match": {
         "type": "field",
         "field": "category",
@@ -200,7 +200,7 @@
         "graph-security/mechanism",
         "graph-security/theory"
       ],
-      "papers": 974
+      "papers": 975
     },
     {
       "term": "Community Detection",
@@ -426,14 +426,14 @@
       "term": "quantitative",
       "kind": "curated",
       "seed": true,
-      "df": 222,
+      "df": 223,
       "match": {
         "type": "text",
         "forms": [
           "quantitative"
         ]
       },
-      "papers": 222,
+      "papers": 223,
       "top_cells": [
         "graph-neural-networks/application",
         "network-science/application",

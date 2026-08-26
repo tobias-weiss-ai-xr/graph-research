@@ -1,22 +1,22 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 38 concepts, 243 relationships from 20008 papers. Edges = co-occurrence (shared papers).
+**Generated:** 38 concepts, 243 relationships from 20011 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| framework | curated | 5334 |
+| framework | curated | 5336 |
 | Graph Neural Networks | taxonomy | 2583 |
 | benchmark | curated | 1964 |
 | dataset | curated | 1701 |
 | Knowledge Graphs | taxonomy | 1626 |
 | Graph Theory | taxonomy | 1096 |
 | Graph Algorithms | taxonomy | 1083 |
-| Graphrag | taxonomy | 1078 |
+| Graphrag | taxonomy | 1080 |
 | Graph Embeddings | taxonomy | 1058 |
 | Ontology | taxonomy | 1009 |
-| Graph Security | taxonomy | 974 |
+| Graph Security | taxonomy | 975 |
 | Community Detection | taxonomy | 840 |
 | Temporal Graphs | taxonomy | 691 |
 | Graph Databases | taxonomy | 614 |
@@ -29,7 +29,7 @@
 | Graph Analytics | taxonomy | 307 |
 | experiment | curated | 224 |
 | case study | curated | 223 |
-| quantitative | curated | 222 |
+| quantitative | curated | 223 |
 | qualitative | curated | 144 |
 | reproducibility | curated | 109 |
 | systematic review | curated | 73 |
@@ -53,8 +53,8 @@
 - benchmark — 733 shared paper(s)
 - Knowledge Graphs — 558 shared paper(s)
 - dataset — 544 shared paper(s)
-- Graphrag — 530 shared paper(s)
-- Graph Security — 315 shared paper(s)
+- Graphrag — 531 shared paper(s)
+- Graph Security — 316 shared paper(s)
 - Graph Embeddings — 313 shared paper(s)
 - Ontology — 305 shared paper(s)
 
@@ -125,7 +125,7 @@
 
 ### Graphrag
 
-- framework — 530 shared paper(s)
+- framework — 531 shared paper(s)
 - benchmark — 176 shared paper(s)
 - dataset — 120 shared paper(s)
 - survey — 18 shared paper(s)
@@ -158,14 +158,14 @@
 
 ### Graph Security
 
-- framework — 315 shared paper(s)
+- framework — 316 shared paper(s)
 - dataset — 133 shared paper(s)
 - benchmark — 90 shared paper(s)
 - survey — 22 shared paper(s)
 - case study — 22 shared paper(s)
 - experiment — 17 shared paper(s)
 - taxonomy — 14 shared paper(s)
-- reproducibility — 13 shared paper(s)
+- quantitative — 13 shared paper(s)
 
 ### Community Detection
 
@@ -299,7 +299,7 @@
 
 ### quantitative
 
-- framework — 85 shared paper(s)
+- framework — 86 shared paper(s)
 - qualitative — 47 shared paper(s)
 - dataset — 30 shared paper(s)
 - Knowledge Graphs — 23 shared paper(s)
