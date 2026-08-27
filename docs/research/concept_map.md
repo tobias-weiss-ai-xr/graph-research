@@ -1,6 +1,6 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 38 concepts, 243 relationships from 20011 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 292 relationships from 20010 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
@@ -11,12 +11,16 @@
 | benchmark | curated | 1964 |
 | dataset | curated | 1701 |
 | Knowledge Graphs | taxonomy | 1626 |
+| Network Science | taxonomy | 1586 |
+| Graph Applications | taxonomy | 1580 |
 | Graph Theory | taxonomy | 1096 |
-| Graph Algorithms | taxonomy | 1083 |
+| Graph Algorithms | taxonomy | 1082 |
 | Graphrag | taxonomy | 1080 |
+| Graph Machine Learning | taxonomy | 1072 |
 | Graph Embeddings | taxonomy | 1058 |
 | Ontology | taxonomy | 1009 |
 | Graph Security | taxonomy | 975 |
+| Graph Construction | taxonomy | 952 |
 | Community Detection | taxonomy | 840 |
 | Temporal Graphs | taxonomy | 691 |
 | Graph Databases | taxonomy | 614 |
@@ -42,8 +46,6 @@
 | mixed methods | curated | 2 |
 | grounded theory | curated | 1 |
 | Survey | taxonomy | 0 |
-| Method | taxonomy | 0 |
-| meta analysis | curated | 0 |
 
 ## Relationships (top concepts → related concepts)
 
@@ -54,9 +56,9 @@
 - Knowledge Graphs — 558 shared paper(s)
 - dataset — 544 shared paper(s)
 - Graphrag — 531 shared paper(s)
-- Graph Security — 316 shared paper(s)
-- Graph Embeddings — 313 shared paper(s)
-- Ontology — 305 shared paper(s)
+- Graph Applications — 528 shared paper(s)
+- Graph Machine Learning — 369 shared paper(s)
+- Network Science — 352 shared paper(s)
 
 ### Graph Neural Networks
 
@@ -75,21 +77,21 @@
 - dataset — 330 shared paper(s)
 - Graph Neural Networks — 307 shared paper(s)
 - Knowledge Graphs — 224 shared paper(s)
+- Graph Applications — 200 shared paper(s)
 - Graphrag — 176 shared paper(s)
-- Ontology — 134 shared paper(s)
-- Graph Embeddings — 123 shared paper(s)
-- taxonomy — 92 shared paper(s)
+- Graph Construction — 159 shared paper(s)
+- Graph Machine Learning — 147 shared paper(s)
 
 ### dataset
 
 - framework — 544 shared paper(s)
 - benchmark — 330 shared paper(s)
+- Graph Applications — 260 shared paper(s)
 - Graph Neural Networks — 238 shared paper(s)
+- Graph Construction — 203 shared paper(s)
 - Knowledge Graphs — 195 shared paper(s)
 - Graph Security — 133 shared paper(s)
 - Graphrag — 120 shared paper(s)
-- Ontology — 115 shared paper(s)
-- taxonomy — 78 shared paper(s)
 
 ### Knowledge Graphs
 
@@ -101,6 +103,28 @@
 - quantitative — 23 shared paper(s)
 - case study — 23 shared paper(s)
 - experiment — 19 shared paper(s)
+
+### Network Science
+
+- framework — 352 shared paper(s)
+- dataset — 60 shared paper(s)
+- benchmark — 49 shared paper(s)
+- quantitative — 39 shared paper(s)
+- survey — 32 shared paper(s)
+- case study — 30 shared paper(s)
+- qualitative — 16 shared paper(s)
+- taxonomy — 10 shared paper(s)
+
+### Graph Applications
+
+- framework — 528 shared paper(s)
+- dataset — 260 shared paper(s)
+- benchmark — 200 shared paper(s)
+- quantitative — 22 shared paper(s)
+- case study — 19 shared paper(s)
+- experiment — 17 shared paper(s)
+- qualitative — 15 shared paper(s)
+- survey — 15 shared paper(s)
 
 ### Graph Theory
 
@@ -134,6 +158,17 @@
 - quantitative — 8 shared paper(s)
 - qualitative — 8 shared paper(s)
 
+### Graph Machine Learning
+
+- framework — 369 shared paper(s)
+- benchmark — 147 shared paper(s)
+- dataset — 77 shared paper(s)
+- survey — 43 shared paper(s)
+- experiment — 14 shared paper(s)
+- taxonomy — 14 shared paper(s)
+- quantitative — 9 shared paper(s)
+- reproducibility — 7 shared paper(s)
+
 ### Graph Embeddings
 
 - framework — 313 shared paper(s)
@@ -166,6 +201,17 @@
 - experiment — 17 shared paper(s)
 - taxonomy — 14 shared paper(s)
 - quantitative — 13 shared paper(s)
+
+### Graph Construction
+
+- framework — 232 shared paper(s)
+- dataset — 203 shared paper(s)
+- benchmark — 159 shared paper(s)
+- experiment — 26 shared paper(s)
+- survey — 19 shared paper(s)
+- quantitative — 14 shared paper(s)
+- qualitative — 14 shared paper(s)
+- case study — 13 shared paper(s)
 
 ### Community Detection
 
@@ -207,9 +253,9 @@
 - Knowledge Graphs — 91 shared paper(s)
 - framework — 67 shared paper(s)
 - Ontology — 51 shared paper(s)
+- Graph Machine Learning — 43 shared paper(s)
+- Network Science — 32 shared paper(s)
 - benchmark — 32 shared paper(s)
-- systematic review — 30 shared paper(s)
-- Community Detection — 25 shared paper(s)
 
 ### Distributed Graphs
 
@@ -274,50 +320,6 @@
 - quantitative — 3 shared paper(s)
 - experiment — 3 shared paper(s)
 - case study — 2 shared paper(s)
-
-### experiment
-
-- framework — 52 shared paper(s)
-- dataset — 39 shared paper(s)
-- benchmark — 33 shared paper(s)
-- Graph Neural Networks — 27 shared paper(s)
-- Ontology — 19 shared paper(s)
-- Knowledge Graphs — 19 shared paper(s)
-- Graph Security — 17 shared paper(s)
-- Graph Embeddings — 13 shared paper(s)
-
-### case study
-
-- framework — 85 shared paper(s)
-- Graph Neural Networks — 24 shared paper(s)
-- dataset — 24 shared paper(s)
-- Knowledge Graphs — 23 shared paper(s)
-- Graph Security — 22 shared paper(s)
-- Ontology — 19 shared paper(s)
-- quantitative — 13 shared paper(s)
-- Graphrag — 12 shared paper(s)
-
-### quantitative
-
-- framework — 86 shared paper(s)
-- qualitative — 47 shared paper(s)
-- dataset — 30 shared paper(s)
-- Knowledge Graphs — 23 shared paper(s)
-- Graph Neural Networks — 23 shared paper(s)
-- Ontology — 20 shared paper(s)
-- benchmark — 18 shared paper(s)
-- case study — 13 shared paper(s)
-
-### qualitative
-
-- framework — 51 shared paper(s)
-- quantitative — 47 shared paper(s)
-- dataset — 29 shared paper(s)
-- Ontology — 18 shared paper(s)
-- Knowledge Graphs — 18 shared paper(s)
-- Graph Neural Networks — 16 shared paper(s)
-- benchmark — 12 shared paper(s)
-- Graph Visualization — 9 shared paper(s)
 
 
 Generated by `tools/relate_concepts.py` — do not edit by hand.

@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 42,
   "concepts": [
     {
       "term": "framework",
@@ -95,6 +95,42 @@
       "papers": 1626
     },
     {
+      "term": "Network Science",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1586,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "network-science"
+      },
+      "top_cells": [
+        "network-science/application",
+        "network-science/method",
+        "network-science/systems",
+        "network-science/theory"
+      ],
+      "papers": 1586
+    },
+    {
+      "term": "Graph Applications",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1580,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "graph-applications"
+      },
+      "top_cells": [
+        "graph-applications/application",
+        "graph-applications/systems",
+        "graph-applications/mechanism",
+        "graph-applications/method"
+      ],
+      "papers": 1580
+    },
+    {
       "term": "Graph Theory",
       "kind": "taxonomy",
       "seed": true,
@@ -116,7 +152,7 @@
       "term": "Graph Algorithms",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1083,
+      "df": 1082,
       "match": {
         "type": "field",
         "field": "category",
@@ -128,7 +164,7 @@
         "graph-algorithms/application",
         "graph-algorithms/systems"
       ],
-      "papers": 1083
+      "papers": 1082
     },
     {
       "term": "Graphrag",
@@ -147,6 +183,24 @@
         "graphrag/evaluation"
       ],
       "papers": 1080
+    },
+    {
+      "term": "Graph Machine Learning",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1072,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "graph-machine-learning"
+      },
+      "top_cells": [
+        "graph-machine-learning/application",
+        "graph-machine-learning/theory",
+        "graph-machine-learning/method",
+        "graph-machine-learning/evaluation"
+      ],
+      "papers": 1072
     },
     {
       "term": "Graph Embeddings",
@@ -201,6 +255,24 @@
         "graph-security/theory"
       ],
       "papers": 975
+    },
+    {
+      "term": "Graph Construction",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 952,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "graph-construction"
+      },
+      "top_cells": [
+        "graph-construction/application",
+        "graph-construction/systems",
+        "graph-construction/evaluation",
+        "graph-construction/method"
+      ],
+      "papers": 952
     },
     {
       "term": "Community Detection",
