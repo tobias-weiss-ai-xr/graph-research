@@ -1,47 +1,47 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 292 edges, 1 components, 1 communities (modularity -1659.081). Edges = co-occurrence.
+**Generated:** 42 nodes, 317 edges, 1 components, 1 communities (modularity -2047.399). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.2260, degree 35, df 5336
-- **benchmark** — PR 0.1013, degree 33, df 1964
-- **dataset** — PR 0.0881, degree 32, df 1701
-- **Graph Neural Networks** — PR 0.0525, degree 16, df 2583
-- **Knowledge Graphs** — PR 0.0412, degree 16, df 1626
-- **Graph Applications** — PR 0.0348, degree 12, df 1580
-- **Ontology** — PR 0.0347, degree 15, df 1009
-- **survey** — PR 0.0346, degree 32, df 601
-- **taxonomy** — PR 0.0305, degree 29, df 380
-- **Graphrag** — PR 0.0298, degree 13, df 1080
-- **Graph Construction** — PR 0.0249, degree 13, df 952
-- **Graph Machine Learning** — PR 0.0234, degree 11, df 1072
+- **framework** — PR 0.2077, degree 37, df 5559
+- **benchmark** — PR 0.0903, degree 33, df 2022
+- **dataset** — PR 0.0803, degree 32, df 1783
+- **survey** — PR 0.0675, degree 34, df 1507
+- **Graph Neural Networks** — PR 0.0573, degree 16, df 2981
+- **Knowledge Graphs** — PR 0.0456, degree 16, df 1983
+- **taxonomy** — PR 0.0319, degree 30, df 480
+- **Graph Applications** — PR 0.0300, degree 12, df 1580
+- **Graph Embeddings** — PR 0.0269, degree 14, df 1285
+- **Ontology** — PR 0.0268, degree 15, df 1009
+- **Graphrag** — PR 0.0257, degree 13, df 1080
+- **quantitative** — PR 0.0232, degree 33, df 303
 
 ## Bridge nodes (high betweenness — connect clusters)
 
 - framework
 - survey
 - benchmark
-- Ontology
-- dataset
-- taxonomy
 - quantitative
-- case study
-- experiment
+- dataset
 - qualitative
+- case study
+- taxonomy
+- experiment
+- reproducibility
 
 ## Bridge edges (high edge-betweenness)
 
-- Ontology ↔ mixed methods (weight 2, EB 37.0)
-- framework ↔ triangulation (weight 2, EB 26.7667)
-- survey ↔ interview (weight 2, EB 24.6)
-- framework ↔ open access (weight 3, EB 9.1429)
-- framework ↔ peer review (weight 4, EB 8.694)
-- framework ↔ Ontology (weight 305, EB 8.4151)
-- benchmark ↔ open access (weight 2, EB 8.3095)
-- survey ↔ peer review (weight 2, EB 8.0179)
-- Ontology ↔ survey (weight 51, EB 7.898)
-- Graph Theory ↔ survey (weight 19, EB 7.898)
+- framework ↔ triangulation (weight 3, EB 27.1667)
+- framework ↔ open access (weight 3, EB 10.3095)
+- framework ↔ mixed methods (weight 3, EB 9.4762)
+- framework ↔ peer review (weight 4, EB 8.6667)
+- framework ↔ Distributed Graphs (weight 97, EB 8.45)
+- benchmark ↔ open access (weight 2, EB 7.9762)
+- survey ↔ peer review (weight 2, EB 7.6667)
+- dataset ↔ open access (weight 3, EB 7.4762)
+- framework ↔ interview (weight 6, EB 7.4667)
+- Graph Neural Networks ↔ triangulation (weight 2, EB 7.3095)
 
 ## Communities (clusters of related concepts)
 
