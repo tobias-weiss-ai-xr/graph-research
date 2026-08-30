@@ -1,12 +1,12 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 354 edges, 1 components, 1 communities (modularity -2694.13). Edges = co-occurrence.
+**Generated:** 42 nodes, 354 edges, 1 components, 1 communities (modularity -2693.641). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1962, degree 37, df 6634
+- **framework** — PR 0.1962, degree 37, df 6633
 - **benchmark** — PR 0.0868, degree 34, df 2403
-- **survey** — PR 0.0808, degree 36, df 2304
+- **survey** — PR 0.0808, degree 36, df 2303
 - **dataset** — PR 0.0799, degree 34, df 2212
 - **Graph Neural Networks** — PR 0.0456, degree 16, df 2982
 - **Knowledge Graphs** — PR 0.0364, degree 16, df 1983

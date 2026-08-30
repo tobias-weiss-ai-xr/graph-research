@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 6634,
+      "df": 6633,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 6634,
+      "papers": 6633,
       "top_cells": [
         "graph-security/method",
         "graph-applications/application",
@@ -61,14 +61,14 @@
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 2304,
+      "df": 2303,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 2304,
+      "papers": 2303,
       "top_cells": [
         "community-detection/method",
         "graph-neural-networks/method",
@@ -243,7 +243,7 @@
       "term": "Graph Embeddings",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1287,
+      "df": 1285,
       "match": {
         "type": "field",
         "field": "category",
@@ -255,7 +255,7 @@
         "graph-embeddings/theory",
         "graph-embeddings/systems"
       ],
-      "papers": 1287
+      "papers": 1285
     },
     {
       "term": "Temporal Graphs",

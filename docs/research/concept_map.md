@@ -1,15 +1,15 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 42 concepts, 354 relationships from 25326 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 354 relationships from 25324 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| framework | curated | 6634 |
+| framework | curated | 6633 |
 | Graph Neural Networks | taxonomy | 2982 |
 | benchmark | curated | 2403 |
-| survey | curated | 2304 |
+| survey | curated | 2303 |
 | dataset | curated | 2212 |
 | Knowledge Graphs | taxonomy | 1983 |
 | Graph Security | taxonomy | 1972 |
@@ -19,7 +19,7 @@
 | Graphrag | taxonomy | 1404 |
 | Graph Algorithms | taxonomy | 1397 |
 | Community Detection | taxonomy | 1393 |
-| Graph Embeddings | taxonomy | 1287 |
+| Graph Embeddings | taxonomy | 1285 |
 | Temporal Graphs | taxonomy | 1134 |
 | Graph Machine Learning | taxonomy | 1072 |
 | Ontology | taxonomy | 1009 |
@@ -58,7 +58,7 @@
 - Graph Security — 642 shared paper(s)
 - Knowledge Graphs — 607 shared paper(s)
 - Graph Applications — 528 shared paper(s)
-- Graph Embeddings — 378 shared paper(s)
+- Graph Embeddings — 377 shared paper(s)
 
 ### Graph Neural Networks
 
@@ -194,8 +194,8 @@
 
 ### Graph Embeddings
 
-- framework — 378 shared paper(s)
-- survey — 170 shared paper(s)
+- framework — 377 shared paper(s)
+- survey — 169 shared paper(s)
 - benchmark — 146 shared paper(s)
 - dataset — 89 shared paper(s)
 - taxonomy — 25 shared paper(s)

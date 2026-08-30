@@ -4,7 +4,7 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 6634
+      "df": 6633
     },
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "id": 3,
       "term": "survey",
       "kind": "curated",
-      "df": 2304
+      "df": 2303
     },
     {
       "id": 4,
@@ -82,7 +82,7 @@
       "id": 13,
       "term": "Graph Embeddings",
       "kind": "taxonomy",
-      "df": 1287
+      "df": 1285
     },
     {
       "id": 14,
@@ -642,7 +642,7 @@
     {
       "source": 0,
       "target": 13,
-      "weight": 378
+      "weight": 377
     },
     {
       "source": 2,
@@ -1372,7 +1372,7 @@
     {
       "source": 3,
       "target": 13,
-      "weight": 170
+      "weight": 169
     },
     {
       "source": 13,
@@ -2028,6 +2028,6 @@
   "stats": {
     "concepts": 42,
     "edges": 354,
-    "papers": 25326
+    "papers": 25324
   }
 }
