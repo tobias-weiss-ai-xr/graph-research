@@ -1,43 +1,43 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 42 concepts, 354 relationships from 25343 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 354 relationships from 25326 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| framework | curated | 6638 |
-| Graph Neural Networks | taxonomy | 2984 |
+| framework | curated | 6634 |
+| Graph Neural Networks | taxonomy | 2982 |
 | benchmark | curated | 2403 |
-| survey | curated | 2308 |
-| dataset | curated | 2213 |
-| Knowledge Graphs | taxonomy | 1986 |
-| Graph Security | taxonomy | 1973 |
+| survey | curated | 2304 |
+| dataset | curated | 2212 |
+| Knowledge Graphs | taxonomy | 1983 |
+| Graph Security | taxonomy | 1972 |
 | Network Science | taxonomy | 1586 |
-| Graph Applications | taxonomy | 1580 |
+| Graph Applications | taxonomy | 1579 |
 | Graph Theory | taxonomy | 1562 |
-| Graphrag | taxonomy | 1405 |
-| Graph Algorithms | taxonomy | 1398 |
+| Graphrag | taxonomy | 1404 |
+| Graph Algorithms | taxonomy | 1397 |
 | Community Detection | taxonomy | 1393 |
-| Graph Embeddings | taxonomy | 1290 |
+| Graph Embeddings | taxonomy | 1287 |
 | Temporal Graphs | taxonomy | 1134 |
 | Graph Machine Learning | taxonomy | 1072 |
 | Ontology | taxonomy | 1009 |
 | Graph Construction | taxonomy | 952 |
-| Graph Databases | taxonomy | 857 |
+| Graph Databases | taxonomy | 856 |
 | Distributed Graphs | taxonomy | 848 |
 | Graph Analytics | taxonomy | 726 |
-| Graph Visualization | taxonomy | 679 |
+| Graph Visualization | taxonomy | 677 |
 | taxonomy | curated | 537 |
-| Semantic Web | taxonomy | 499 |
-| quantitative | curated | 440 |
+| Semantic Web | taxonomy | 497 |
+| quantitative | curated | 439 |
 | Graph Query Languages | taxonomy | 410 |
 | case study | curated | 338 |
 | experiment | curated | 298 |
 | qualitative | curated | 275 |
 | reproducibility | curated | 166 |
 | systematic review | curated | 142 |
-| literature review | curated | 138 |
+| literature review | curated | 137 |
 | interview | curated | 34 |
 | research gap | curated | 31 |
 | mixed methods | curated | 20 |
@@ -52,22 +52,22 @@
 ### framework
 
 - benchmark — 933 shared paper(s)
-- Graph Neural Networks — 859 shared paper(s)
-- dataset — 744 shared paper(s)
+- Graph Neural Networks — 858 shared paper(s)
+- dataset — 743 shared paper(s)
 - Graphrag — 676 shared paper(s)
 - Graph Security — 642 shared paper(s)
 - Knowledge Graphs — 607 shared paper(s)
 - Graph Applications — 528 shared paper(s)
-- Graph Embeddings — 381 shared paper(s)
+- Graph Embeddings — 378 shared paper(s)
 
 ### Graph Neural Networks
 
-- framework — 859 shared paper(s)
-- survey — 463 shared paper(s)
+- framework — 858 shared paper(s)
+- survey — 462 shared paper(s)
 - benchmark — 327 shared paper(s)
 - dataset — 261 shared paper(s)
 - taxonomy — 83 shared paper(s)
-- quantitative — 34 shared paper(s)
+- quantitative — 33 shared paper(s)
 - case study — 31 shared paper(s)
 - experiment — 28 shared paper(s)
 
@@ -84,10 +84,10 @@
 
 ### survey
 
-- Graph Neural Networks — 463 shared paper(s)
+- Graph Neural Networks — 462 shared paper(s)
 - Community Detection — 423 shared paper(s)
-- Knowledge Graphs — 378 shared paper(s)
-- framework — 330 shared paper(s)
+- Knowledge Graphs — 376 shared paper(s)
+- framework — 328 shared paper(s)
 - taxonomy — 248 shared paper(s)
 - Graph Algorithms — 243 shared paper(s)
 - Graph Visualization — 183 shared paper(s)
@@ -95,7 +95,7 @@
 
 ### dataset
 
-- framework — 744 shared paper(s)
+- framework — 743 shared paper(s)
 - benchmark — 422 shared paper(s)
 - Graph Security — 281 shared paper(s)
 - Graph Neural Networks — 261 shared paper(s)
@@ -107,7 +107,7 @@
 ### Knowledge Graphs
 
 - framework — 607 shared paper(s)
-- survey — 378 shared paper(s)
+- survey — 376 shared paper(s)
 - benchmark — 232 shared paper(s)
 - dataset — 208 shared paper(s)
 - taxonomy — 50 shared paper(s)
@@ -194,10 +194,10 @@
 
 ### Graph Embeddings
 
-- framework — 381 shared paper(s)
-- survey — 171 shared paper(s)
+- framework — 378 shared paper(s)
+- survey — 170 shared paper(s)
 - benchmark — 146 shared paper(s)
-- dataset — 90 shared paper(s)
+- dataset — 89 shared paper(s)
 - taxonomy — 25 shared paper(s)
 - qualitative — 23 shared paper(s)
 - quantitative — 22 shared paper(s)
@@ -314,8 +314,8 @@
 
 ### quantitative
 
-- framework — 153 shared paper(s)
-- survey — 133 shared paper(s)
+- framework — 152 shared paper(s)
+- survey — 132 shared paper(s)
 - qualitative — 126 shared paper(s)
 - dataset — 52 shared paper(s)
 - Graph Visualization — 50 shared paper(s)

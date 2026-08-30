@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 6638,
+      "df": 6634,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 6638,
+      "papers": 6634,
       "top_cells": [
         "graph-security/method",
         "graph-applications/application",
@@ -24,7 +24,7 @@
       "term": "Graph Neural Networks",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2984,
+      "df": 2982,
       "match": {
         "type": "field",
         "field": "category",
@@ -36,7 +36,7 @@
         "graph-neural-networks/method",
         "graph-neural-networks/systems"
       ],
-      "papers": 2984
+      "papers": 2982
     },
     {
       "term": "benchmark",
@@ -61,14 +61,14 @@
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 2308,
+      "df": 2304,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 2308,
+      "papers": 2304,
       "top_cells": [
         "community-detection/method",
         "graph-neural-networks/method",
@@ -80,14 +80,14 @@
       "term": "dataset",
       "kind": "curated",
       "seed": true,
-      "df": 2213,
+      "df": 2212,
       "match": {
         "type": "text",
         "forms": [
           "dataset"
         ]
       },
-      "papers": 2213,
+      "papers": 2212,
       "top_cells": [
         "graph-security/method",
         "graph-applications/application",
@@ -99,7 +99,7 @@
       "term": "Knowledge Graphs",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1986,
+      "df": 1983,
       "match": {
         "type": "field",
         "field": "category",
@@ -111,13 +111,13 @@
         "knowledge-graphs/systems",
         "knowledge-graphs/evaluation"
       ],
-      "papers": 1986
+      "papers": 1983
     },
     {
       "term": "Graph Security",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1973,
+      "df": 1972,
       "match": {
         "type": "field",
         "field": "category",
@@ -129,7 +129,7 @@
         "graph-security/theory",
         "graph-security/systems"
       ],
-      "papers": 1973
+      "papers": 1972
     },
     {
       "term": "Network Science",
@@ -153,7 +153,7 @@
       "term": "Graph Applications",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1580,
+      "df": 1579,
       "match": {
         "type": "field",
         "field": "category",
@@ -165,7 +165,7 @@
         "graph-applications/mechanism",
         "graph-applications/method"
       ],
-      "papers": 1580
+      "papers": 1579
     },
     {
       "term": "Graph Theory",
@@ -189,7 +189,7 @@
       "term": "Graphrag",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1405,
+      "df": 1404,
       "match": {
         "type": "field",
         "field": "category",
@@ -201,13 +201,13 @@
         "graphrag/systems",
         "graphrag/mechanism"
       ],
-      "papers": 1405
+      "papers": 1404
     },
     {
       "term": "Graph Algorithms",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1398,
+      "df": 1397,
       "match": {
         "type": "field",
         "field": "category",
@@ -219,7 +219,7 @@
         "graph-algorithms/application",
         "graph-algorithms/systems"
       ],
-      "papers": 1398
+      "papers": 1397
     },
     {
       "term": "Community Detection",
@@ -243,7 +243,7 @@
       "term": "Graph Embeddings",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1290,
+      "df": 1287,
       "match": {
         "type": "field",
         "field": "category",
@@ -255,7 +255,7 @@
         "graph-embeddings/theory",
         "graph-embeddings/systems"
       ],
-      "papers": 1290
+      "papers": 1287
     },
     {
       "term": "Temporal Graphs",
@@ -333,7 +333,7 @@
       "term": "Graph Databases",
       "kind": "taxonomy",
       "seed": true,
-      "df": 857,
+      "df": 856,
       "match": {
         "type": "field",
         "field": "category",
@@ -345,7 +345,7 @@
         "graph-databases/systems",
         "graph-databases/theory"
       ],
-      "papers": 857
+      "papers": 856
     },
     {
       "term": "Distributed Graphs",
@@ -387,7 +387,7 @@
       "term": "Graph Visualization",
       "kind": "taxonomy",
       "seed": true,
-      "df": 679,
+      "df": 677,
       "match": {
         "type": "field",
         "field": "category",
@@ -399,7 +399,7 @@
         "graph-visualization/theory",
         "graph-visualization/systems"
       ],
-      "papers": 679
+      "papers": 677
     },
     {
       "term": "taxonomy",
@@ -424,7 +424,7 @@
       "term": "Semantic Web",
       "kind": "taxonomy",
       "seed": true,
-      "df": 499,
+      "df": 497,
       "match": {
         "type": "field",
         "field": "category",
@@ -436,20 +436,20 @@
         "semantic-web/method",
         "semantic-web/mechanism"
       ],
-      "papers": 499
+      "papers": 497
     },
     {
       "term": "quantitative",
       "kind": "curated",
       "seed": true,
-      "df": 440,
+      "df": 439,
       "match": {
         "type": "text",
         "forms": [
           "quantitative"
         ]
       },
-      "papers": 440,
+      "papers": 439,
       "top_cells": [
         "community-detection/method",
         "graph-visualization/method",
@@ -574,14 +574,14 @@
       "term": "literature review",
       "kind": "curated",
       "seed": true,
-      "df": 138,
+      "df": 137,
       "match": {
         "type": "text",
         "forms": [
           "literature review"
         ]
       },
-      "papers": 138,
+      "papers": 137,
       "top_cells": [
         "knowledge-graphs/method",
         "graph-databases/method",

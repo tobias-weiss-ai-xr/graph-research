@@ -1,20 +1,20 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 354 edges, 1 components, 1 communities (modularity -2698.921). Edges = co-occurrence.
+**Generated:** 42 nodes, 354 edges, 1 components, 1 communities (modularity -2694.13). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1962, degree 37, df 6638
-- **benchmark** — PR 0.0867, degree 34, df 2403
-- **survey** — PR 0.0809, degree 36, df 2308
-- **dataset** — PR 0.0799, degree 34, df 2213
-- **Graph Neural Networks** — PR 0.0457, degree 16, df 2984
-- **Knowledge Graphs** — PR 0.0364, degree 16, df 1986
+- **framework** — PR 0.1962, degree 37, df 6634
+- **benchmark** — PR 0.0868, degree 34, df 2403
+- **survey** — PR 0.0808, degree 36, df 2304
+- **dataset** — PR 0.0799, degree 34, df 2212
+- **Graph Neural Networks** — PR 0.0456, degree 16, df 2982
+- **Knowledge Graphs** — PR 0.0364, degree 16, df 1983
 - **taxonomy** — PR 0.0286, degree 31, df 537
-- **Graph Security** — PR 0.0270, degree 13, df 1973
-- **quantitative** — PR 0.0265, degree 34, df 440
-- **Graphrag** — PR 0.0254, degree 13, df 1405
-- **Graph Applications** — PR 0.0243, degree 12, df 1580
+- **Graph Security** — PR 0.0270, degree 13, df 1972
+- **quantitative** — PR 0.0264, degree 34, df 439
+- **Graphrag** — PR 0.0254, degree 13, df 1404
+- **Graph Applications** — PR 0.0243, degree 12, df 1579
 - **Community Detection** — PR 0.0237, degree 16, df 1393
 
 ## Bridge nodes (high betweenness — connect clusters)
