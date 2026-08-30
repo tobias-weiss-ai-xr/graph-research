@@ -59,25 +59,25 @@
   {
    "id": "graph-algorithms",
    "name": "Graph Algorithms",
-   "count": 1398,
+   "count": 1397,
    "trajectory": {
     "2021": 58,
     "2022": 170,
     "2023": 189,
     "2024": 309,
     "2025": 334,
-    "2026": 338
+    "2026": 337
    },
    "momentum": {
     "id": "graph-algorithms",
     "name": "Graph Algorithms",
-    "total": 1398,
-    "recent": 470,
+    "total": 1397,
+    "recent": 469,
     "prior": 324,
-    "growth_pct": 45.1,
+    "growth_pct": 44.8,
     "recent_share": 0.336,
-    "papers_per_month": 39.2,
-    "score": 78.7
+    "papers_per_month": 39.1,
+    "score": 78.4
    }
   },
   {
@@ -107,25 +107,25 @@
   {
    "id": "graph-applications",
    "name": "Graph Applications",
-   "count": 1580,
+   "count": 1579,
    "trajectory": {
     "2021": 68,
     "2022": 235,
     "2023": 280,
     "2024": 352,
     "2025": 358,
-    "2026": 287
+    "2026": 286
    },
    "momentum": {
     "id": "graph-applications",
     "name": "Graph Applications",
-    "total": 1580,
-    "recent": 417,
+    "total": 1579,
+    "recent": 416,
     "prior": 389,
-    "growth_pct": 7.2,
-    "recent_share": 0.264,
-    "papers_per_month": 34.8,
-    "score": 33.6
+    "growth_pct": 6.9,
+    "recent_share": 0.263,
+    "papers_per_month": 34.7,
+    "score": 33.2
    }
   },
   {
@@ -155,7 +155,7 @@
   {
    "id": "graph-databases",
    "name": "Graph Databases",
-   "count": 857,
+   "count": 856,
    "trajectory": {
     "2010": 7,
     "2020": 1,
@@ -164,43 +164,43 @@
     "2023": 84,
     "2024": 184,
     "2025": 216,
-    "2026": 271
+    "2026": 270
    },
    "momentum": {
     "id": "graph-databases",
     "name": "Graph Databases",
-    "total": 857,
-    "recent": 361,
+    "total": 856,
+    "recent": 360,
     "prior": 211,
-    "growth_pct": 71.1,
+    "growth_pct": 70.6,
     "recent_share": 0.421,
-    "papers_per_month": 30.1,
-    "score": 113.2
+    "papers_per_month": 30.0,
+    "score": 112.7
    }
   },
   {
    "id": "graph-embeddings",
    "name": "Graph Embeddings",
-   "count": 1290,
+   "count": 1287,
    "trajectory": {
     "2013": 3,
     "2020": 1,
     "2021": 92,
     "2022": 225,
     "2023": 197,
-    "2024": 247,
-    "2025": 286,
+    "2024": 246,
+    "2025": 284,
     "2026": 239
    },
    "momentum": {
     "id": "graph-embeddings",
     "name": "Graph Embeddings",
-    "total": 1290,
-    "recent": 342,
-    "prior": 303,
+    "total": 1287,
+    "recent": 341,
+    "prior": 302,
     "growth_pct": 12.9,
     "recent_share": 0.265,
-    "papers_per_month": 28.5,
+    "papers_per_month": 28.4,
     "score": 39.4
    }
   },
@@ -231,25 +231,25 @@
   {
    "id": "graph-neural-networks",
    "name": "Graph Neural Networks",
-   "count": 2984,
+   "count": 2982,
    "trajectory": {
     "2021": 129,
     "2022": 385,
     "2023": 505,
     "2024": 648,
     "2025": 570,
-    "2026": 747
+    "2026": 745
    },
    "momentum": {
     "id": "graph-neural-networks",
     "name": "Graph Neural Networks",
-    "total": 2984,
-    "recent": 978,
+    "total": 2982,
+    "recent": 976,
     "prior": 618,
-    "growth_pct": 58.3,
-    "recent_share": 0.328,
-    "papers_per_month": 81.5,
-    "score": 91.1
+    "growth_pct": 57.9,
+    "recent_share": 0.327,
+    "papers_per_month": 81.3,
+    "score": 90.6
    }
   },
   {
@@ -287,7 +287,7 @@
   {
    "id": "graph-security",
    "name": "Graph Security",
-   "count": 1973,
+   "count": 1972,
    "trajectory": {
     "2020": 1,
     "2021": 36,
@@ -295,18 +295,18 @@
     "2023": 246,
     "2024": 576,
     "2025": 647,
-    "2026": 373
+    "2026": 372
    },
    "momentum": {
     "id": "graph-security",
     "name": "Graph Security",
-    "total": 1973,
-    "recent": 617,
+    "total": 1972,
+    "recent": 616,
     "prior": 631,
-    "growth_pct": -2.2,
-    "recent_share": 0.313,
-    "papers_per_month": 51.4,
-    "score": 29.1
+    "growth_pct": -2.4,
+    "recent_share": 0.312,
+    "papers_per_month": 51.3,
+    "score": 28.8
    }
   },
   {
@@ -343,77 +343,77 @@
   {
    "id": "graph-visualization",
    "name": "Graph Visualization",
-   "count": 679,
+   "count": 677,
    "trajectory": {
     "2000": 1,
     "2009": 1,
     "2017": 3,
     "2021": 13,
     "2022": 43,
-    "2023": 73,
-    "2024": 154,
+    "2023": 72,
+    "2024": 153,
     "2025": 240,
     "2026": 151
    },
    "momentum": {
     "id": "graph-visualization",
     "name": "Graph Visualization",
-    "total": 679,
+    "total": 677,
     "recent": 243,
     "prior": 219,
     "growth_pct": 11.0,
-    "recent_share": 0.358,
+    "recent_share": 0.359,
     "papers_per_month": 20.2,
-    "score": 46.8
+    "score": 46.9
    }
   },
   {
    "id": "graphrag",
    "name": "Graphrag",
-   "count": 1405,
+   "count": 1404,
    "trajectory": {
     "2021": 4,
     "2022": 10,
     "2023": 28,
     "2024": 190,
     "2025": 536,
-    "2026": 637
+    "2026": 636
    },
    "momentum": {
     "id": "graphrag",
     "name": "Graphrag",
-    "total": 1405,
-    "recent": 874,
+    "total": 1404,
+    "recent": 873,
     "prior": 418,
-    "growth_pct": 109.1,
+    "growth_pct": 108.9,
     "recent_share": 0.622,
     "papers_per_month": 72.8,
-    "score": 171.3
+    "score": 171.1
    }
   },
   {
    "id": "knowledge-graphs",
    "name": "Knowledge Graphs",
-   "count": 1986,
+   "count": 1983,
    "trajectory": {
     "2018": 1,
     "2021": 75,
     "2022": 222,
     "2023": 273,
-    "2024": 466,
+    "2024": 463,
     "2025": 453,
     "2026": 496
    },
    "momentum": {
     "id": "knowledge-graphs",
     "name": "Knowledge Graphs",
-    "total": 1986,
+    "total": 1983,
     "recent": 676,
     "prior": 482,
     "growth_pct": 40.2,
-    "recent_share": 0.34,
+    "recent_share": 0.341,
     "papers_per_month": 56.3,
-    "score": 74.2
+    "score": 74.3
    }
   },
   {
@@ -472,7 +472,7 @@
   {
    "id": "semantic-web",
    "name": "Semantic Web",
-   "count": 499,
+   "count": 497,
    "trajectory": {
     "2007": 1,
     "2008": 1,
@@ -489,18 +489,18 @@
     "2023": 68,
     "2024": 98,
     "2025": 93,
-    "2026": 127
+    "2026": 125
    },
    "momentum": {
     "id": "semantic-web",
     "name": "Semantic Web",
-    "total": 499,
-    "recent": 150,
+    "total": 497,
+    "recent": 148,
     "prior": 134,
-    "growth_pct": 11.9,
-    "recent_share": 0.301,
-    "papers_per_month": 12.5,
-    "score": 42.0
+    "growth_pct": 10.4,
+    "recent_share": 0.298,
+    "papers_per_month": 12.3,
+    "score": 40.2
    }
   },
   {
@@ -535,12 +535,12 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 5771
+   "count": 5770
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 522
+   "count": 521
   },
   {
    "id": "evaluation",
@@ -555,12 +555,12 @@
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 2141
+   "count": 2138
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 6431
+   "count": 6426
   },
   {
    "id": "review",
@@ -575,12 +575,12 @@
   {
    "id": "systems",
    "name": "Systems",
-   "count": 3658
+   "count": 3654
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 4261
+   "count": 4258
   }
  ],
  "timeline": [
@@ -34987,11 +34987,6 @@
   [
    "2023-11",
    "graph-visualization",
-   "mechanism"
-  ],
-  [
-   "2023-11",
-   "graph-visualization",
    "method"
   ],
   [
@@ -40222,11 +40217,6 @@
   [
    "2024-01",
    "graph-visualization",
-   "development"
-  ],
-  [
-   "2024-01",
-   "graph-visualization",
    "evaluation"
   ],
   [
@@ -40633,16 +40623,6 @@
    "2024-01",
    "knowledge-graphs",
    "systems"
-  ],
-  [
-   "2024-01",
-   "knowledge-graphs",
-   "systems"
-  ],
-  [
-   "2024-01",
-   "knowledge-graphs",
-   "theory"
   ],
   [
    "2024-01",
@@ -44363,11 +44343,6 @@
    "2024-03",
    "graph-embeddings",
    "systems"
-  ],
-  [
-   "2024-03",
-   "graph-embeddings",
-   "theory"
   ],
   [
    "2024-03",
@@ -54493,11 +54468,6 @@
    "2024-07",
    "knowledge-graphs",
    "systems"
-  ],
-  [
-   "2024-07",
-   "knowledge-graphs",
-   "theory"
   ],
   [
    "2024-07",
@@ -85657,11 +85627,6 @@
   [
    "2025-07",
    "graph-embeddings",
-   "method"
-  ],
-  [
-   "2025-07",
-   "graph-embeddings",
    "theory"
   ],
   [
@@ -87888,11 +87853,6 @@
    "2025-08",
    "graph-embeddings",
    "mechanism"
-  ],
-  [
-   "2025-08",
-   "graph-embeddings",
-   "method"
   ],
   [
    "2025-08",
@@ -100617,11 +100577,6 @@
   [
    "2026-01",
    "graph-neural-networks",
-   "method"
-  ],
-  [
-   "2026-01",
-   "graph-neural-networks",
    "review"
   ],
   [
@@ -111457,11 +111412,6 @@
   [
    "2026-05",
    "graphrag",
-   "mechanism"
-  ],
-  [
-   "2026-05",
-   "graphrag",
    "method"
   ],
   [
@@ -117217,11 +117167,6 @@
   [
    "2026-07",
    "graph-databases",
-   "application"
-  ],
-  [
-   "2026-07",
-   "graph-databases",
    "development"
   ],
   [
@@ -118478,11 +118423,6 @@
    "2026-07",
    "graph-security",
    "development"
-  ],
-  [
-   "2026-07",
-   "graph-security",
-   "mechanism"
   ],
   [
    "2026-07",
@@ -121027,11 +120967,6 @@
   [
    "2026-08",
    "graph-algorithms",
-   "method"
-  ],
-  [
-   "2026-08",
-   "graph-algorithms",
    "review"
   ],
   [
@@ -121507,11 +121442,6 @@
   [
    "2026-08",
    "graph-applications",
-   "method"
-  ],
-  [
-   "2026-08",
-   "graph-applications",
    "systems"
   ],
   [
@@ -123323,11 +123253,6 @@
    "2026-08",
    "graph-neural-networks",
    "review"
-  ],
-  [
-   "2026-08",
-   "graph-neural-networks",
-   "systems"
   ],
   [
    "2026-08",
@@ -127153,16 +127078,6 @@
    "2026-08",
    "semantic-web",
    "method"
-  ],
-  [
-   "2026-08",
-   "semantic-web",
-   "systems"
-  ],
-  [
-   "2026-08",
-   "semantic-web",
-   "systems"
   ],
   [
    "2026-08",
@@ -127355,7 +127270,7 @@
   },
   {
    "name": "Open MIND",
-   "papers": 67
+   "papers": 64
   },
   {
    "name": "Communications in computer and information science",
@@ -127365,52 +127280,52 @@
  "keyword_bursts": [
   {
    "keyword": "graphrag",
-   "recent": 235,
-   "total": 339,
+   "recent": 234,
+   "total": 338,
    "burst_score": 2.19,
-   "recent_share": 0.0293
+   "recent_share": 0.0292
   },
   {
    "keyword": "retrieval",
-   "recent": 1215,
-   "total": 2167,
+   "recent": 1214,
+   "total": 2166,
    "burst_score": 1.77,
-   "recent_share": 0.1516
+   "recent_share": 0.1517
   },
   {
    "keyword": "augmented",
-   "recent": 943,
-   "total": 1797,
+   "recent": 942,
+   "total": 1796,
    "burst_score": 1.66,
    "recent_share": 0.1177
   },
   {
    "keyword": "generation",
-   "recent": 1378,
-   "total": 2889,
+   "recent": 1377,
+   "total": 2887,
    "burst_score": 1.51,
-   "recent_share": 0.1719
+   "recent_share": 0.172
   },
   {
    "keyword": "benchmark",
    "recent": 1795,
    "total": 4029,
    "burst_score": 1.41,
-   "recent_share": 0.224
+   "recent_share": 0.2243
   },
   {
    "keyword": "query",
    "recent": 694,
    "total": 1603,
    "burst_score": 1.37,
-   "recent_share": 0.0866
+   "recent_share": 0.0867
   },
   {
    "keyword": "language",
-   "recent": 1895,
-   "total": 4508,
+   "recent": 1894,
+   "total": 4506,
    "burst_score": 1.33,
-   "recent_share": 0.2365
+   "recent_share": 0.2366
   },
   {
    "keyword": "analytics",
@@ -127421,52 +127336,52 @@
   },
   {
    "keyword": "semantic",
-   "recent": 1259,
-   "total": 3049,
+   "recent": 1258,
+   "total": 3047,
    "burst_score": 1.31,
-   "recent_share": 0.1571
+   "recent_share": 0.1572
   },
   {
    "keyword": "ontology",
    "recent": 380,
    "total": 1033,
    "burst_score": 1.16,
-   "recent_share": 0.0474
+   "recent_share": 0.0475
   },
   {
    "keyword": "database",
-   "recent": 465,
-   "total": 1278,
+   "recent": 463,
+   "total": 1276,
    "burst_score": 1.15,
-   "recent_share": 0.058
+   "recent_share": 0.0578
   },
   {
    "keyword": "survey",
-   "recent": 993,
-   "total": 2786,
+   "recent": 991,
+   "total": 2779,
    "burst_score": 1.13,
-   "recent_share": 0.1239
+   "recent_share": 0.1238
   },
   {
    "keyword": "graph visualization",
    "recent": 45,
    "total": 130,
-   "burst_score": 1.09,
+   "burst_score": 1.1,
    "recent_share": 0.0056
   },
   {
    "keyword": "privacy",
-   "recent": 390,
-   "total": 1142,
+   "recent": 389,
+   "total": 1141,
    "burst_score": 1.08,
-   "recent_share": 0.0487
+   "recent_share": 0.0486
   },
   {
    "keyword": "visualization",
-   "recent": 242,
-   "total": 721,
+   "recent": 241,
+   "total": 717,
    "burst_score": 1.06,
-   "recent_share": 0.0302
+   "recent_share": 0.0301
   }
  ]
 }
