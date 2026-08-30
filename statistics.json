@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 25326,
+    "total_papers": 25324,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 20,
@@ -22,7 +22,7 @@
     "graph-applications": 1579,
     "graph-construction": 952,
     "graph-databases": 856,
-    "graph-embeddings": 1287,
+    "graph-embeddings": 1285,
     "graph-machine-learning": 1072,
     "graph-neural-networks": 2982,
     "graph-query-languages": 410,
@@ -46,7 +46,7 @@
     "review": 679,
     "survey": 183,
     "systems": 3654,
-    "theory": 4258
+    "theory": 4256
   },
   "by_year": {
     "1980": 4,
@@ -72,7 +72,7 @@
     "2023": 3627,
     "2024": 6081,
     "2025": 6218,
-    "2026": 5631
+    "2026": 5629
   },
   "by_cell": {
     "graph-applications/application": 709,
@@ -109,7 +109,7 @@
     "network-science/systems": 258,
     "ontology/systems": 244,
     "graph-visualization/method": 244,
-    "graph-embeddings/theory": 237,
+    "graph-embeddings/theory": 235,
     "distributed-graphs/systems": 232,
     "temporal-graphs/theory": 225,
     "network-science/theory": 222,
@@ -266,7 +266,7 @@
     },
     {
       "keyword": "generation",
-      "papers": 1377
+      "papers": 1375
     },
     {
       "keyword": "benchmark",
@@ -277,12 +277,12 @@
       "papers": 694
     },
     {
-      "keyword": "language",
-      "papers": 1894
-    },
-    {
       "keyword": "analytics",
       "papers": 297
+    },
+    {
+      "keyword": "language",
+      "papers": 1894
     },
     {
       "keyword": "semantic",
@@ -429,13 +429,13 @@
     {
       "id": "graph-embeddings",
       "name": "Graph Embeddings",
-      "total": 1287,
-      "recent": 341,
+      "total": 1285,
+      "recent": 339,
       "prior": 302,
-      "growth_pct": 12.9,
-      "recent_share": 0.265,
-      "papers_per_month": 28.4,
-      "score": 39.4
+      "growth_pct": 12.3,
+      "recent_share": 0.264,
+      "papers_per_month": 28.2,
+      "score": 38.7
     },
     {
       "id": "graph-applications",
@@ -590,7 +590,7 @@
       "2023": 197,
       "2024": 246,
       "2025": 284,
-      "2026": 239
+      "2026": 237
     },
     "graph-machine-learning": {
       "2021": 44,
@@ -751,10 +751,10 @@
     },
     {
       "keyword": "generation",
-      "recent": 1377,
-      "total": 2887,
+      "recent": 1375,
+      "total": 2885,
       "burst_score": 1.51,
-      "recent_share": 0.172
+      "recent_share": 0.1718
     },
     {
       "keyword": "benchmark",
@@ -771,18 +771,18 @@
       "recent_share": 0.0867
     },
     {
+      "keyword": "analytics",
+      "recent": 297,
+      "total": 704,
+      "burst_score": 1.34,
+      "recent_share": 0.0371
+    },
+    {
       "keyword": "language",
       "recent": 1894,
       "total": 4506,
       "burst_score": 1.33,
-      "recent_share": 0.2366
-    },
-    {
-      "keyword": "analytics",
-      "recent": 297,
-      "total": 704,
-      "burst_score": 1.33,
-      "recent_share": 0.0371
+      "recent_share": 0.2367
     },
     {
       "keyword": "semantic",
@@ -803,14 +803,14 @@
       "recent": 463,
       "total": 1276,
       "burst_score": 1.15,
-      "recent_share": 0.0578
+      "recent_share": 0.0579
     },
     {
       "keyword": "survey",
-      "recent": 991,
-      "total": 2779,
+      "recent": 989,
+      "total": 2777,
       "burst_score": 1.13,
-      "recent_share": 0.1238
+      "recent_share": 0.1236
     },
     {
       "keyword": "graph visualization",
@@ -836,13 +836,13 @@
   ],
   "source_breakdown": {
     "arxiv": 15695,
-    "doi": 9089,
+    "doi": 9087,
     "other": 542
   },
   "venues": [
     {
       "name": "Zenodo (CERN European Organization for Nuclear Research)",
-      "papers": 344
+      "papers": 342
     },
     {
       "name": "arXiv (Cornell University)",

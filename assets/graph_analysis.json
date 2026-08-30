@@ -181,7 +181,7 @@
   {
    "id": "graph-embeddings",
    "name": "Graph Embeddings",
-   "count": 1287,
+   "count": 1285,
    "trajectory": {
     "2013": 3,
     "2020": 1,
@@ -190,18 +190,18 @@
     "2023": 197,
     "2024": 246,
     "2025": 284,
-    "2026": 239
+    "2026": 237
    },
    "momentum": {
     "id": "graph-embeddings",
     "name": "Graph Embeddings",
-    "total": 1287,
-    "recent": 341,
+    "total": 1285,
+    "recent": 339,
     "prior": 302,
-    "growth_pct": 12.9,
-    "recent_share": 0.265,
-    "papers_per_month": 28.4,
-    "score": 39.4
+    "growth_pct": 12.3,
+    "recent_share": 0.264,
+    "papers_per_month": 28.2,
+    "score": 38.7
    }
   },
   {
@@ -580,7 +580,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 4258
+   "count": 4256
   }
  ],
  "timeline": [
@@ -109961,11 +109961,6 @@
   ],
   [
    "2026-05",
-   "graph-embeddings",
-   "theory"
-  ],
-  [
-   "2026-05",
    "graph-machine-learning",
    "application"
   ],
@@ -113733,11 +113728,6 @@
    "2026-06",
    "graph-embeddings",
    "systems"
-  ],
-  [
-   "2026-06",
-   "graph-embeddings",
-   "theory"
   ],
   [
    "2026-06",
@@ -127218,7 +127208,7 @@
  "venues": [
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 344
+   "papers": 342
   },
   {
    "name": "arXiv (Cornell University)",
@@ -127301,10 +127291,10 @@
   },
   {
    "keyword": "generation",
-   "recent": 1377,
-   "total": 2887,
+   "recent": 1375,
+   "total": 2885,
    "burst_score": 1.51,
-   "recent_share": 0.172
+   "recent_share": 0.1718
   },
   {
    "keyword": "benchmark",
@@ -127321,18 +127311,18 @@
    "recent_share": 0.0867
   },
   {
+   "keyword": "analytics",
+   "recent": 297,
+   "total": 704,
+   "burst_score": 1.34,
+   "recent_share": 0.0371
+  },
+  {
    "keyword": "language",
    "recent": 1894,
    "total": 4506,
    "burst_score": 1.33,
-   "recent_share": 0.2366
-  },
-  {
-   "keyword": "analytics",
-   "recent": 297,
-   "total": 704,
-   "burst_score": 1.33,
-   "recent_share": 0.0371
+   "recent_share": 0.2367
   },
   {
    "keyword": "semantic",
@@ -127353,14 +127343,14 @@
    "recent": 463,
    "total": 1276,
    "burst_score": 1.15,
-   "recent_share": 0.0578
+   "recent_share": 0.0579
   },
   {
    "keyword": "survey",
-   "recent": 991,
-   "total": 2779,
+   "recent": 989,
+   "total": 2777,
    "burst_score": 1.13,
-   "recent_share": 0.1238
+   "recent_share": 0.1236
   },
   {
    "keyword": "graph visualization",
