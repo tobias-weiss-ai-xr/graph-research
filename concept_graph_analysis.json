@@ -1,467 +1,467 @@
 {
   "stats": {
     "nodes": 42,
-    "edges": 317,
+    "edges": 354,
     "components": 1,
     "communities": 1,
-    "modularity": -2047.3992
+    "modularity": -2698.9213
   },
   "nodes": [
     {
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 5559,
+      "df": 6638,
       "degree": 37,
-      "weighted_degree": 7693,
+      "weighted_degree": 9385,
       "degree_centrality": 0.9024,
-      "pagerank": 0.207678,
-      "betweenness": 82.4666,
-      "clustering": 0.4204
+      "pagerank": 0.196206,
+      "betweenness": 51.9387,
+      "clustering": 0.476
     },
     {
       "id": 2,
       "term": "benchmark",
       "kind": "curated",
-      "df": 2022,
-      "degree": 33,
-      "weighted_degree": 3422,
-      "degree_centrality": 0.8049,
-      "pagerank": 0.090313,
-      "betweenness": 36.8571,
-      "clustering": 0.4848
+      "df": 2403,
+      "degree": 34,
+      "weighted_degree": 4164,
+      "degree_centrality": 0.8293,
+      "pagerank": 0.086711,
+      "betweenness": 29.7314,
+      "clustering": 0.5223
+    },
+    {
+      "id": 3,
+      "term": "survey",
+      "kind": "curated",
+      "df": 2308,
+      "degree": 36,
+      "weighted_degree": 3595,
+      "degree_centrality": 0.878,
+      "pagerank": 0.080904,
+      "betweenness": 38.0721,
+      "clustering": 0.4968
     },
     {
       "id": 4,
       "term": "dataset",
       "kind": "curated",
-      "df": 1783,
-      "degree": 32,
-      "weighted_degree": 3022,
-      "degree_centrality": 0.7805,
-      "pagerank": 0.080263,
-      "betweenness": 31.5809,
-      "clustering": 0.506
-    },
-    {
-      "id": 7,
-      "term": "survey",
-      "kind": "curated",
-      "df": 1507,
+      "df": 2213,
       "degree": 34,
-      "weighted_degree": 2382,
+      "weighted_degree": 3812,
       "degree_centrality": 0.8293,
-      "pagerank": 0.067514,
-      "betweenness": 43.1026,
-      "clustering": 0.467
+      "pagerank": 0.079939,
+      "betweenness": 36.9869,
+      "clustering": 0.5098
     },
     {
       "id": 1,
       "term": "Graph Neural Networks",
       "kind": "taxonomy",
-      "df": 2981,
+      "df": 2984,
       "degree": 16,
-      "weighted_degree": 2168,
+      "weighted_degree": 2173,
       "degree_centrality": 0.3902,
-      "pagerank": 0.057313,
-      "betweenness": 10.0861,
-      "clustering": 0.6
+      "pagerank": 0.045661,
+      "betweenness": 5.5102,
+      "clustering": 0.675
     },
     {
-      "id": 3,
+      "id": 5,
       "term": "Knowledge Graphs",
       "kind": "taxonomy",
-      "df": 1983,
+      "df": 1986,
       "degree": 16,
-      "weighted_degree": 1666,
+      "weighted_degree": 1671,
       "degree_centrality": 0.3902,
-      "pagerank": 0.045553,
-      "betweenness": 5.7028,
-      "clustering": 0.6333
+      "pagerank": 0.036371,
+      "betweenness": 3.2409,
+      "clustering": 0.7083
     },
     {
-      "id": 21,
+      "id": 22,
       "term": "taxonomy",
       "kind": "curated",
-      "df": 480,
-      "degree": 30,
-      "weighted_degree": 1098,
-      "degree_centrality": 0.7317,
-      "pagerank": 0.031943,
-      "betweenness": 22.744,
-      "clustering": 0.5517
+      "df": 537,
+      "degree": 31,
+      "weighted_degree": 1226,
+      "degree_centrality": 0.7561,
+      "pagerank": 0.028591,
+      "betweenness": 19.008,
+      "clustering": 0.5785
     },
     {
       "id": 6,
+      "term": "Graph Security",
+      "kind": "taxonomy",
+      "df": 1973,
+      "degree": 13,
+      "weighted_degree": 1234,
+      "degree_centrality": 0.3171,
+      "pagerank": 0.027004,
+      "betweenness": 0.5574,
+      "clustering": 0.8846
+    },
+    {
+      "id": 24,
+      "term": "quantitative",
+      "kind": "curated",
+      "df": 440,
+      "degree": 34,
+      "weighted_degree": 1034,
+      "degree_centrality": 0.8293,
+      "pagerank": 0.026467,
+      "betweenness": 29.936,
+      "clustering": 0.5187
+    },
+    {
+      "id": 10,
+      "term": "Graphrag",
+      "kind": "taxonomy",
+      "df": 1405,
+      "degree": 13,
+      "weighted_degree": 1157,
+      "degree_centrality": 0.3171,
+      "pagerank": 0.02542,
+      "betweenness": 0.79,
+      "clustering": 0.859
+    },
+    {
+      "id": 8,
       "term": "Graph Applications",
       "kind": "taxonomy",
       "df": 1580,
       "degree": 12,
       "weighted_degree": 1109,
       "degree_centrality": 0.2927,
-      "pagerank": 0.029978,
-      "betweenness": 0.2887,
-      "clustering": 0.9091
+      "pagerank": 0.024268,
+      "betweenness": 0.1233,
+      "clustering": 0.9545
     },
     {
-      "id": 8,
-      "term": "Graph Embeddings",
+      "id": 12,
+      "term": "Community Detection",
       "kind": "taxonomy",
-      "df": 1285,
-      "degree": 14,
-      "weighted_degree": 924,
-      "degree_centrality": 0.3415,
-      "pagerank": 0.026853,
-      "betweenness": 2.4316,
-      "clustering": 0.7582
+      "df": 1393,
+      "degree": 16,
+      "weighted_degree": 978,
+      "degree_centrality": 0.3902,
+      "pagerank": 0.02371,
+      "betweenness": 3.1802,
+      "clustering": 0.725
     },
     {
       "id": 13,
+      "term": "Graph Embeddings",
+      "kind": "taxonomy",
+      "df": 1290,
+      "degree": 14,
+      "weighted_degree": 932,
+      "degree_centrality": 0.3415,
+      "pagerank": 0.021861,
+      "betweenness": 1.3688,
+      "clustering": 0.8242
+    },
+    {
+      "id": 16,
       "term": "Ontology",
       "kind": "taxonomy",
       "df": 1009,
       "degree": 15,
       "weighted_degree": 911,
       "degree_centrality": 0.3659,
-      "pagerank": 0.026788,
-      "betweenness": 3.7528,
-      "clustering": 0.6857
+      "pagerank": 0.021787,
+      "betweenness": 2.3689,
+      "clustering": 0.7429
     },
     {
-      "id": 11,
-      "term": "Graphrag",
-      "kind": "taxonomy",
-      "df": 1080,
-      "degree": 13,
-      "weighted_degree": 913,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.025707,
-      "betweenness": 1.2887,
-      "clustering": 0.8077
-    },
-    {
-      "id": 25,
-      "term": "quantitative",
+      "id": 28,
+      "term": "qualitative",
       "kind": "curated",
-      "df": 303,
-      "degree": 33,
-      "weighted_degree": 686,
-      "degree_centrality": 0.8049,
-      "pagerank": 0.023222,
-      "betweenness": 35.0405,
-      "clustering": 0.4905
+      "df": 275,
+      "degree": 32,
+      "weighted_degree": 699,
+      "degree_centrality": 0.7805,
+      "pagerank": 0.019386,
+      "betweenness": 23.1122,
+      "clustering": 0.5544
     },
     {
-      "id": 15,
+      "id": 20,
+      "term": "Graph Analytics",
+      "kind": "taxonomy",
+      "df": 726,
+      "degree": 14,
+      "weighted_degree": 720,
+      "degree_centrality": 0.3415,
+      "pagerank": 0.017668,
+      "betweenness": 1.4733,
+      "clustering": 0.8022
+    },
+    {
+      "id": 17,
       "term": "Graph Construction",
       "kind": "taxonomy",
       "df": 952,
       "degree": 13,
       "weighted_degree": 715,
       "degree_centrality": 0.3171,
-      "pagerank": 0.02155,
-      "betweenness": 1.5982,
-      "clustering": 0.8077
+      "pagerank": 0.017559,
+      "betweenness": 0.64,
+      "clustering": 0.8846
     },
     {
-      "id": 16,
+      "id": 18,
       "term": "Graph Databases",
       "kind": "taxonomy",
       "df": 857,
       "degree": 16,
       "weighted_degree": 620,
       "degree_centrality": 0.3902,
-      "pagerank": 0.021062,
-      "betweenness": 5.2028,
-      "clustering": 0.6417
+      "pagerank": 0.016947,
+      "betweenness": 3.2663,
+      "clustering": 0.7083
     },
     {
-      "id": 12,
+      "id": 26,
+      "term": "case study",
+      "kind": "curated",
+      "df": 338,
+      "degree": 30,
+      "weighted_degree": 615,
+      "degree_centrality": 0.7317,
+      "pagerank": 0.016666,
+      "betweenness": 19.6325,
+      "clustering": 0.5448
+    },
+    {
+      "id": 15,
       "term": "Graph Machine Learning",
       "kind": "taxonomy",
       "df": 1072,
       "degree": 11,
       "weighted_degree": 695,
       "degree_centrality": 0.2683,
-      "pagerank": 0.020226,
-      "betweenness": 0.1861,
-      "clustering": 0.9273
+      "pagerank": 0.016659,
+      "betweenness": 0.1233,
+      "clustering": 0.9455
     },
     {
-      "id": 14,
-      "term": "Graph Security",
+      "id": 11,
+      "term": "Graph Algorithms",
       "kind": "taxonomy",
-      "df": 975,
-      "degree": 11,
-      "weighted_degree": 647,
-      "degree_centrality": 0.2683,
-      "pagerank": 0.019307,
-      "betweenness": 0.1861,
-      "clustering": 0.9273
+      "df": 1398,
+      "degree": 13,
+      "weighted_degree": 603,
+      "degree_centrality": 0.3171,
+      "pagerank": 0.016115,
+      "betweenness": 2.3233,
+      "clustering": 0.8333
     },
     {
-      "id": 5,
+      "id": 7,
       "term": "Network Science",
       "kind": "taxonomy",
       "df": 1586,
       "degree": 13,
       "weighted_degree": 610,
       "degree_centrality": 0.3171,
-      "pagerank": 0.019013,
-      "betweenness": 1.2887,
-      "clustering": 0.8077
-    },
-    {
-      "id": 28,
-      "term": "qualitative",
-      "kind": "curated",
-      "df": 201,
-      "degree": 30,
-      "weighted_degree": 483,
-      "degree_centrality": 0.7317,
-      "pagerank": 0.017258,
-      "betweenness": 24.3851,
-      "clustering": 0.5379
-    },
-    {
-      "id": 26,
-      "term": "case study",
-      "kind": "curated",
-      "df": 255,
-      "degree": 28,
-      "weighted_degree": 453,
-      "degree_centrality": 0.6829,
-      "pagerank": 0.015902,
-      "betweenness": 24.0774,
-      "clustering": 0.4683
+      "pagerank": 0.015639,
+      "betweenness": 0.79,
+      "clustering": 0.859
     },
     {
       "id": 27,
       "term": "experiment",
       "kind": "curated",
-      "df": 241,
-      "degree": 27,
-      "weighted_degree": 418,
-      "degree_centrality": 0.6585,
-      "pagerank": 0.014748,
-      "betweenness": 19.3424,
-      "clustering": 0.4843
+      "df": 298,
+      "degree": 30,
+      "weighted_degree": 546,
+      "degree_centrality": 0.7317,
+      "pagerank": 0.015013,
+      "betweenness": 19.3295,
+      "clustering": 0.5379
     },
     {
-      "id": 17,
-      "term": "Community Detection",
-      "kind": "taxonomy",
-      "df": 840,
-      "degree": 11,
-      "weighted_degree": 370,
-      "degree_centrality": 0.2683,
-      "pagerank": 0.012627,
-      "betweenness": 0.1861,
-      "clustering": 0.9273
-    },
-    {
-      "id": 18,
+      "id": 14,
       "term": "Temporal Graphs",
       "kind": "taxonomy",
-      "df": 691,
-      "degree": 10,
-      "weighted_degree": 351,
-      "degree_centrality": 0.2439,
-      "pagerank": 0.012143,
-      "betweenness": 0.0385,
-      "clustering": 0.9778
+      "df": 1134,
+      "degree": 12,
+      "weighted_degree": 562,
+      "degree_centrality": 0.2927,
+      "pagerank": 0.014287,
+      "betweenness": 0.1233,
+      "clustering": 0.9545
+    },
+    {
+      "id": 21,
+      "term": "Graph Visualization",
+      "kind": "taxonomy",
+      "df": 679,
+      "degree": 16,
+      "weighted_degree": 453,
+      "degree_centrality": 0.3902,
+      "pagerank": 0.014026,
+      "betweenness": 3.2663,
+      "clustering": 0.7083
     },
     {
       "id": 29,
       "term": "reproducibility",
       "kind": "curated",
-      "df": 136,
-      "degree": 25,
-      "weighted_degree": 292,
-      "degree_centrality": 0.6098,
-      "pagerank": 0.011245,
-      "betweenness": 10.3228,
-      "clustering": 0.62
-    },
-    {
-      "id": 30,
-      "term": "systematic review",
-      "kind": "curated",
-      "df": 107,
-      "degree": 22,
-      "weighted_degree": 215,
-      "degree_centrality": 0.5366,
-      "pagerank": 0.00934,
-      "betweenness": 8.5444,
-      "clustering": 0.5887
+      "df": 166,
+      "degree": 28,
+      "weighted_degree": 383,
+      "degree_centrality": 0.6829,
+      "pagerank": 0.011688,
+      "betweenness": 13.3533,
+      "clustering": 0.5952
     },
     {
       "id": 9,
       "term": "Graph Theory",
       "kind": "taxonomy",
-      "df": 1096,
-      "degree": 7,
-      "weighted_degree": 140,
-      "degree_centrality": 0.1707,
-      "pagerank": 0.009335,
-      "betweenness": 1.6667,
-      "clustering": 0.7619
+      "df": 1562,
+      "degree": 9,
+      "weighted_degree": 276,
+      "degree_centrality": 0.2195,
+      "pagerank": 0.010511,
+      "betweenness": 1.2,
+      "clustering": 0.8333
     },
     {
-      "id": 20,
+      "id": 31,
+      "term": "literature review",
+      "kind": "curated",
+      "df": 138,
+      "degree": 30,
+      "weighted_degree": 284,
+      "degree_centrality": 0.7317,
+      "pagerank": 0.009998,
+      "betweenness": 17.6716,
+      "clustering": 0.5862
+    },
+    {
+      "id": 30,
+      "term": "systematic review",
+      "kind": "curated",
+      "df": 142,
+      "degree": 25,
+      "weighted_degree": 293,
+      "degree_centrality": 0.6098,
+      "pagerank": 0.00983,
+      "betweenness": 11.6299,
+      "clustering": 0.54
+    },
+    {
+      "id": 19,
+      "term": "Distributed Graphs",
+      "kind": "taxonomy",
+      "df": 848,
+      "degree": 7,
+      "weighted_degree": 286,
+      "degree_centrality": 0.1707,
+      "pagerank": 0.009152,
+      "betweenness": 0.0,
+      "clustering": 1.0
+    },
+    {
+      "id": 23,
       "term": "Semantic Web",
       "kind": "taxonomy",
       "df": 499,
       "degree": 13,
       "weighted_degree": 179,
       "degree_centrality": 0.3171,
-      "pagerank": 0.008945,
-      "betweenness": 2.0052,
-      "clustering": 0.7692
+      "pagerank": 0.007741,
+      "betweenness": 0.8988,
+      "clustering": 0.859
     },
     {
-      "id": 10,
-      "term": "Graph Algorithms",
+      "id": 25,
+      "term": "Graph Query Languages",
       "kind": "taxonomy",
-      "df": 1082,
+      "df": 410,
       "degree": 9,
-      "weighted_degree": 210,
+      "weighted_degree": 121,
       "degree_centrality": 0.2195,
-      "pagerank": 0.008923,
-      "betweenness": 0.0385,
+      "pagerank": 0.006198,
+      "betweenness": 0.04,
       "clustering": 0.9722
     },
     {
-      "id": 31,
-      "term": "literature review",
-      "kind": "curated",
-      "df": 97,
-      "degree": 21,
-      "weighted_degree": 183,
-      "degree_centrality": 0.5122,
-      "pagerank": 0.008701,
-      "betweenness": 6.1921,
-      "clustering": 0.6619
-    },
-    {
-      "id": 22,
-      "term": "Graph Visualization",
-      "kind": "taxonomy",
-      "df": 435,
-      "degree": 13,
-      "weighted_degree": 122,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.007411,
-      "betweenness": 1.7016,
-      "clustering": 0.7692
-    },
-    {
-      "id": 19,
-      "term": "Distributed Graphs",
-      "kind": "taxonomy",
-      "df": 516,
-      "degree": 6,
-      "weighted_degree": 148,
-      "degree_centrality": 0.1463,
-      "pagerank": 0.007395,
-      "betweenness": 0.0385,
-      "clustering": 0.9333
-    },
-    {
-      "id": 24,
-      "term": "Graph Analytics",
-      "kind": "taxonomy",
-      "df": 307,
-      "degree": 8,
-      "weighted_degree": 130,
-      "degree_centrality": 0.1951,
-      "pagerank": 0.006977,
-      "betweenness": 0.0385,
-      "clustering": 0.9643
-    },
-    {
-      "id": 23,
-      "term": "Graph Query Languages",
-      "kind": "taxonomy",
-      "df": 409,
-      "degree": 9,
-      "weighted_degree": 119,
-      "degree_centrality": 0.2195,
-      "pagerank": 0.006785,
-      "betweenness": 0.0976,
-      "clustering": 0.9444
-    },
-    {
       "id": 32,
-      "term": "research gap",
-      "kind": "curated",
-      "df": 23,
-      "degree": 11,
-      "weighted_degree": 40,
-      "degree_centrality": 0.2683,
-      "pagerank": 0.005015,
-      "betweenness": 1.1462,
-      "clustering": 0.7273
-    },
-    {
-      "id": 33,
       "term": "interview",
       "kind": "curated",
-      "df": 17,
-      "degree": 9,
-      "weighted_degree": 39,
-      "degree_centrality": 0.2195,
-      "pagerank": 0.005005,
-      "betweenness": 0.4522,
-      "clustering": 0.8333
-    },
-    {
-      "id": 37,
-      "term": "mixed methods",
-      "kind": "curated",
-      "df": 9,
-      "degree": 7,
-      "weighted_degree": 26,
-      "degree_centrality": 0.1707,
-      "pagerank": 0.004637,
-      "betweenness": 0.215,
-      "clustering": 0.8571
-    },
-    {
-      "id": 35,
-      "term": "peer review",
-      "kind": "curated",
-      "df": 13,
-      "degree": 9,
-      "weighted_degree": 22,
-      "degree_centrality": 0.2195,
-      "pagerank": 0.004485,
-      "betweenness": 1.1066,
-      "clustering": 0.5833
-    },
-    {
-      "id": 36,
-      "term": "triangulation",
-      "kind": "curated",
-      "df": 12,
-      "degree": 3,
-      "weighted_degree": 12,
-      "degree_centrality": 0.0732,
-      "pagerank": 0.004458,
-      "betweenness": 0.1429,
-      "clustering": 0.6667
+      "df": 34,
+      "degree": 12,
+      "weighted_degree": 92,
+      "degree_centrality": 0.2927,
+      "pagerank": 0.006156,
+      "betweenness": 0.9446,
+      "clustering": 0.8182
     },
     {
       "id": 34,
+      "term": "mixed methods",
+      "kind": "curated",
+      "df": 20,
+      "degree": 11,
+      "weighted_degree": 59,
+      "degree_centrality": 0.2683,
+      "pagerank": 0.005362,
+      "betweenness": 0.8347,
+      "clustering": 0.8
+    },
+    {
+      "id": 33,
+      "term": "research gap",
+      "kind": "curated",
+      "df": 31,
+      "degree": 14,
+      "weighted_degree": 50,
+      "degree_centrality": 0.3415,
+      "pagerank": 0.004962,
+      "betweenness": 2.05,
+      "clustering": 0.6923
+    },
+    {
+      "id": 35,
       "term": "open access",
       "kind": "curated",
-      "df": 13,
-      "degree": 7,
+      "df": 19,
+      "degree": 12,
+      "weighted_degree": 33,
+      "degree_centrality": 0.2927,
+      "pagerank": 0.004626,
+      "betweenness": 1.1297,
+      "clustering": 0.7727
+    },
+    {
+      "id": 36,
+      "term": "peer review",
+      "kind": "curated",
+      "df": 18,
+      "degree": 12,
+      "weighted_degree": 30,
+      "degree_centrality": 0.2927,
+      "pagerank": 0.004542,
+      "betweenness": 2.0552,
+      "clustering": 0.5758
+    },
+    {
+      "id": 37,
+      "term": "triangulation",
+      "kind": "curated",
+      "df": 16,
+      "degree": 5,
       "weighted_degree": 17,
-      "degree_centrality": 0.1707,
-      "pagerank": 0.004382,
-      "betweenness": 0.4577,
-      "clustering": 0.7143
+      "degree_centrality": 0.122,
+      "pagerank": 0.004367,
+      "betweenness": 0.2991,
+      "clustering": 0.7
     },
     {
       "id": 38,
@@ -560,117 +560,117 @@
   "top_hubs": [
     "framework",
     "benchmark",
-    "dataset",
     "survey",
+    "dataset",
     "Graph Neural Networks",
     "Knowledge Graphs",
     "taxonomy",
-    "Graph Applications",
-    "Graph Embeddings",
-    "Ontology"
+    "Graph Security",
+    "quantitative",
+    "Graphrag"
   ],
   "bridge_nodes": [
     "framework",
     "survey",
-    "benchmark",
-    "quantitative",
     "dataset",
+    "quantitative",
+    "benchmark",
     "qualitative",
     "case study",
-    "taxonomy",
     "experiment",
-    "reproducibility"
+    "taxonomy",
+    "literature review"
   ],
   "bridge_edges": [
     {
       "source": "framework",
       "target": "triangulation",
       "weight": 3,
-      "edge_betweenness": 27.1667
+      "edge_betweenness": 14.8667
     },
     {
-      "source": "framework",
-      "target": "open access",
-      "weight": 3,
-      "edge_betweenness": 10.3095
+      "source": "dataset",
+      "target": "triangulation",
+      "weight": 2,
+      "edge_betweenness": 12.3667
     },
     {
       "source": "framework",
       "target": "mixed methods",
       "weight": 3,
-      "edge_betweenness": 9.4762
-    },
-    {
-      "source": "framework",
-      "target": "peer review",
-      "weight": 4,
-      "edge_betweenness": 8.6667
+      "edge_betweenness": 6.5338
     },
     {
       "source": "framework",
       "target": "Distributed Graphs",
-      "weight": 97,
-      "edge_betweenness": 8.45
+      "weight": 185,
+      "edge_betweenness": 6.3762
     },
     {
-      "source": "benchmark",
-      "target": "open access",
-      "weight": 2,
-      "edge_betweenness": 7.9762
-    },
-    {
-      "source": "survey",
+      "source": "framework",
       "target": "peer review",
-      "weight": 2,
-      "edge_betweenness": 7.6667
-    },
-    {
-      "source": "dataset",
-      "target": "open access",
-      "weight": 3,
-      "edge_betweenness": 7.4762
-    },
-    {
-      "source": "framework",
-      "target": "interview",
-      "weight": 6,
-      "edge_betweenness": 7.4667
-    },
-    {
-      "source": "Graph Neural Networks",
-      "target": "triangulation",
-      "weight": 2,
-      "edge_betweenness": 7.3095
-    },
-    {
-      "source": "survey",
-      "target": "mixed methods",
-      "weight": 6,
-      "edge_betweenness": 7.2262
-    },
-    {
-      "source": "framework",
-      "target": "Graph Theory",
-      "weight": 91,
-      "edge_betweenness": 7.2262
+      "weight": 5,
+      "edge_betweenness": 6.0111
     },
     {
       "source": "survey",
       "target": "Distributed Graphs",
       "weight": 5,
-      "edge_betweenness": 6.7833
+      "edge_betweenness": 5.8762
     },
     {
-      "source": "quantitative",
+      "source": "framework",
+      "target": "interview",
+      "weight": 7,
+      "edge_betweenness": 5.8069
+    },
+    {
+      "source": "survey",
       "target": "mixed methods",
-      "weight": 4,
-      "edge_betweenness": 6.7262
+      "weight": 12,
+      "edge_betweenness": 5.5338
+    },
+    {
+      "source": "survey",
+      "target": "peer review",
+      "weight": 3,
+      "edge_betweenness": 5.5111
+    },
+    {
+      "source": "dataset",
+      "target": "Distributed Graphs",
+      "weight": 36,
+      "edge_betweenness": 5.4595
     },
     {
       "source": "survey",
       "target": "Graph Theory",
       "weight": 19,
-      "edge_betweenness": 6.7262
+      "edge_betweenness": 5.3317
+    },
+    {
+      "source": "benchmark",
+      "target": "Distributed Graphs",
+      "weight": 37,
+      "edge_betweenness": 5.2929
+    },
+    {
+      "source": "Distributed Graphs",
+      "target": "quantitative",
+      "weight": 5,
+      "edge_betweenness": 5.2929
+    },
+    {
+      "source": "framework",
+      "target": "Graph Query Languages",
+      "weight": 49,
+      "edge_betweenness": 5.2778
+    },
+    {
+      "source": "framework",
+      "target": "Graph Theory",
+      "weight": 162,
+      "edge_betweenness": 5.1317
     }
   ]
 }
