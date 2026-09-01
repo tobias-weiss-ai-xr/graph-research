@@ -3,7 +3,7 @@
   {
    "id": "community-detection",
    "name": "Community Detection",
-   "count": 1393,
+   "count": 1394,
    "trajectory": {
     "2013": 2,
     "2015": 1,
@@ -11,26 +11,26 @@
     "2021": 53,
     "2022": 148,
     "2023": 224,
-    "2024": 459,
+    "2024": 460,
     "2025": 383,
     "2026": 122
    },
    "momentum": {
     "id": "community-detection",
     "name": "Community Detection",
-    "total": 1393,
-    "recent": 263,
-    "prior": 422,
-    "growth_pct": -37.7,
-    "recent_share": 0.189,
-    "papers_per_month": 21.9,
-    "score": -18.8
+    "total": 1394,
+    "recent": 239,
+    "prior": 413,
+    "growth_pct": -42.1,
+    "recent_share": 0.171,
+    "papers_per_month": 19.9,
+    "score": -25.0
    }
   },
   {
    "id": "distributed-graphs",
    "name": "Distributed Graphs",
-   "count": 848,
+   "count": 855,
    "trajectory": {
     "2016": 2,
     "2017": 5,
@@ -40,68 +40,68 @@
     "2021": 30,
     "2022": 66,
     "2023": 136,
-    "2024": 264,
-    "2025": 230,
+    "2024": 266,
+    "2025": 235,
     "2026": 108
    },
    "momentum": {
     "id": "distributed-graphs",
     "name": "Distributed Graphs",
-    "total": 848,
-    "recent": 186,
-    "prior": 251,
-    "growth_pct": -25.9,
-    "recent_share": 0.219,
-    "papers_per_month": 15.5,
-    "score": -4.0
+    "total": 855,
+    "recent": 166,
+    "prior": 259,
+    "growth_pct": -35.9,
+    "recent_share": 0.194,
+    "papers_per_month": 13.8,
+    "score": -16.5
    }
   },
   {
    "id": "graph-algorithms",
    "name": "Graph Algorithms",
-   "count": 1397,
+   "count": 1398,
    "trajectory": {
     "2021": 58,
     "2022": 170,
     "2023": 189,
     "2024": 309,
-    "2025": 334,
+    "2025": 335,
     "2026": 337
    },
    "momentum": {
     "id": "graph-algorithms",
     "name": "Graph Algorithms",
-    "total": 1397,
-    "recent": 469,
+    "total": 1398,
+    "recent": 450,
     "prior": 324,
-    "growth_pct": 44.8,
-    "recent_share": 0.336,
-    "papers_per_month": 39.1,
-    "score": 78.4
+    "growth_pct": 38.9,
+    "recent_share": 0.322,
+    "papers_per_month": 37.5,
+    "score": 71.1
    }
   },
   {
    "id": "graph-analytics",
    "name": "Graph Analytics",
-   "count": 726,
+   "count": 727,
    "trajectory": {
     "2021": 19,
     "2022": 66,
     "2023": 76,
-    "2024": 129,
+    "2024": 130,
     "2025": 206,
     "2026": 230
    },
    "momentum": {
     "id": "graph-analytics",
     "name": "Graph Analytics",
-    "total": 726,
-    "recent": 331,
-    "prior": 163,
-    "growth_pct": 103.1,
-    "recent_share": 0.456,
-    "papers_per_month": 27.6,
-    "score": 148.7
+    "total": 727,
+    "recent": 314,
+    "prior": 170,
+    "growth_pct": 84.7,
+    "recent_share": 0.432,
+    "papers_per_month": 26.2,
+    "score": 127.9
    }
   },
   {
@@ -120,12 +120,12 @@
     "id": "graph-applications",
     "name": "Graph Applications",
     "total": 1579,
-    "recent": 416,
-    "prior": 389,
-    "growth_pct": 6.9,
-    "recent_share": 0.263,
-    "papers_per_month": 34.7,
-    "score": 33.2
+    "recent": 400,
+    "prior": 374,
+    "growth_pct": 7.0,
+    "recent_share": 0.253,
+    "papers_per_month": 33.3,
+    "score": 32.3
    }
   },
   {
@@ -144,18 +144,18 @@
     "id": "graph-construction",
     "name": "Graph Construction",
     "total": 952,
-    "recent": 257,
-    "prior": 200,
-    "growth_pct": 28.5,
-    "recent_share": 0.27,
-    "papers_per_month": 21.4,
-    "score": 55.5
+    "recent": 245,
+    "prior": 197,
+    "growth_pct": 24.4,
+    "recent_share": 0.257,
+    "papers_per_month": 20.4,
+    "score": 50.1
    }
   },
   {
    "id": "graph-databases",
    "name": "Graph Databases",
-   "count": 856,
+   "count": 857,
    "trajectory": {
     "2010": 7,
     "2020": 1,
@@ -164,44 +164,44 @@
     "2023": 84,
     "2024": 184,
     "2025": 216,
-    "2026": 270
+    "2026": 271
    },
    "momentum": {
     "id": "graph-databases",
     "name": "Graph Databases",
-    "total": 856,
-    "recent": 360,
-    "prior": 211,
-    "growth_pct": 70.6,
-    "recent_share": 0.421,
-    "papers_per_month": 30.0,
-    "score": 112.7
+    "total": 857,
+    "recent": 344,
+    "prior": 210,
+    "growth_pct": 63.8,
+    "recent_share": 0.401,
+    "papers_per_month": 28.7,
+    "score": 103.9
    }
   },
   {
    "id": "graph-embeddings",
    "name": "Graph Embeddings",
-   "count": 1285,
+   "count": 1290,
    "trajectory": {
     "2013": 3,
     "2020": 1,
     "2021": 92,
     "2022": 225,
     "2023": 197,
-    "2024": 246,
-    "2025": 284,
-    "2026": 237
+    "2024": 247,
+    "2025": 286,
+    "2026": 239
    },
    "momentum": {
     "id": "graph-embeddings",
     "name": "Graph Embeddings",
-    "total": 1285,
-    "recent": 339,
-    "prior": 302,
-    "growth_pct": 12.3,
-    "recent_share": 0.264,
-    "papers_per_month": 28.2,
-    "score": 38.7
+    "total": 1290,
+    "recent": 319,
+    "prior": 309,
+    "growth_pct": 3.2,
+    "recent_share": 0.247,
+    "papers_per_month": 26.6,
+    "score": 27.9
    }
   },
   {
@@ -220,42 +220,42 @@
     "id": "graph-machine-learning",
     "name": "Graph Machine Learning",
     "total": 1072,
-    "recent": 215,
-    "prior": 295,
-    "growth_pct": -27.1,
-    "recent_share": 0.201,
-    "papers_per_month": 17.9,
-    "score": -7.0
+    "recent": 199,
+    "prior": 286,
+    "growth_pct": -30.4,
+    "recent_share": 0.186,
+    "papers_per_month": 16.6,
+    "score": -11.8
    }
   },
   {
    "id": "graph-neural-networks",
    "name": "Graph Neural Networks",
-   "count": 2982,
+   "count": 2985,
    "trajectory": {
     "2021": 129,
     "2022": 385,
     "2023": 505,
     "2024": 648,
     "2025": 570,
-    "2026": 745
+    "2026": 748
    },
    "momentum": {
     "id": "graph-neural-networks",
     "name": "Graph Neural Networks",
-    "total": 2982,
-    "recent": 976,
-    "prior": 618,
-    "growth_pct": 57.9,
-    "recent_share": 0.327,
-    "papers_per_month": 81.3,
-    "score": 90.6
+    "total": 2985,
+    "recent": 929,
+    "prior": 623,
+    "growth_pct": 49.1,
+    "recent_share": 0.311,
+    "papers_per_month": 77.4,
+    "score": 80.2
    }
   },
   {
    "id": "graph-query-languages",
    "name": "Graph Query Languages",
-   "count": 410,
+   "count": 584,
    "trajectory": {
     "2011": 1,
     "2014": 2,
@@ -267,52 +267,52 @@
     "2020": 1,
     "2021": 8,
     "2022": 46,
-    "2023": 45,
-    "2024": 69,
-    "2025": 83,
-    "2026": 147
+    "2023": 47,
+    "2024": 97,
+    "2025": 131,
+    "2026": 243
    },
    "momentum": {
     "id": "graph-query-languages",
     "name": "Graph Query Languages",
-    "total": 410,
-    "recent": 177,
-    "prior": 79,
-    "growth_pct": 124.1,
-    "recent_share": 0.432,
-    "papers_per_month": 14.8,
-    "score": 167.3
+    "total": 584,
+    "recent": 290,
+    "prior": 114,
+    "growth_pct": 154.4,
+    "recent_share": 0.497,
+    "papers_per_month": 24.2,
+    "score": 204.1
    }
   },
   {
    "id": "graph-security",
    "name": "Graph Security",
-   "count": 1972,
+   "count": 2052,
    "trajectory": {
     "2020": 1,
     "2021": 36,
     "2022": 94,
-    "2023": 246,
-    "2024": 576,
-    "2025": 647,
-    "2026": 372
+    "2023": 252,
+    "2024": 602,
+    "2025": 684,
+    "2026": 383
    },
    "momentum": {
     "id": "graph-security",
     "name": "Graph Security",
-    "total": 1972,
-    "recent": 616,
-    "prior": 631,
-    "growth_pct": -2.4,
-    "recent_share": 0.312,
-    "papers_per_month": 51.3,
-    "score": 28.8
+    "total": 2052,
+    "recent": 584,
+    "prior": 670,
+    "growth_pct": -12.8,
+    "recent_share": 0.285,
+    "papers_per_month": 48.7,
+    "score": 15.7
    }
   },
   {
    "id": "graph-theory",
    "name": "Graph Theory",
-   "count": 1562,
+   "count": 1566,
    "trajectory": {
     "1980": 4,
     "1981": 1,
@@ -324,20 +324,20 @@
     "2021": 46,
     "2022": 163,
     "2023": 260,
-    "2024": 489,
-    "2025": 322,
+    "2024": 490,
+    "2025": 325,
     "2026": 268
    },
    "momentum": {
     "id": "graph-theory",
     "name": "Graph Theory",
-    "total": 1562,
-    "recent": 384,
-    "prior": 413,
-    "growth_pct": -7.0,
-    "recent_share": 0.246,
-    "papers_per_month": 32.0,
-    "score": 17.6
+    "total": 1566,
+    "recent": 356,
+    "prior": 400,
+    "growth_pct": -11.0,
+    "recent_share": 0.227,
+    "papers_per_month": 29.7,
+    "score": 11.7
    }
   },
   {
@@ -359,12 +359,12 @@
     "id": "graph-visualization",
     "name": "Graph Visualization",
     "total": 677,
-    "recent": 243,
-    "prior": 219,
-    "growth_pct": 11.0,
-    "recent_share": 0.359,
-    "papers_per_month": 20.2,
-    "score": 46.9
+    "recent": 225,
+    "prior": 221,
+    "growth_pct": 1.8,
+    "recent_share": 0.332,
+    "papers_per_month": 18.8,
+    "score": 35.0
    }
   },
   {
@@ -383,37 +383,37 @@
     "id": "graphrag",
     "name": "Graphrag",
     "total": 1404,
-    "recent": 873,
-    "prior": 418,
-    "growth_pct": 108.9,
-    "recent_share": 0.622,
-    "papers_per_month": 72.8,
-    "score": 171.1
+    "recent": 829,
+    "prior": 445,
+    "growth_pct": 86.3,
+    "recent_share": 0.59,
+    "papers_per_month": 69.1,
+    "score": 145.3
    }
   },
   {
    "id": "knowledge-graphs",
    "name": "Knowledge Graphs",
-   "count": 1983,
+   "count": 1986,
    "trajectory": {
     "2018": 1,
     "2021": 75,
     "2022": 222,
     "2023": 273,
-    "2024": 463,
+    "2024": 466,
     "2025": 453,
     "2026": 496
    },
    "momentum": {
     "id": "knowledge-graphs",
     "name": "Knowledge Graphs",
-    "total": 1983,
-    "recent": 676,
-    "prior": 482,
-    "growth_pct": 40.2,
-    "recent_share": 0.341,
-    "papers_per_month": 56.3,
-    "score": 74.3
+    "total": 1986,
+    "recent": 634,
+    "prior": 492,
+    "growth_pct": 28.9,
+    "recent_share": 0.319,
+    "papers_per_month": 52.8,
+    "score": 60.8
    }
   },
   {
@@ -432,18 +432,18 @@
     "id": "network-science",
     "name": "Network Science",
     "total": 1586,
-    "recent": 391,
-    "prior": 337,
-    "growth_pct": 16.0,
-    "recent_share": 0.247,
-    "papers_per_month": 32.6,
-    "score": 40.7
+    "recent": 371,
+    "prior": 331,
+    "growth_pct": 12.1,
+    "recent_share": 0.234,
+    "papers_per_month": 30.9,
+    "score": 35.5
    }
   },
   {
    "id": "ontology",
    "name": "Ontology",
-   "count": 1009,
+   "count": 1476,
    "trajectory": {
     "2013": 1,
     "2015": 1,
@@ -452,27 +452,27 @@
     "2020": 1,
     "2021": 28,
     "2022": 99,
-    "2023": 122,
-    "2024": 167,
-    "2025": 235,
-    "2026": 353
+    "2023": 166,
+    "2024": 328,
+    "2025": 386,
+    "2026": 464
    },
    "momentum": {
     "id": "ontology",
     "name": "Ontology",
-    "total": 1009,
-    "recent": 458,
-    "prior": 206,
-    "growth_pct": 122.3,
-    "recent_share": 0.454,
-    "papers_per_month": 38.2,
-    "score": 167.7
+    "total": 1476,
+    "recent": 593,
+    "prior": 362,
+    "growth_pct": 63.8,
+    "recent_share": 0.402,
+    "papers_per_month": 49.4,
+    "score": 104.0
    }
   },
   {
    "id": "semantic-web",
    "name": "Semantic Web",
-   "count": 497,
+   "count": 921,
    "trajectory": {
     "2007": 1,
     "2008": 1,
@@ -486,27 +486,27 @@
     "2017": 1,
     "2021": 19,
     "2022": 79,
-    "2023": 68,
-    "2024": 98,
-    "2025": 93,
-    "2026": 125
+    "2023": 121,
+    "2024": 307,
+    "2025": 217,
+    "2026": 163
    },
    "momentum": {
     "id": "semantic-web",
     "name": "Semantic Web",
-    "total": 497,
-    "recent": 148,
-    "prior": 134,
-    "growth_pct": 10.4,
-    "recent_share": 0.298,
-    "papers_per_month": 12.3,
-    "score": 40.2
+    "total": 921,
+    "recent": 215,
+    "prior": 273,
+    "growth_pct": -21.2,
+    "recent_share": 0.233,
+    "papers_per_month": 17.9,
+    "score": 2.1
    }
   },
   {
    "id": "temporal-graphs",
    "name": "Temporal Graphs",
-   "count": 1134,
+   "count": 1135,
    "trajectory": {
     "2009": 1,
     "2014": 1,
@@ -514,20 +514,20 @@
     "2021": 24,
     "2022": 77,
     "2023": 166,
-    "2024": 416,
+    "2024": 417,
     "2025": 318,
     "2026": 130
    },
    "momentum": {
     "id": "temporal-graphs",
     "name": "Temporal Graphs",
-    "total": 1134,
-    "recent": 224,
-    "prior": 378,
-    "growth_pct": -40.7,
-    "recent_share": 0.198,
-    "papers_per_month": 18.7,
-    "score": -20.9
+    "total": 1135,
+    "recent": 198,
+    "prior": 374,
+    "growth_pct": -47.1,
+    "recent_share": 0.174,
+    "papers_per_month": 16.5,
+    "score": -29.7
    }
   }
  ],
@@ -535,17 +535,17 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 5770
+   "count": 5812
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 521
+   "count": 530
   },
   {
    "id": "evaluation",
    "name": "Evaluation",
-   "count": 1688
+   "count": 1733
   },
   {
    "id": "experiment",
@@ -560,7 +560,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 6426
+   "count": 7096
   },
   {
    "id": "review",
@@ -570,17 +570,17 @@
   {
    "id": "survey",
    "name": "Survey",
-   "count": 183
+   "count": 231
   },
   {
    "id": "systems",
    "name": "Systems",
-   "count": 3654
+   "count": 3697
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 4256
+   "count": 4571
   }
  ],
  "timeline": [
@@ -30407,6 +30407,11 @@
   [
    "2023-09",
    "graph-security",
+   "method"
+  ],
+  [
+   "2023-09",
+   "graph-security",
    "systems"
   ],
   [
@@ -30862,7 +30867,12 @@
   [
    "2023-09",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2023-09",
+   "ontology",
+   "survey"
   ],
   [
    "2023-09",
@@ -30873,6 +30883,21 @@
    "2023-09",
    "ontology",
    "systems"
+  ],
+  [
+   "2023-09",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "ontology",
+   "theory"
   ],
   [
    "2023-09",
@@ -30882,12 +30907,47 @@
   [
    "2023-09",
    "semantic-web",
+   "development"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
    "mechanism"
   ],
   [
    "2023-09",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "method"
   ],
   [
    "2023-09",
@@ -30903,6 +30963,21 @@
    "2023-09",
    "semantic-web",
    "review"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "semantic-web",
+   "theory"
   ],
   [
    "2023-09",
@@ -32322,6 +32397,11 @@
   [
    "2023-10",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2023-10",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -32527,6 +32607,11 @@
   [
    "2023-10",
    "graph-security",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "graph-security",
    "theory"
   ],
   [
@@ -33162,6 +33247,51 @@
   [
    "2023-10",
    "ontology",
+   "method"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "ontology",
    "systems"
   ],
   [
@@ -33173,6 +33303,16 @@
    "2023-10",
    "ontology",
    "systems"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "ontology",
+   "theory"
   ],
   [
    "2023-10",
@@ -33207,7 +33347,82 @@
   [
    "2023-10",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "semantic-web",
+   "theory"
   ],
   [
    "2023-10",
@@ -34582,6 +34797,11 @@
   [
    "2023-11",
    "graph-query-languages",
+   "application"
+  ],
+  [
+   "2023-11",
+   "graph-query-languages",
    "development"
   ],
   [
@@ -34643,6 +34863,11 @@
    "2023-11",
    "graph-security",
    "evaluation"
+  ],
+  [
+   "2023-11",
+   "graph-security",
+   "method"
   ],
   [
    "2023-11",
@@ -35427,7 +35652,32 @@
   [
    "2023-11",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "survey"
   ],
   [
    "2023-11",
@@ -35437,6 +35687,31 @@
   [
    "2023-11",
    "ontology",
+   "systems"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "ontology",
    "theory"
   ],
   [
@@ -35462,6 +35737,71 @@
   [
    "2023-11",
    "semantic-web",
+   "evaluation"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
    "method"
   ],
   [
@@ -35476,6 +35816,16 @@
   ],
   [
    "2023-11",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2023-11",
    "temporal-graphs",
    "application"
   ],
@@ -35493,21 +35843,6 @@
    "2023-11",
    "temporal-graphs",
    "evaluation"
-  ],
-  [
-   "2023-11",
-   "temporal-graphs",
-   "method"
-  ],
-  [
-   "2023-11",
-   "temporal-graphs",
-   "method"
-  ],
-  [
-   "2023-11",
-   "temporal-graphs",
-   "method"
   ],
   [
    "2023-11",
@@ -35567,6 +35902,21 @@
   [
    "2023-11",
    "temporal-graphs",
+   "method"
+  ],
+  [
+   "2023-11",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2023-11",
+   "temporal-graphs",
+   "method"
+  ],
+  [
+   "2023-11",
+   "temporal-graphs",
    "systems"
   ],
   [
@@ -36912,6 +37262,21 @@
   [
    "2023-12",
    "graph-security",
+   "method"
+  ],
+  [
+   "2023-12",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2023-12",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2023-12",
+   "graph-security",
    "systems"
   ],
   [
@@ -37427,6 +37792,16 @@
   [
    "2023-12",
    "ontology",
+   "application"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "evaluation"
+  ],
+  [
+   "2023-12",
+   "ontology",
    "evaluation"
   ],
   [
@@ -37452,7 +37827,42 @@
   [
    "2023-12",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "method"
   ],
   [
    "2023-12",
@@ -37466,6 +37876,56 @@
   ],
   [
    "2023-12",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2023-12",
    "semantic-web",
    "application"
   ],
@@ -37482,7 +37942,72 @@
   [
    "2023-12",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "semantic-web",
+   "theory"
   ],
   [
    "2023-12",
@@ -38101,6 +38626,16 @@
   ],
   [
    "2024-01",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2024-01",
    "graph-algorithms",
    "application"
   ],
@@ -39387,6 +39922,16 @@
   [
    "2024-01",
    "graph-query-languages",
+   "application"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
    "evaluation"
   ],
   [
@@ -39421,6 +39966,46 @@
   ],
   [
    "2024-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2024-01",
    "graph-security",
    "application"
   ],
@@ -39518,6 +40103,26 @@
    "2024-01",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-01",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-01",
+   "graph-security",
+   "method"
   ],
   [
    "2024-01",
@@ -39896,6 +40501,16 @@
   ],
   [
    "2024-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2024-01",
    "graph-theory",
    "application"
   ],
@@ -40627,6 +41242,16 @@
   [
    "2024-01",
    "knowledge-graphs",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "knowledge-graphs",
    "theory"
   ],
   [
@@ -40877,7 +41502,77 @@
   [
    "2024-01",
    "ontology",
-   "review"
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "method"
   ],
   [
    "2024-01",
@@ -40902,7 +41597,17 @@
   [
    "2024-01",
    "ontology",
-   "systems"
+   "review"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "survey"
   ],
   [
    "2024-01",
@@ -40928,6 +41633,71 @@
    "2024-01",
    "ontology",
    "systems"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "ontology",
+   "theory"
   ],
   [
    "2024-01",
@@ -40937,12 +41707,287 @@
   [
    "2024-01",
    "semantic-web",
+   "application"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "development"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "development"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "development"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
    "systems"
   ],
   [
    "2024-01",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-01",
@@ -41178,6 +42223,11 @@
    "2024-01",
    "temporal-graphs",
    "systems"
+  ],
+  [
+   "2024-01",
+   "temporal-graphs",
+   "theory"
   ],
   [
    "2024-01",
@@ -42482,6 +43532,11 @@
   [
    "2024-02",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2024-02",
+   "graph-query-languages",
    "method"
   ],
   [
@@ -42577,6 +43632,16 @@
   [
    "2024-02",
    "graph-security",
+   "method"
+  ],
+  [
+   "2024-02",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-02",
+   "graph-security",
    "review"
   ],
   [
@@ -42598,6 +43663,16 @@
    "2024-02",
    "graph-security",
    "systems"
+  ],
+  [
+   "2024-02",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "graph-security",
+   "theory"
   ],
   [
    "2024-02",
@@ -43257,6 +44332,16 @@
   [
    "2024-02",
    "ontology",
+   "development"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "evaluation"
+  ],
+  [
+   "2024-02",
+   "ontology",
    "evaluation"
   ],
   [
@@ -43287,12 +44372,107 @@
   [
    "2024-02",
    "ontology",
+   "method"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-02",
+   "ontology",
    "systems"
   ],
   [
    "2024-02",
    "ontology",
    "theory"
+  ],
+  [
+   "2024-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "method"
   ],
   [
    "2024-02",
@@ -43303,6 +44483,21 @@
    "2024-02",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-02",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-02",
@@ -44356,6 +45551,11 @@
   ],
   [
    "2024-03",
+   "graph-embeddings",
+   "theory"
+  ],
+  [
+   "2024-03",
    "graph-machine-learning",
    "application"
   ],
@@ -44672,6 +45872,11 @@
   [
    "2024-03",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-03",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -44728,6 +45933,11 @@
    "2024-03",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-03",
+   "graph-security",
+   "method"
   ],
   [
    "2024-03",
@@ -45477,7 +46687,57 @@
   [
    "2024-03",
    "ontology",
+   "application"
+  ],
+  [
+   "2024-03",
+   "ontology",
    "evaluation"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "method"
   ],
   [
    "2024-03",
@@ -45492,6 +46752,16 @@
   [
    "2024-03",
    "ontology",
+   "survey"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-03",
+   "ontology",
    "systems"
   ],
   [
@@ -45501,6 +46771,21 @@
   ],
   [
    "2024-03",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2024-03",
    "semantic-web",
    "application"
   ],
@@ -45513,6 +46798,61 @@
    "2024-03",
    "semantic-web",
    "application"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "method"
   ],
   [
    "2024-03",
@@ -45523,6 +46863,36 @@
    "2024-03",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-03",
@@ -46702,6 +48072,11 @@
   [
    "2024-04",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-04",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -46757,6 +48132,11 @@
   [
    "2024-04",
    "graph-security",
+   "application"
+  ],
+  [
+   "2024-04",
+   "graph-security",
    "development"
   ],
   [
@@ -46768,6 +48148,11 @@
    "2024-04",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-04",
+   "graph-security",
+   "method"
   ],
   [
    "2024-04",
@@ -47487,6 +48872,16 @@
   [
    "2024-04",
    "ontology",
+   "application"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "application"
+  ],
+  [
+   "2024-04",
+   "ontology",
    "evaluation"
   ],
   [
@@ -47517,12 +48912,57 @@
   [
    "2024-04",
    "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-04",
+   "ontology",
    "review"
   ],
   [
    "2024-04",
    "ontology",
-   "systems"
+   "survey"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "survey"
   ],
   [
    "2024-04",
@@ -47543,6 +48983,31 @@
    "2024-04",
    "ontology",
    "systems"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "ontology",
+   "theory"
   ],
   [
    "2024-04",
@@ -47557,12 +49022,87 @@
   [
    "2024-04",
    "semantic-web",
+   "application"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
    "systems"
   ],
   [
    "2024-04",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-04",
@@ -48912,6 +50452,16 @@
   [
    "2024-05",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2024-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-05",
+   "graph-query-languages",
    "method"
   ],
   [
@@ -48968,6 +50518,26 @@
    "2024-05",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-05",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-05",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-05",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-05",
+   "graph-security",
+   "method"
   ],
   [
    "2024-05",
@@ -49831,6 +51401,71 @@
   ],
   [
    "2024-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2024-05",
    "semantic-web",
    "application"
   ],
@@ -49847,7 +51482,97 @@
   [
    "2024-05",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-05",
@@ -50546,6 +52271,11 @@
   ],
   [
    "2024-06",
+   "graph-analytics",
+   "theory"
+  ],
+  [
+   "2024-06",
    "graph-applications",
    "application"
   ],
@@ -51486,6 +53216,11 @@
   ],
   [
    "2024-06",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2024-06",
    "graph-security",
    "application"
   ],
@@ -51697,6 +53432,21 @@
   [
    "2024-06",
    "graph-security",
+   "method"
+  ],
+  [
+   "2024-06",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-06",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-06",
+   "graph-security",
    "systems"
   ],
   [
@@ -52432,12 +54182,72 @@
   [
    "2024-06",
    "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "ontology",
    "review"
   ],
   [
    "2024-06",
    "ontology",
    "systems"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "ontology",
+   "theory"
   ],
   [
    "2024-06",
@@ -52457,7 +54267,72 @@
   [
    "2024-06",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-06",
@@ -53817,6 +55692,11 @@
   [
    "2024-07",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-07",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -53893,6 +55773,11 @@
    "2024-07",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-07",
+   "graph-security",
+   "method"
   ],
   [
    "2024-07",
@@ -54471,6 +56356,11 @@
   ],
   [
    "2024-07",
+   "knowledge-graphs",
+   "theory"
+  ],
+  [
+   "2024-07",
    "network-science",
    "application"
   ],
@@ -54592,7 +56482,32 @@
   [
    "2024-07",
    "ontology",
+   "application"
+  ],
+  [
+   "2024-07",
+   "ontology",
    "evaluation"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "method"
   ],
   [
    "2024-07",
@@ -54636,6 +56551,31 @@
   ],
   [
    "2024-07",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2024-07",
    "semantic-web",
    "development"
   ],
@@ -54667,12 +56607,77 @@
   [
    "2024-07",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
    "systems"
   ],
   [
    "2024-07",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-07",
@@ -54992,6 +56997,11 @@
   [
    "2024-08",
    "community-detection",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "community-detection",
    "theory"
   ],
   [
@@ -56002,6 +58012,11 @@
   [
    "2024-08",
    "graph-query-languages",
+   "application"
+  ],
+  [
+   "2024-08",
+   "graph-query-languages",
    "mechanism"
   ],
   [
@@ -56203,6 +58218,16 @@
    "2024-08",
    "graph-security",
    "method"
+  ],
+  [
+   "2024-08",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-08",
+   "graph-security",
+   "systems"
   ],
   [
    "2024-08",
@@ -56957,6 +58982,11 @@
   [
    "2024-08",
    "ontology",
+   "evaluation"
+  ],
+  [
+   "2024-08",
+   "ontology",
    "mechanism"
   ],
   [
@@ -56982,6 +59012,16 @@
   [
    "2024-08",
    "ontology",
+   "method"
+  ],
+  [
+   "2024-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-08",
+   "ontology",
    "systems"
   ],
   [
@@ -57018,6 +59058,36 @@
    "2024-08",
    "ontology",
    "theory"
+  ],
+  [
+   "2024-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
+   "application"
   ],
   [
    "2024-08",
@@ -57067,12 +59137,42 @@
   [
    "2024-08",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
    "review"
   ],
   [
    "2024-08",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-08",
@@ -58492,7 +60592,17 @@
   [
    "2024-09",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-09",
+   "graph-query-languages",
    "systems"
+  ],
+  [
+   "2024-09",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2024-09",
@@ -59302,6 +61412,11 @@
   [
    "2024-09",
    "ontology",
+   "development"
+  ],
+  [
+   "2024-09",
+   "ontology",
    "evaluation"
   ],
   [
@@ -59332,7 +61447,37 @@
   [
    "2024-09",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "method"
   ],
   [
    "2024-09",
@@ -59353,6 +61498,31 @@
    "2024-09",
    "ontology",
    "systems"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "application"
   ],
   [
    "2024-09",
@@ -59392,12 +61562,72 @@
   [
    "2024-09",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
    "review"
   ],
   [
    "2024-09",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-09",
@@ -61142,6 +63372,16 @@
   [
    "2024-10",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-10",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-10",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -61193,6 +63433,11 @@
    "2024-10",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-10",
+   "graph-security",
+   "method"
   ],
   [
    "2024-10",
@@ -62402,17 +64647,97 @@
   [
    "2024-10",
    "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-10",
+   "ontology",
    "review"
   ],
   [
    "2024-10",
    "ontology",
+   "survey"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-10",
+   "ontology",
    "systems"
   ],
   [
    "2024-10",
    "ontology",
    "systems"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "ontology",
+   "theory"
   ],
   [
    "2024-10",
@@ -62497,7 +64822,62 @@
   [
    "2024-10",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-10",
@@ -63932,6 +66312,11 @@
   [
    "2024-11",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2024-11",
+   "graph-query-languages",
    "mechanism"
   ],
   [
@@ -63953,6 +66338,16 @@
    "2024-11",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2024-11",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2024-11",
@@ -64406,6 +66801,11 @@
   ],
   [
    "2024-11",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2024-11",
    "graph-visualization",
    "application"
   ],
@@ -64917,6 +67317,36 @@
   [
    "2024-11",
    "ontology",
+   "evaluation"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-11",
+   "ontology",
    "method"
   ],
   [
@@ -64961,6 +67391,31 @@
   ],
   [
    "2024-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2024-11",
    "semantic-web",
    "application"
   ],
@@ -65012,7 +67467,42 @@
   [
    "2024-11",
    "semantic-web",
-   "systems"
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "method"
   ],
   [
    "2024-11",
@@ -65033,6 +67523,21 @@
    "2024-11",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-11",
@@ -66557,6 +69062,21 @@
   [
    "2024-12",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -66613,6 +69133,16 @@
    "2024-12",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2024-12",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2024-12",
+   "graph-security",
+   "method"
   ],
   [
    "2024-12",
@@ -67727,6 +70257,66 @@
   [
    "2024-12",
    "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "ontology",
    "theory"
   ],
   [
@@ -67752,11 +70342,106 @@
   [
    "2024-12",
    "semantic-web",
+   "development"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
    "evaluation"
   ],
   [
    "2024-12",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
    "systems"
   ],
   [
@@ -67773,6 +70458,16 @@
    "2024-12",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "semantic-web",
+   "theory"
   ],
   [
    "2024-12",
@@ -68451,6 +71146,16 @@
   ],
   [
    "2025-01",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2025-01",
    "graph-algorithms",
    "application"
   ],
@@ -69827,7 +72532,57 @@
   [
    "2025-01",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2025-01",
@@ -69853,6 +72608,11 @@
    "2025-01",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2025-01",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2025-01",
@@ -70237,6 +72997,21 @@
   [
    "2025-01",
    "graph-security",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-01",
+   "graph-security",
    "review"
   ],
   [
@@ -70441,6 +73216,26 @@
   ],
   [
    "2025-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2025-01",
    "graph-theory",
    "application"
   ],
@@ -70543,6 +73338,16 @@
    "2025-01",
    "graph-theory",
    "systems"
+  ],
+  [
+   "2025-01",
+   "graph-theory",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "graph-theory",
+   "theory"
   ],
   [
    "2025-01",
@@ -71767,6 +74572,16 @@
   [
    "2025-01",
    "ontology",
+   "application"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "development"
+  ],
+  [
+   "2025-01",
+   "ontology",
    "development"
   ],
   [
@@ -71822,7 +74637,67 @@
   [
    "2025-01",
    "ontology",
-   "review"
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "method"
   ],
   [
    "2025-01",
@@ -71858,6 +74733,46 @@
    "2025-01",
    "ontology",
    "review"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "review"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "systems"
   ],
   [
    "2025-01",
@@ -71873,6 +74788,86 @@
    "2025-01",
    "ontology",
    "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "application"
   ],
   [
    "2025-01",
@@ -71947,6 +74942,136 @@
   [
    "2025-01",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
    "systems"
   ],
   [
@@ -71958,6 +75083,31 @@
    "2025-01",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "semantic-web",
+   "theory"
   ],
   [
    "2025-01",
@@ -73636,6 +76786,11 @@
   ],
   [
    "2025-02",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2025-02",
    "graph-theory",
    "mechanism"
   ],
@@ -74402,6 +77557,11 @@
   [
    "2025-02",
    "ontology",
+   "application"
+  ],
+  [
+   "2025-02",
+   "ontology",
    "evaluation"
   ],
   [
@@ -74437,7 +77597,67 @@
   [
    "2025-02",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "survey"
   ],
   [
    "2025-02",
@@ -74453,6 +77673,21 @@
    "2025-02",
    "ontology",
    "systems"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "ontology",
+   "theory"
   ],
   [
    "2025-02",
@@ -74483,6 +77718,36 @@
    "2025-02",
    "semantic-web",
    "evaluation"
+  ],
+  [
+   "2025-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-02",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-02",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-02",
@@ -75833,6 +79098,16 @@
    "2025-03",
    "graph-query-languages",
    "development"
+  ],
+  [
+   "2025-03",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-03",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2025-03",
@@ -76672,11 +79947,51 @@
   [
    "2025-03",
    "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ontology",
    "review"
   ],
   [
    "2025-03",
    "ontology",
+   "survey"
+  ],
+  [
+   "2025-03",
+   "ontology",
    "systems"
   ],
   [
@@ -76701,6 +80016,11 @@
   ],
   [
    "2025-03",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-03",
    "semantic-web",
    "application"
   ],
@@ -76713,6 +80033,51 @@
    "2025-03",
    "semantic-web",
    "evaluation"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-03",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-03",
@@ -77228,6 +80593,11 @@
    "2025-04",
    "distributed-graphs",
    "systems"
+  ],
+  [
+   "2025-04",
+   "distributed-graphs",
+   "theory"
   ],
   [
    "2025-04",
@@ -78377,6 +81747,21 @@
   [
    "2025-04",
    "graph-security",
+   "method"
+  ],
+  [
+   "2025-04",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-04",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-04",
+   "graph-security",
    "review"
   ],
   [
@@ -79267,6 +82652,41 @@
   [
    "2025-04",
    "ontology",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-04",
+   "ontology",
    "systems"
   ],
   [
@@ -79306,6 +82726,26 @@
   ],
   [
    "2025-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-04",
    "semantic-web",
    "mechanism"
   ],
@@ -79313,11 +82753,51 @@
    "2025-04",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-04",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-04",
+   "semantic-web",
+   "theory"
   ],
   [
    "2025-04",
@@ -79731,6 +83211,11 @@
   ],
   [
    "2025-05",
+   "distributed-graphs",
+   "theory"
+  ],
+  [
+   "2025-05",
    "graph-algorithms",
    "application"
   ],
@@ -80862,6 +84347,21 @@
   [
    "2025-05",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-query-languages",
    "theory"
   ],
   [
@@ -81007,7 +84507,17 @@
   [
    "2025-05",
    "graph-security",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-05",
+   "graph-security",
+   "method"
   ],
   [
    "2025-05",
@@ -81023,6 +84533,16 @@
    "2025-05",
    "graph-security",
    "systems"
+  ],
+  [
+   "2025-05",
+   "graph-security",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "graph-security",
+   "theory"
   ],
   [
    "2025-05",
@@ -81862,6 +85382,11 @@
   [
    "2025-05",
    "ontology",
+   "application"
+  ],
+  [
+   "2025-05",
+   "ontology",
    "development"
   ],
   [
@@ -81908,6 +85433,26 @@
    "2025-05",
    "ontology",
    "mechanism"
+  ],
+  [
+   "2025-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-05",
+   "ontology",
+   "method"
   ],
   [
    "2025-05",
@@ -81928,6 +85473,21 @@
    "2025-05",
    "ontology",
    "systems"
+  ],
+  [
+   "2025-05",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "application"
   ],
   [
    "2025-05",
@@ -81972,7 +85532,12 @@
   [
    "2025-05",
    "semantic-web",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-05",
@@ -81983,6 +85548,16 @@
    "2025-05",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "semantic-web",
+   "theory"
   ],
   [
    "2025-05",
@@ -83402,6 +86977,16 @@
   [
    "2025-06",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-06",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -83418,6 +87003,16 @@
    "2025-06",
    "graph-query-languages",
    "theory"
+  ],
+  [
+   "2025-06",
+   "graph-security",
+   "application"
+  ],
+  [
+   "2025-06",
+   "graph-security",
+   "application"
   ],
   [
    "2025-06",
@@ -83577,7 +87172,7 @@
   [
    "2025-06",
    "graph-security",
-   "systems"
+   "method"
   ],
   [
    "2025-06",
@@ -83593,6 +87188,16 @@
    "2025-06",
    "graph-security",
    "systems"
+  ],
+  [
+   "2025-06",
+   "graph-security",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "graph-security",
+   "theory"
   ],
   [
    "2025-06",
@@ -84442,6 +88047,16 @@
   [
    "2025-06",
    "ontology",
+   "application"
+  ],
+  [
+   "2025-06",
+   "ontology",
+   "application"
+  ],
+  [
+   "2025-06",
+   "ontology",
    "development"
   ],
   [
@@ -84453,6 +88068,26 @@
    "2025-06",
    "ontology",
    "evaluation"
+  ],
+  [
+   "2025-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-06",
+   "ontology",
+   "method"
   ],
   [
    "2025-06",
@@ -84491,6 +88126,16 @@
   ],
   [
    "2025-06",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "application"
+  ],
+  [
+   "2025-06",
    "semantic-web",
    "application"
   ],
@@ -84523,6 +88168,51 @@
    "2025-06",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-06",
@@ -84561,6 +88251,26 @@
   ],
   [
    "2025-06",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-06",
    "temporal-graphs",
    "application"
   ],
@@ -85593,6 +89303,11 @@
    "2025-07",
    "graph-embeddings",
    "mechanism"
+  ],
+  [
+   "2025-07",
+   "graph-embeddings",
+   "method"
   ],
   [
    "2025-07",
@@ -85963,6 +89678,11 @@
    "2025-07",
    "graph-query-languages",
    "development"
+  ],
+  [
+   "2025-07",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2025-07",
@@ -86152,6 +89872,16 @@
   [
    "2025-07",
    "graph-security",
+   "method"
+  ],
+  [
+   "2025-07",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-07",
+   "graph-security",
    "systems"
   ],
   [
@@ -86241,8 +89971,8 @@
   ],
   [
    "2025-07",
-   "graph-theory",
-   "application"
+   "graph-security",
+   "theory"
   ],
   [
    "2025-07",
@@ -86257,7 +89987,7 @@
   [
    "2025-07",
    "graph-theory",
-   "method"
+   "application"
   ],
   [
    "2025-07",
@@ -86283,6 +90013,16 @@
    "2025-07",
    "graph-theory",
    "method"
+  ],
+  [
+   "2025-07",
+   "graph-theory",
+   "method"
+  ],
+  [
+   "2025-07",
+   "graph-theory",
+   "theory"
   ],
   [
    "2025-07",
@@ -86987,11 +90727,36 @@
   [
    "2025-07",
    "ontology",
+   "method"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-07",
+   "ontology",
    "review"
   ],
   [
    "2025-07",
    "ontology",
+   "survey"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-07",
+   "ontology",
    "systems"
   ],
   [
@@ -87023,6 +90788,46 @@
    "2025-07",
    "ontology",
    "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "application"
   ],
   [
    "2025-07",
@@ -87067,12 +90872,37 @@
   [
    "2025-07",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
    "review"
   ],
   [
    "2025-07",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "semantic-web",
+   "theory"
   ],
   [
    "2025-07",
@@ -87358,6 +91188,11 @@
    "2025-08",
    "distributed-graphs",
    "method"
+  ],
+  [
+   "2025-08",
+   "distributed-graphs",
+   "systems"
   ],
   [
    "2025-08",
@@ -87887,6 +91722,11 @@
   [
    "2025-08",
    "graph-embeddings",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-embeddings",
    "systems"
   ],
   [
@@ -88287,6 +92127,26 @@
   [
    "2025-08",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-query-languages",
    "review"
   ],
   [
@@ -88296,6 +92156,16 @@
   ],
   [
    "2025-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2025-08",
    "graph-security",
    "application"
   ],
@@ -88487,6 +92357,21 @@
   [
    "2025-08",
    "graph-security",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-08",
+   "graph-security",
    "systems"
   ],
   [
@@ -89397,7 +93282,37 @@
   [
    "2025-08",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "method"
   ],
   [
    "2025-08",
@@ -89413,6 +93328,26 @@
    "2025-08",
    "ontology",
    "systems"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "ontology",
+   "theory"
   ],
   [
    "2025-08",
@@ -89437,6 +93372,41 @@
   [
    "2025-08",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
    "review"
   ],
   [
@@ -89451,6 +93421,21 @@
   ],
   [
    "2025-08",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-08",
    "temporal-graphs",
    "application"
   ],
@@ -90657,12 +94642,27 @@
   [
    "2025-09",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-09",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-09",
+   "graph-query-languages",
    "systems"
   ],
   [
    "2025-09",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2025-09",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2025-09",
@@ -90802,6 +94802,21 @@
   [
    "2025-09",
    "graph-security",
+   "method"
+  ],
+  [
+   "2025-09",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-09",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-09",
+   "graph-security",
    "review"
   ],
   [
@@ -91667,7 +95682,37 @@
   [
    "2025-09",
    "ontology",
+   "method"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-09",
+   "ontology",
    "review"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "survey"
   ],
   [
    "2025-09",
@@ -91716,8 +95761,53 @@
   ],
   [
    "2025-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "semantic-web",
+   "development"
+  ],
+  [
+   "2025-09",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2025-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-09",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-09",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-09",
@@ -91726,8 +95816,8 @@
   ],
   [
    "2025-09",
-   "temporal-graphs",
-   "application"
+   "semantic-web",
+   "theory"
   ],
   [
    "2025-09",
@@ -91747,6 +95837,11 @@
   [
    "2025-09",
    "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-09",
+   "temporal-graphs",
    "mechanism"
   ],
   [
@@ -93177,12 +97272,32 @@
   [
    "2025-10",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-10",
+   "graph-query-languages",
    "method"
   ],
   [
    "2025-10",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2025-10",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2025-10",
@@ -93243,6 +97358,21 @@
    "2025-10",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2025-10",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-10",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-10",
+   "graph-security",
+   "method"
   ],
   [
    "2025-10",
@@ -94282,7 +98412,47 @@
   [
    "2025-10",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "survey"
   ],
   [
    "2025-10",
@@ -94331,8 +98501,13 @@
   ],
   [
    "2025-10",
-   "semantic-web",
-   "application"
+   "ontology",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ontology",
+   "theory"
   ],
   [
    "2025-10",
@@ -94352,7 +98527,57 @@
   [
    "2025-10",
    "semantic-web",
+   "application"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
    "development"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-10",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-10",
@@ -94861,6 +99086,11 @@
   ],
   [
    "2025-11",
+   "graph-algorithms",
+   "theory"
+  ],
+  [
+   "2025-11",
    "graph-analytics",
    "mechanism"
   ],
@@ -95702,7 +99932,62 @@
   [
    "2025-11",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2025-11",
@@ -95893,6 +100178,26 @@
    "2025-11",
    "graph-security",
    "method"
+  ],
+  [
+   "2025-11",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-security",
+   "method"
+  ],
+  [
+   "2025-11",
+   "graph-security",
+   "systems"
   ],
   [
    "2025-11",
@@ -96742,6 +101047,26 @@
   [
    "2025-11",
    "ontology",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-11",
+   "ontology",
    "review"
   ],
   [
@@ -96776,8 +101101,18 @@
   ],
   [
    "2025-11",
-   "semantic-web",
-   "application"
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "ontology",
+   "theory"
   ],
   [
    "2025-11",
@@ -96787,6 +101122,11 @@
   [
    "2025-11",
    "semantic-web",
+   "application"
+  ],
+  [
+   "2025-11",
+   "semantic-web",
    "development"
   ],
   [
@@ -96797,7 +101137,12 @@
   [
    "2025-11",
    "semantic-web",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-11",
+   "semantic-web",
+   "method"
   ],
   [
    "2025-11",
@@ -96807,6 +101152,26 @@
   [
    "2025-11",
    "semantic-web",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "semantic-web",
    "theory"
   ],
   [
@@ -97962,7 +102327,32 @@
   [
    "2025-12",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "graph-query-languages",
    "method"
+  ],
+  [
+   "2025-12",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-12",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2025-12",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2025-12",
@@ -98172,12 +102562,22 @@
   [
    "2025-12",
    "graph-security",
+   "method"
+  ],
+  [
+   "2025-12",
+   "graph-security",
    "review"
   ],
   [
    "2025-12",
    "graph-security",
    "review"
+  ],
+  [
+   "2025-12",
+   "graph-security",
+   "survey"
   ],
   [
    "2025-12",
@@ -98932,6 +103332,11 @@
   [
    "2025-12",
    "ontology",
+   "evaluation"
+  ],
+  [
+   "2025-12",
+   "ontology",
    "mechanism"
   ],
   [
@@ -98947,7 +103352,57 @@
   [
    "2025-12",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "method"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "survey"
   ],
   [
    "2025-12",
@@ -98977,6 +103432,36 @@
   [
    "2025-12",
    "ontology",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "ontology",
    "theory"
   ],
   [
@@ -98991,8 +103476,68 @@
   ],
   [
    "2025-12",
-   "temporal-graphs",
-   "application"
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "semantic-web",
+   "theory"
   ],
   [
    "2025-12",
@@ -99007,6 +103552,11 @@
   [
    "2025-12",
    "temporal-graphs",
+   "application"
+  ],
+  [
+   "2025-12",
+   "temporal-graphs",
    "development"
   ],
   [
@@ -100577,6 +105127,11 @@
   [
    "2026-01",
    "graph-neural-networks",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-neural-networks",
    "review"
   ],
   [
@@ -100702,6 +105257,26 @@
   [
    "2026-01",
    "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
    "evaluation"
   ],
   [
@@ -100727,6 +105302,71 @@
   [
    "2026-01",
    "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
    "systems"
   ],
   [
@@ -100738,6 +105378,46 @@
    "2026-01",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2026-01",
@@ -100952,7 +105632,7 @@
   [
    "2026-01",
    "graph-security",
-   "systems"
+   "method"
   ],
   [
    "2026-01",
@@ -100978,6 +105658,26 @@
    "2026-01",
    "graph-security",
    "systems"
+  ],
+  [
+   "2026-01",
+   "graph-security",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "graph-security",
+   "theory"
   ],
   [
    "2026-01",
@@ -102227,6 +106927,16 @@
   [
    "2026-01",
    "ontology",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ontology",
    "development"
   ],
   [
@@ -102292,7 +107002,52 @@
   [
    "2026-01",
    "ontology",
-   "review"
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "method"
   ],
   [
    "2026-01",
@@ -102307,7 +107062,22 @@
   [
    "2026-01",
    "ontology",
-   "systems"
+   "review"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "survey"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "survey"
   ],
   [
    "2026-01",
@@ -102323,6 +107093,66 @@
    "2026-01",
    "ontology",
    "systems"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ontology",
+   "theory"
   ],
   [
    "2026-01",
@@ -102352,7 +107182,62 @@
   [
    "2026-01",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "semantic-web",
+   "theory"
   ],
   [
    "2026-01",
@@ -103392,6 +108277,11 @@
   [
    "2026-02",
    "graph-neural-networks",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "graph-neural-networks",
    "theory"
   ],
   [
@@ -103488,11 +108378,26 @@
    "2026-02",
    "graph-query-languages",
    "application"
+  ],
+  [
+   "2026-02",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-02",
+   "graph-query-languages",
+   "evaluation"
   ],
   [
    "2026-02",
    "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2026-02",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2026-02",
@@ -103501,6 +108406,16 @@
   ],
   [
    "2026-02",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-02",
    "graph-security",
    "application"
   ],
@@ -103573,6 +108488,11 @@
    "2026-02",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2026-02",
+   "graph-security",
+   "method"
   ],
   [
    "2026-02",
@@ -104407,6 +109327,31 @@
   [
    "2026-02",
    "ontology",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ontology",
    "review"
   ],
   [
@@ -104431,6 +109376,31 @@
   ],
   [
    "2026-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-02",
    "semantic-web",
    "development"
   ],
@@ -104442,6 +109412,11 @@
   [
    "2026-02",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2026-02",
+   "semantic-web",
    "systems"
   ],
   [
@@ -104461,6 +109436,11 @@
   ],
   [
    "2026-02",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-02",
    "temporal-graphs",
    "application"
   ],
@@ -105577,7 +110557,37 @@
   [
    "2026-03",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-03",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-03",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-03",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2026-03",
@@ -105772,12 +110782,22 @@
   [
    "2026-03",
    "graph-security",
+   "method"
+  ],
+  [
+   "2026-03",
+   "graph-security",
    "systems"
   ],
   [
    "2026-03",
    "graph-security",
    "systems"
+  ],
+  [
+   "2026-03",
+   "graph-security",
+   "theory"
   ],
   [
    "2026-03",
@@ -106562,6 +111582,16 @@
   [
    "2026-03",
    "ontology",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ontology",
    "evaluation"
   ],
   [
@@ -106597,7 +111627,32 @@
   [
    "2026-03",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "survey"
   ],
   [
    "2026-03",
@@ -106643,6 +111698,21 @@
    "2026-03",
    "ontology",
    "systems"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "ontology",
+   "theory"
   ],
   [
    "2026-03",
@@ -106672,7 +111742,52 @@
   [
    "2026-03",
    "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
    "systems"
+  ],
+  [
+   "2026-03",
+   "semantic-web",
+   "theory"
   ],
   [
    "2026-03",
@@ -107777,7 +112892,52 @@
   [
    "2026-04",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
    "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-04",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2026-04",
@@ -107912,7 +113072,7 @@
   [
    "2026-04",
    "graph-security",
-   "systems"
+   "method"
   ],
   [
    "2026-04",
@@ -107923,6 +113083,21 @@
    "2026-04",
    "graph-security",
    "systems"
+  ],
+  [
+   "2026-04",
+   "graph-security",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "graph-security",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "graph-security",
+   "theory"
   ],
   [
    "2026-04",
@@ -108717,7 +113892,7 @@
   [
    "2026-04",
    "ontology",
-   "development"
+   "application"
   ],
   [
    "2026-04",
@@ -108732,7 +113907,7 @@
   [
    "2026-04",
    "ontology",
-   "mechanism"
+   "development"
   ],
   [
    "2026-04",
@@ -108768,6 +113943,21 @@
    "2026-04",
    "ontology",
    "mechanism"
+  ],
+  [
+   "2026-04",
+   "ontology",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-04",
+   "ontology",
+   "method"
   ],
   [
    "2026-04",
@@ -108787,6 +113977,11 @@
   [
    "2026-04",
    "ontology",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "ontology",
    "systems"
   ],
   [
@@ -108863,6 +114058,26 @@
    "2026-04",
    "ontology",
    "theory"
+  ],
+  [
+   "2026-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "application"
   ],
   [
    "2026-04",
@@ -108877,7 +114092,22 @@
   [
    "2026-04",
    "semantic-web",
-   "systems"
+   "method"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "survey"
   ],
   [
    "2026-04",
@@ -108898,6 +114128,26 @@
    "2026-04",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "semantic-web",
+   "theory"
   ],
   [
    "2026-04",
@@ -109961,6 +115211,11 @@
   ],
   [
    "2026-05",
+   "graph-embeddings",
+   "theory"
+  ],
+  [
+   "2026-05",
    "graph-machine-learning",
    "application"
   ],
@@ -110747,7 +116002,62 @@
   [
    "2026-05",
    "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2026-05",
@@ -110766,6 +116076,16 @@
   ],
   [
    "2026-05",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-05",
    "graph-security",
    "application"
   ],
@@ -110863,6 +116183,11 @@
    "2026-05",
    "graph-security",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "graph-security",
+   "method"
   ],
   [
    "2026-05",
@@ -112277,6 +117602,11 @@
   [
    "2026-05",
    "ontology",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ontology",
    "development"
   ],
   [
@@ -112367,7 +117697,57 @@
   [
    "2026-05",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "survey"
   ],
   [
    "2026-05",
@@ -112423,6 +117803,51 @@
    "2026-05",
    "ontology",
    "systems"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ontology",
+   "theory"
   ],
   [
    "2026-05",
@@ -112473,6 +117898,11 @@
    "2026-05",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "semantic-web",
+   "method"
   ],
   [
    "2026-05",
@@ -114392,6 +119822,16 @@
   [
    "2026-06",
    "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "application"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
    "evaluation"
   ],
   [
@@ -114413,6 +119853,51 @@
    "2026-06",
    "graph-query-languages",
    "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2026-06",
@@ -115972,6 +121457,11 @@
   [
    "2026-06",
    "ontology",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "ontology",
    "mechanism"
   ],
   [
@@ -116027,7 +121517,22 @@
   [
    "2026-06",
    "ontology",
-   "systems"
+   "method"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "method"
   ],
   [
    "2026-06",
@@ -116103,6 +121608,31 @@
    "2026-06",
    "ontology",
    "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ontology",
+   "theory"
   ],
   [
    "2026-06",
@@ -116143,6 +121673,26 @@
    "2026-06",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-06",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-06",
+   "semantic-web",
+   "method"
   ],
   [
    "2026-06",
@@ -117431,6 +122981,11 @@
   ],
   [
    "2026-07",
+   "graph-embeddings",
+   "theory"
+  ],
+  [
+   "2026-07",
    "graph-machine-learning",
    "application"
   ],
@@ -118267,7 +123822,92 @@
   [
    "2026-07",
    "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2026-07",
@@ -118328,6 +123968,21 @@
    "2026-07",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2026-07",
@@ -120127,6 +125782,36 @@
   [
    "2026-07",
    "ontology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ontology",
    "review"
   ],
   [
@@ -120188,6 +125873,46 @@
    "2026-07",
    "ontology",
    "systems"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ontology",
+   "theory"
   ],
   [
    "2026-07",
@@ -120253,6 +125978,16 @@
    "2026-07",
    "semantic-web",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "method"
+  ],
+  [
+   "2026-07",
+   "semantic-web",
+   "method"
   ],
   [
    "2026-07",
@@ -122232,6 +127967,11 @@
   [
    "2026-08",
    "graph-databases",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-databases",
    "review"
   ],
   [
@@ -123521,6 +129261,11 @@
   ],
   [
    "2026-08",
+   "graph-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-08",
    "graph-query-languages",
    "application"
   ],
@@ -123627,7 +129372,12 @@
   [
    "2026-08",
    "graph-query-languages",
-   "mechanism"
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "evaluation"
   ],
   [
    "2026-08",
@@ -123658,6 +129408,26 @@
    "2026-08",
    "graph-query-languages",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "method"
   ],
   [
    "2026-08",
@@ -123873,6 +129643,16 @@
    "2026-08",
    "graph-query-languages",
    "systems"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "graph-query-languages",
+   "theory"
   ],
   [
    "2026-08",
@@ -126742,6 +132522,36 @@
   [
    "2026-08",
    "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ontology",
    "review"
   ],
   [
@@ -126837,6 +132647,51 @@
   [
    "2026-08",
    "ontology",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ontology",
    "theory"
   ],
   [
@@ -127123,6 +132978,11 @@
    "2026-08",
    "semantic-web",
    "systems"
+  ],
+  [
+   "2026-08",
+   "semantic-web",
+   "theory"
   ],
   [
    "2026-08",
@@ -127208,170 +133068,170 @@
  "venues": [
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 342
+   "papers": 436
   },
   {
    "name": "arXiv (Cornell University)",
-   "papers": 294
+   "papers": 324
   },
   {
    "name": "Lecture notes in computer science",
-   "papers": 181
+   "papers": 210
   },
   {
    "name": "Scientific Reports",
-   "papers": 143
+   "papers": 149
   },
   {
    "name": "Expert Systems with Applications",
-   "papers": 136
+   "papers": 138
   },
   {
    "name": "IEEE Access",
-   "papers": 120
-  },
-  {
-   "name": "Research Square",
-   "papers": 95
+   "papers": 134
   },
   {
    "name": "SSRN Electronic Journal",
-   "papers": 95
+   "papers": 117
+  },
+  {
+   "name": "Research Square",
+   "papers": 98
   },
   {
    "name": "Knowledge-Based Systems",
-   "papers": 93
+   "papers": 97
   },
   {
    "name": "Electronics",
-   "papers": 79
+   "papers": 83
   },
   {
    "name": "Applied Sciences",
-   "papers": 76
+   "papers": 81
   },
   {
    "name": "Neurocomputing",
-   "papers": 76
-  },
-  {
-   "name": "IEEE Transactions on Knowledge and Data Engineering",
-   "papers": 67
+   "papers": 79
   },
   {
    "name": "Open MIND",
-   "papers": 64
+   "papers": 77
+  },
+  {
+   "name": "IEEE Transactions on Knowledge and Data Engineering",
+   "papers": 69
   },
   {
    "name": "Communications in computer and information science",
-   "papers": 56
+   "papers": 69
   }
  ],
  "keyword_bursts": [
   {
    "keyword": "graphrag",
-   "recent": 234,
-   "total": 338,
-   "burst_score": 2.19,
-   "recent_share": 0.0292
+   "recent": 230,
+   "total": 342,
+   "burst_score": 2.26,
+   "recent_share": 0.0291
   },
   {
    "keyword": "retrieval",
-   "recent": 1214,
-   "total": 2166,
-   "burst_score": 1.77,
-   "recent_share": 0.1517
+   "recent": 1175,
+   "total": 2242,
+   "burst_score": 1.76,
+   "recent_share": 0.1487
   },
   {
    "keyword": "augmented",
-   "recent": 942,
-   "total": 1796,
-   "burst_score": 1.66,
-   "recent_share": 0.1177
+   "recent": 900,
+   "total": 1830,
+   "burst_score": 1.65,
+   "recent_share": 0.1139
   },
   {
    "keyword": "generation",
-   "recent": 1375,
-   "total": 2885,
+   "recent": 1355,
+   "total": 3018,
    "burst_score": 1.51,
-   "recent_share": 0.1718
+   "recent_share": 0.1715
   },
   {
    "keyword": "benchmark",
-   "recent": 1795,
-   "total": 4029,
-   "burst_score": 1.41,
-   "recent_share": 0.2243
+   "recent": 1816,
+   "total": 4196,
+   "burst_score": 1.45,
+   "recent_share": 0.2299
+  },
+  {
+   "keyword": "sparql",
+   "recent": 191,
+   "total": 448,
+   "burst_score": 1.43,
+   "recent_share": 0.0242
   },
   {
    "keyword": "query",
-   "recent": 694,
-   "total": 1603,
-   "burst_score": 1.37,
-   "recent_share": 0.0867
+   "recent": 741,
+   "total": 1774,
+   "burst_score": 1.4,
+   "recent_share": 0.0938
   },
   {
    "keyword": "analytics",
-   "recent": 297,
-   "total": 704,
-   "burst_score": 1.34,
+   "recent": 293,
+   "total": 730,
+   "burst_score": 1.35,
    "recent_share": 0.0371
   },
   {
    "keyword": "language",
-   "recent": 1894,
-   "total": 4506,
-   "burst_score": 1.33,
-   "recent_share": 0.2367
+   "recent": 1891,
+   "total": 4836,
+   "burst_score": 1.31,
+   "recent_share": 0.2394
   },
   {
    "keyword": "semantic",
-   "recent": 1258,
-   "total": 3047,
-   "burst_score": 1.31,
-   "recent_share": 0.1572
-  },
-  {
-   "keyword": "ontology",
-   "recent": 380,
-   "total": 1033,
-   "burst_score": 1.16,
-   "recent_share": 0.0475
-  },
-  {
-   "keyword": "database",
-   "recent": 463,
-   "total": 1276,
-   "burst_score": 1.15,
-   "recent_share": 0.0579
+   "recent": 1335,
+   "total": 3590,
+   "burst_score": 1.25,
+   "recent_share": 0.169
   },
   {
    "keyword": "survey",
-   "recent": 989,
-   "total": 2777,
+   "recent": 1085,
+   "total": 3231,
    "burst_score": 1.13,
-   "recent_share": 0.1236
+   "recent_share": 0.1373
   },
   {
-   "keyword": "graph visualization",
-   "recent": 45,
-   "total": 130,
-   "burst_score": 1.1,
-   "recent_share": 0.0056
+   "keyword": "ontology",
+   "recent": 560,
+   "total": 1679,
+   "burst_score": 1.12,
+   "recent_share": 0.0709
+  },
+  {
+   "keyword": "graph security",
+   "recent": 1,
+   "total": 3,
+   "burst_score": 1.12,
+   "recent_share": 0.0001
+  },
+  {
+   "keyword": "database",
+   "recent": 457,
+   "total": 1379,
+   "burst_score": 1.11,
+   "recent_share": 0.0578
   },
   {
    "keyword": "privacy",
-   "recent": 389,
-   "total": 1141,
-   "burst_score": 1.08,
-   "recent_share": 0.0486
-  },
-  {
-   "keyword": "visualization",
-   "recent": 241,
-   "total": 717,
-   "burst_score": 1.06,
-   "recent_share": 0.0301
+   "recent": 399,
+   "total": 1226,
+   "burst_score": 1.09,
+   "recent_share": 0.0505
   }
  ]
 }
