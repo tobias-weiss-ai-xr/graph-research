@@ -1,0 +1,3079 @@
+{
+ "prior": {
+  "a": 1.348586980080016,
+  "b": 1.3740731942017497
+ },
+ "saturation": {
+  "filled": 177,
+  "total": 200,
+  "post_mean": 0.8812,
+  "ci95": [
+   0.8328,
+   0.9221
+  ]
+ },
+ "growth": [
+  {
+   "id": "graph-query-languages",
+   "name": "Graph Query Languages",
+   "recent": 290,
+   "prior": 114,
+   "ratio_post_mean": 2.56,
+   "ci95": [
+    2.06,
+    3
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graphrag",
+   "name": "Graphrag",
+   "recent": 829,
+   "prior": 445,
+   "ratio_post_mean": 1.87,
+   "ci95": [
+    1.66,
+    2
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-analytics",
+   "name": "Graph Analytics",
+   "recent": 314,
+   "prior": 170,
+   "ratio_post_mean": 1.86,
+   "ci95": [
+    1.54,
+    2
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "ontology",
+   "name": "Ontology",
+   "recent": 593,
+   "prior": 362,
+   "ratio_post_mean": 1.64,
+   "ci95": [
+    1.44,
+    2
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-databases",
+   "name": "Graph Databases",
+   "recent": 344,
+   "prior": 210,
+   "ratio_post_mean": 1.65,
+   "ci95": [
+    1.38,
+    2
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-neural-networks",
+   "name": "Graph Neural Networks",
+   "recent": 929,
+   "prior": 623,
+   "ratio_post_mean": 1.49,
+   "ci95": [
+    1.34,
+    2
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-algorithms",
+   "name": "Graph Algorithms",
+   "recent": 450,
+   "prior": 324,
+   "ratio_post_mean": 1.39,
+   "ci95": [
+    1.21,
+    2
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "knowledge-graphs",
+   "name": "Knowledge Graphs",
+   "recent": 634,
+   "prior": 492,
+   "ratio_post_mean": 1.29,
+   "ci95": [
+    1.15,
+    1
+   ],
+   "p_growth_gt_1": 1.0,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-construction",
+   "name": "Graph Construction",
+   "recent": 245,
+   "prior": 197,
+   "ratio_post_mean": 1.25,
+   "ci95": [
+    1.03,
+    2
+   ],
+   "p_growth_gt_1": 0.989,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "network-science",
+   "name": "Network Science",
+   "recent": 371,
+   "prior": 331,
+   "ratio_post_mean": 1.12,
+   "ci95": [
+    0.97,
+    1
+   ],
+   "p_growth_gt_1": 0.9337,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-visualization",
+   "name": "Graph Visualization",
+   "recent": 225,
+   "prior": 221,
+   "ratio_post_mean": 1.02,
+   "ci95": [
+    0.84,
+    1
+   ],
+   "p_growth_gt_1": 0.5766,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-applications",
+   "name": "Graph Applications",
+   "recent": 400,
+   "prior": 374,
+   "ratio_post_mean": 1.07,
+   "ci95": [
+    0.93,
+    1
+   ],
+   "p_growth_gt_1": 0.8243,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-embeddings",
+   "name": "Graph Embeddings",
+   "recent": 319,
+   "prior": 309,
+   "ratio_post_mean": 1.04,
+   "ci95": [
+    0.88,
+    1
+   ],
+   "p_growth_gt_1": 0.659,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-security",
+   "name": "Graph Security",
+   "recent": 584,
+   "prior": 670,
+   "ratio_post_mean": 0.87,
+   "ci95": [
+    0.78,
+    1
+   ],
+   "p_growth_gt_1": 0.0083,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-theory",
+   "name": "Graph Theory",
+   "recent": 356,
+   "prior": 400,
+   "ratio_post_mean": 0.89,
+   "ci95": [
+    0.77,
+    1
+   ],
+   "p_growth_gt_1": 0.0546,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "semantic-web",
+   "name": "Semantic Web",
+   "recent": 215,
+   "prior": 273,
+   "ratio_post_mean": 0.79,
+   "ci95": [
+    0.66,
+    1
+   ],
+   "p_growth_gt_1": 0.0037,
+   "p_slowdown_gt_50pct": 0.0
+  },
+  {
+   "id": "graph-machine-learning",
+   "name": "Graph Machine Learning",
+   "recent": 199,
+   "prior": 286,
+   "ratio_post_mean": 0.7,
+   "ci95": [
+    0.58,
+    1
+   ],
+   "p_growth_gt_1": 0.0001,
+   "p_slowdown_gt_50pct": 0.0004
+  },
+  {
+   "id": "distributed-graphs",
+   "name": "Distributed Graphs",
+   "recent": 166,
+   "prior": 259,
+   "ratio_post_mean": 0.64,
+   "ci95": [
+    0.53,
+    1
+   ],
+   "p_growth_gt_1": 0.0,
+   "p_slowdown_gt_50pct": 0.007
+  },
+  {
+   "id": "community-detection",
+   "name": "Community Detection",
+   "recent": 239,
+   "prior": 413,
+   "ratio_post_mean": 0.58,
+   "ci95": [
+    0.49,
+    1
+   ],
+   "p_growth_gt_1": 0.0,
+   "p_slowdown_gt_50pct": 0.0382
+  },
+  {
+   "id": "temporal-graphs",
+   "name": "Temporal Graphs",
+   "recent": 198,
+   "prior": 374,
+   "ratio_post_mean": 0.53,
+   "ci95": [
+    0.45,
+    1
+   ],
+   "p_growth_gt_1": 0.0,
+   "p_slowdown_gt_50pct": 0.2559
+  }
+ ],
+ "cells": [
+  {
+   "cell": "community-detection/application",
+   "category": "community-detection",
+   "subcategory": "application",
+   "n": 259,
+   "expected": 305.8,
+   "post_mean": 0.85,
+   "ci95": [
+    0.75,
+    0.95
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/development",
+   "category": "community-detection",
+   "subcategory": "development",
+   "n": 18,
+   "expected": 27.9,
+   "post_mean": 0.66,
+   "ci95": [
+    0.4,
+    0.99
+   ],
+   "p_gap": 0.1362,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/evaluation",
+   "category": "community-detection",
+   "subcategory": "evaluation",
+   "n": 73,
+   "expected": 91.2,
+   "post_mean": 0.8,
+   "ci95": [
+    0.63,
+    1.0
+   ],
+   "p_gap": 0.0001,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/experiment",
+   "category": "community-detection",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.5,
+   "post_mean": 0.73,
+   "ci95": [
+    0.04,
+    2.37
+   ],
+   "p_gap": 0.454,
+   "p_hot": 0.0476
+  },
+  {
+   "cell": "community-detection/mechanism",
+   "category": "community-detection",
+   "subcategory": "mechanism",
+   "n": 77,
+   "expected": 112.5,
+   "post_mean": 0.69,
+   "ci95": [
+    0.54,
+    0.85
+   ],
+   "p_gap": 0.0041,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/method",
+   "category": "community-detection",
+   "subcategory": "method",
+   "n": 548,
+   "expected": 373.3,
+   "post_mean": 1.47,
+   "ci95": [
+    1.35,
+    1.59
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/review",
+   "category": "community-detection",
+   "subcategory": "review",
+   "n": 27,
+   "expected": 35.7,
+   "post_mean": 0.76,
+   "ci95": [
+    0.51,
+    1.07
+   ],
+   "p_gap": 0.0204,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/survey",
+   "category": "community-detection",
+   "subcategory": "survey",
+   "n": 50,
+   "expected": 12.2,
+   "post_mean": 3.8,
+   "ci95": [
+    2.83,
+    4.9
+   ],
+   "p_gap": 0.0,
+   "p_hot": 1.0
+  },
+  {
+   "cell": "community-detection/systems",
+   "category": "community-detection",
+   "subcategory": "systems",
+   "n": 141,
+   "expected": 194.5,
+   "post_mean": 0.73,
+   "ci95": [
+    0.61,
+    0.85
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "community-detection/theory",
+   "category": "community-detection",
+   "subcategory": "theory",
+   "n": 201,
+   "expected": 240.5,
+   "post_mean": 0.84,
+   "ci95": [
+    0.73,
+    0.96
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/application",
+   "category": "distributed-graphs",
+   "subcategory": "application",
+   "n": 143,
+   "expected": 187.5,
+   "post_mean": 0.76,
+   "ci95": [
+    0.64,
+    0.89
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/development",
+   "category": "distributed-graphs",
+   "subcategory": "development",
+   "n": 20,
+   "expected": 17.1,
+   "post_mean": 1.16,
+   "ci95": [
+    0.72,
+    1.69
+   ],
+   "p_gap": 0.0004,
+   "p_hot": 0.0021
+  },
+  {
+   "cell": "distributed-graphs/evaluation",
+   "category": "distributed-graphs",
+   "subcategory": "evaluation",
+   "n": 14,
+   "expected": 55.9,
+   "post_mean": 0.27,
+   "ci95": [
+    0.15,
+    0.42
+   ],
+   "p_gap": 0.9975,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/experiment",
+   "category": "distributed-graphs",
+   "subcategory": "experiment",
+   "n": 1,
+   "expected": 0.3,
+   "post_mean": 1.41,
+   "ci95": [
+    0.22,
+    3.7
+   ],
+   "p_gap": 0.1306,
+   "p_hot": 0.2176
+  },
+  {
+   "cell": "distributed-graphs/mechanism",
+   "category": "distributed-graphs",
+   "subcategory": "mechanism",
+   "n": 31,
+   "expected": 69.0,
+   "post_mean": 0.46,
+   "ci95": [
+    0.32,
+    0.63
+   ],
+   "p_gap": 0.7063,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/method",
+   "category": "distributed-graphs",
+   "subcategory": "method",
+   "n": 222,
+   "expected": 229.0,
+   "post_mean": 0.97,
+   "ci95": [
+    0.85,
+    1.1
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/review",
+   "category": "distributed-graphs",
+   "subcategory": "review",
+   "n": 5,
+   "expected": 21.9,
+   "post_mean": 0.27,
+   "ci95": [
+    0.1,
+    0.52
+   ],
+   "p_gap": 0.966,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/survey",
+   "category": "distributed-graphs",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 7.5,
+   "post_mean": 0.15,
+   "ci95": [
+    0.01,
+    0.5
+   ],
+   "p_gap": 0.9756,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "distributed-graphs/systems",
+   "category": "distributed-graphs",
+   "subcategory": "systems",
+   "n": 233,
+   "expected": 119.3,
+   "post_mean": 1.94,
+   "ci95": [
+    1.7,
+    2.2
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.3176
+  },
+  {
+   "cell": "distributed-graphs/theory",
+   "category": "distributed-graphs",
+   "subcategory": "theory",
+   "n": 186,
+   "expected": 147.5,
+   "post_mean": 1.26,
+   "ci95": [
+    1.08,
+    1.44
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/application",
+   "category": "graph-algorithms",
+   "subcategory": "application",
+   "n": 152,
+   "expected": 306.7,
+   "post_mean": 0.5,
+   "ci95": [
+    0.42,
+    0.58
+   ],
+   "p_gap": 0.5322,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/development",
+   "category": "graph-algorithms",
+   "subcategory": "development",
+   "n": 29,
+   "expected": 28.0,
+   "post_mean": 1.03,
+   "ci95": [
+    0.7,
+    1.43
+   ],
+   "p_gap": 0.0002,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/evaluation",
+   "category": "graph-algorithms",
+   "subcategory": "evaluation",
+   "n": 26,
+   "expected": 91.4,
+   "post_mean": 0.29,
+   "ci95": [
+    0.19,
+    0.41
+   ],
+   "p_gap": 0.999,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/experiment",
+   "category": "graph-algorithms",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.5,
+   "post_mean": 0.73,
+   "ci95": [
+    0.04,
+    2.37
+   ],
+   "p_gap": 0.4543,
+   "p_hot": 0.0475
+  },
+  {
+   "cell": "graph-algorithms/mechanism",
+   "category": "graph-algorithms",
+   "subcategory": "mechanism",
+   "n": 57,
+   "expected": 112.8,
+   "post_mean": 0.51,
+   "ci95": [
+    0.39,
+    0.65
+   ],
+   "p_gap": 0.4514,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/method",
+   "category": "graph-algorithms",
+   "subcategory": "method",
+   "n": 558,
+   "expected": 374.4,
+   "post_mean": 1.49,
+   "ci95": [
+    1.37,
+    1.61
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/review",
+   "category": "graph-algorithms",
+   "subcategory": "review",
+   "n": 15,
+   "expected": 35.8,
+   "post_mean": 0.44,
+   "ci95": [
+    0.25,
+    0.68
+   ],
+   "p_gap": 0.7307,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/survey",
+   "category": "graph-algorithms",
+   "subcategory": "survey",
+   "n": 20,
+   "expected": 12.2,
+   "post_mean": 1.57,
+   "ci95": [
+    0.98,
+    2.31
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.1107
+  },
+  {
+   "cell": "graph-algorithms/systems",
+   "category": "graph-algorithms",
+   "subcategory": "systems",
+   "n": 150,
+   "expected": 195.1,
+   "post_mean": 0.77,
+   "ci95": [
+    0.65,
+    0.9
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-algorithms/theory",
+   "category": "graph-algorithms",
+   "subcategory": "theory",
+   "n": 391,
+   "expected": 241.2,
+   "post_mean": 1.62,
+   "ci95": [
+    1.46,
+    1.78
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/application",
+   "category": "graph-analytics",
+   "subcategory": "application",
+   "n": 82,
+   "expected": 159.5,
+   "post_mean": 0.52,
+   "ci95": [
+    0.41,
+    0.64
+   ],
+   "p_gap": 0.3868,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/development",
+   "category": "graph-analytics",
+   "subcategory": "development",
+   "n": 8,
+   "expected": 14.5,
+   "post_mean": 0.59,
+   "ci95": [
+    0.27,
+    1.02
+   ],
+   "p_gap": 0.3561,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/evaluation",
+   "category": "graph-analytics",
+   "subcategory": "evaluation",
+   "n": 52,
+   "expected": 47.6,
+   "post_mean": 1.09,
+   "ci95": [
+    0.82,
+    1.4
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/experiment",
+   "category": "graph-analytics",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.2,
+   "post_mean": 0.83,
+   "ci95": [
+    0.05,
+    2.71
+   ],
+   "p_gap": 0.4032,
+   "p_hot": 0.0722
+  },
+  {
+   "cell": "graph-analytics/mechanism",
+   "category": "graph-analytics",
+   "subcategory": "mechanism",
+   "n": 26,
+   "expected": 58.7,
+   "post_mean": 0.46,
+   "ci95": [
+    0.3,
+    0.64
+   ],
+   "p_gap": 0.7116,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/method",
+   "category": "graph-analytics",
+   "subcategory": "method",
+   "n": 301,
+   "expected": 194.7,
+   "post_mean": 1.54,
+   "ci95": [
+    1.37,
+    1.72
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/review",
+   "category": "graph-analytics",
+   "subcategory": "review",
+   "n": 10,
+   "expected": 18.6,
+   "post_mean": 0.57,
+   "ci95": [
+    0.29,
+    0.94
+   ],
+   "p_gap": 0.3758,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/survey",
+   "category": "graph-analytics",
+   "subcategory": "survey",
+   "n": 1,
+   "expected": 6.3,
+   "post_mean": 0.3,
+   "ci95": [
+    0.05,
+    0.8
+   ],
+   "p_gap": 0.8504,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/systems",
+   "category": "graph-analytics",
+   "subcategory": "systems",
+   "n": 60,
+   "expected": 101.4,
+   "post_mean": 0.6,
+   "ci95": [
+    0.46,
+    0.76
+   ],
+   "p_gap": 0.0964,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-analytics/theory",
+   "category": "graph-analytics",
+   "subcategory": "theory",
+   "n": 187,
+   "expected": 125.4,
+   "post_mean": 1.49,
+   "ci95": [
+    1.28,
+    1.7
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/application",
+   "category": "graph-applications",
+   "subcategory": "application",
+   "n": 709,
+   "expected": 346.4,
+   "post_mean": 2.04,
+   "ci95": [
+    1.9,
+    2.2
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.7088
+  },
+  {
+   "cell": "graph-applications/development",
+   "category": "graph-applications",
+   "subcategory": "development",
+   "n": 50,
+   "expected": 31.6,
+   "post_mean": 1.56,
+   "ci95": [
+    1.16,
+    2.01
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0279
+  },
+  {
+   "cell": "graph-applications/evaluation",
+   "category": "graph-applications",
+   "subcategory": "evaluation",
+   "n": 108,
+   "expected": 103.3,
+   "post_mean": 1.04,
+   "ci95": [
+    0.86,
+    1.25
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/experiment",
+   "category": "graph-applications",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.5,
+   "post_mean": 0.71,
+   "ci95": [
+    0.04,
+    2.3
+   ],
+   "p_gap": 0.4675,
+   "p_hot": 0.0424
+  },
+  {
+   "cell": "graph-applications/mechanism",
+   "category": "graph-applications",
+   "subcategory": "mechanism",
+   "n": 167,
+   "expected": 127.4,
+   "post_mean": 1.31,
+   "ci95": [
+    1.12,
+    1.51
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/method",
+   "category": "graph-applications",
+   "subcategory": "method",
+   "n": 141,
+   "expected": 422.9,
+   "post_mean": 0.34,
+   "ci95": [
+    0.28,
+    0.39
+   ],
+   "p_gap": 1.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/review",
+   "category": "graph-applications",
+   "subcategory": "review",
+   "n": 19,
+   "expected": 40.5,
+   "post_mean": 0.49,
+   "ci95": [
+    0.3,
+    0.72
+   ],
+   "p_gap": 0.5789,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/survey",
+   "category": "graph-applications",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 13.8,
+   "post_mean": 0.09,
+   "ci95": [
+    0.01,
+    0.29
+   ],
+   "p_gap": 0.9988,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/systems",
+   "category": "graph-applications",
+   "subcategory": "systems",
+   "n": 266,
+   "expected": 220.3,
+   "post_mean": 1.21,
+   "ci95": [
+    1.07,
+    1.35
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-applications/theory",
+   "category": "graph-applications",
+   "subcategory": "theory",
+   "n": 119,
+   "expected": 272.4,
+   "post_mean": 0.44,
+   "ci95": [
+    0.36,
+    0.52
+   ],
+   "p_gap": 0.9297,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-construction/application",
+   "category": "graph-construction",
+   "subcategory": "application",
+   "n": 288,
+   "expected": 208.8,
+   "post_mean": 1.38,
+   "ci95": [
+    1.22,
+    1.54
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-construction/development",
+   "category": "graph-construction",
+   "subcategory": "development",
+   "n": 37,
+   "expected": 19.0,
+   "post_mean": 1.88,
+   "ci95": [
+    1.33,
+    2.52
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.3276
+  },
+  {
+   "cell": "graph-construction/evaluation",
+   "category": "graph-construction",
+   "subcategory": "evaluation",
+   "n": 158,
+   "expected": 62.3,
+   "post_mean": 2.5,
+   "ci95": [
+    2.13,
+    2.91
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.9966
+  },
+  {
+   "cell": "graph-construction/experiment",
+   "category": "graph-construction",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.3,
+   "post_mean": 0.79,
+   "ci95": [
+    0.05,
+    2.58
+   ],
+   "p_gap": 0.4207,
+   "p_hot": 0.0627
+  },
+  {
+   "cell": "graph-construction/mechanism",
+   "category": "graph-construction",
+   "subcategory": "mechanism",
+   "n": 96,
+   "expected": 76.8,
+   "post_mean": 1.24,
+   "ci95": [
+    1.01,
+    1.5
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-construction/method",
+   "category": "graph-construction",
+   "subcategory": "method",
+   "n": 118,
+   "expected": 255.0,
+   "post_mean": 0.47,
+   "ci95": [
+    0.39,
+    0.55
+   ],
+   "p_gap": 0.7934,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-construction/review",
+   "category": "graph-construction",
+   "subcategory": "review",
+   "n": 26,
+   "expected": 24.4,
+   "post_mean": 1.06,
+   "ci95": [
+    0.7,
+    1.49
+   ],
+   "p_gap": 0.0003,
+   "p_hot": 0.0001
+  },
+  {
+   "cell": "graph-construction/survey",
+   "category": "graph-construction",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 8.3,
+   "post_mean": 0.14,
+   "ci95": [
+    0.01,
+    0.45
+   ],
+   "p_gap": 0.9836,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-construction/systems",
+   "category": "graph-construction",
+   "subcategory": "systems",
+   "n": 199,
+   "expected": 132.8,
+   "post_mean": 1.49,
+   "ci95": [
+    1.29,
+    1.71
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-construction/theory",
+   "category": "graph-construction",
+   "subcategory": "theory",
+   "n": 30,
+   "expected": 164.2,
+   "post_mean": 0.19,
+   "ci95": [
+    0.13,
+    0.26
+   ],
+   "p_gap": 1.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-databases/application",
+   "category": "graph-databases",
+   "subcategory": "application",
+   "n": 173,
+   "expected": 188.0,
+   "post_mean": 0.92,
+   "ci95": [
+    0.79,
+    1.06
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-databases/development",
+   "category": "graph-databases",
+   "subcategory": "development",
+   "n": 36,
+   "expected": 17.1,
+   "post_mean": 2.02,
+   "ci95": [
+    1.42,
+    2.71
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.4988
+  },
+  {
+   "cell": "graph-databases/evaluation",
+   "category": "graph-databases",
+   "subcategory": "evaluation",
+   "n": 44,
+   "expected": 56.1,
+   "post_mean": 0.79,
+   "ci95": [
+    0.58,
+    1.04
+   ],
+   "p_gap": 0.0025,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-databases/experiment",
+   "category": "graph-databases",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.3,
+   "post_mean": 0.81,
+   "ci95": [
+    0.05,
+    2.63
+   ],
+   "p_gap": 0.4133,
+   "p_hot": 0.0666
+  },
+  {
+   "cell": "graph-databases/mechanism",
+   "category": "graph-databases",
+   "subcategory": "mechanism",
+   "n": 38,
+   "expected": 69.2,
+   "post_mean": 0.56,
+   "ci95": [
+    0.4,
+    0.75
+   ],
+   "p_gap": 0.2671,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-databases/method",
+   "category": "graph-databases",
+   "subcategory": "method",
+   "n": 211,
+   "expected": 229.5,
+   "post_mean": 0.92,
+   "ci95": [
+    0.8,
+    1.05
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-databases/review",
+   "category": "graph-databases",
+   "subcategory": "review",
+   "n": 24,
+   "expected": 22.0,
+   "post_mean": 1.09,
+   "ci95": [
+    0.71,
+    1.55
+   ],
+   "p_gap": 0.0003,
+   "p_hot": 0.0002
+  },
+  {
+   "cell": "graph-databases/survey",
+   "category": "graph-databases",
+   "subcategory": "survey",
+   "n": 10,
+   "expected": 7.5,
+   "post_mean": 1.28,
+   "ci95": [
+    0.65,
+    2.13
+   ],
+   "p_gap": 0.0041,
+   "p_hot": 0.0436
+  },
+  {
+   "cell": "graph-databases/systems",
+   "category": "graph-databases",
+   "subcategory": "systems",
+   "n": 167,
+   "expected": 119.6,
+   "post_mean": 1.39,
+   "ci95": [
+    1.19,
+    1.61
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-databases/theory",
+   "category": "graph-databases",
+   "subcategory": "theory",
+   "n": 154,
+   "expected": 147.8,
+   "post_mean": 1.04,
+   "ci95": [
+    0.88,
+    1.21
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/application",
+   "category": "graph-embeddings",
+   "subcategory": "application",
+   "n": 280,
+   "expected": 283.0,
+   "post_mean": 0.99,
+   "ci95": [
+    0.88,
+    1.11
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/development",
+   "category": "graph-embeddings",
+   "subcategory": "development",
+   "n": 11,
+   "expected": 25.8,
+   "post_mean": 0.45,
+   "ci95": [
+    0.24,
+    0.74
+   ],
+   "p_gap": 0.6686,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/evaluation",
+   "category": "graph-embeddings",
+   "subcategory": "evaluation",
+   "n": 134,
+   "expected": 84.4,
+   "post_mean": 1.58,
+   "ci95": [
+    1.32,
+    1.86
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0019
+  },
+  {
+   "cell": "graph-embeddings/experiment",
+   "category": "graph-embeddings",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.4,
+   "post_mean": 0.74,
+   "ci95": [
+    0.04,
+    2.42
+   ],
+   "p_gap": 0.4463,
+   "p_hot": 0.0508
+  },
+  {
+   "cell": "graph-embeddings/mechanism",
+   "category": "graph-embeddings",
+   "subcategory": "mechanism",
+   "n": 128,
+   "expected": 104.1,
+   "post_mean": 1.23,
+   "ci95": [
+    1.02,
+    1.45
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/method",
+   "category": "graph-embeddings",
+   "subcategory": "method",
+   "n": 314,
+   "expected": 345.5,
+   "post_mean": 0.91,
+   "ci95": [
+    0.81,
+    1.01
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/review",
+   "category": "graph-embeddings",
+   "subcategory": "review",
+   "n": 31,
+   "expected": 33.1,
+   "post_mean": 0.94,
+   "ci95": [
+    0.64,
+    1.29
+   ],
+   "p_gap": 0.0007,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/survey",
+   "category": "graph-embeddings",
+   "subcategory": "survey",
+   "n": 7,
+   "expected": 11.2,
+   "post_mean": 0.66,
+   "ci95": [
+    0.29,
+    1.18
+   ],
+   "p_gap": 0.2564,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/systems",
+   "category": "graph-embeddings",
+   "subcategory": "systems",
+   "n": 147,
+   "expected": 180.0,
+   "post_mean": 0.82,
+   "ci95": [
+    0.69,
+    0.95
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-embeddings/theory",
+   "category": "graph-embeddings",
+   "subcategory": "theory",
+   "n": 238,
+   "expected": 222.5,
+   "post_mean": 1.07,
+   "ci95": [
+    0.94,
+    1.21
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/application",
+   "category": "graph-machine-learning",
+   "subcategory": "application",
+   "n": 297,
+   "expected": 235.1,
+   "post_mean": 1.26,
+   "ci95": [
+    1.12,
+    1.41
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/development",
+   "category": "graph-machine-learning",
+   "subcategory": "development",
+   "n": 15,
+   "expected": 21.4,
+   "post_mean": 0.72,
+   "ci95": [
+    0.41,
+    1.1
+   ],
+   "p_gap": 0.0989,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/evaluation",
+   "category": "graph-machine-learning",
+   "subcategory": "evaluation",
+   "n": 153,
+   "expected": 70.1,
+   "post_mean": 2.16,
+   "ci95": [
+    1.83,
+    2.51
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.819
+  },
+  {
+   "cell": "graph-machine-learning/experiment",
+   "category": "graph-machine-learning",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.4,
+   "post_mean": 0.78,
+   "ci95": [
+    0.04,
+    2.52
+   ],
+   "p_gap": 0.4299,
+   "p_hot": 0.0582
+  },
+  {
+   "cell": "graph-machine-learning/mechanism",
+   "category": "graph-machine-learning",
+   "subcategory": "mechanism",
+   "n": 100,
+   "expected": 86.5,
+   "post_mean": 1.15,
+   "ci95": [
+    0.94,
+    1.39
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/method",
+   "category": "graph-machine-learning",
+   "subcategory": "method",
+   "n": 162,
+   "expected": 287.1,
+   "post_mean": 0.57,
+   "ci95": [
+    0.48,
+    0.66
+   ],
+   "p_gap": 0.0628,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/review",
+   "category": "graph-machine-learning",
+   "subcategory": "review",
+   "n": 37,
+   "expected": 27.5,
+   "post_mean": 1.33,
+   "ci95": [
+    0.94,
+    1.78
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0028
+  },
+  {
+   "cell": "graph-machine-learning/survey",
+   "category": "graph-machine-learning",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 9.3,
+   "post_mean": 0.13,
+   "ci95": [
+    0.01,
+    0.41
+   ],
+   "p_gap": 0.99,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/systems",
+   "category": "graph-machine-learning",
+   "subcategory": "systems",
+   "n": 102,
+   "expected": 149.6,
+   "post_mean": 0.68,
+   "ci95": [
+    0.56,
+    0.82
+   ],
+   "p_gap": 0.0013,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-machine-learning/theory",
+   "category": "graph-machine-learning",
+   "subcategory": "theory",
+   "n": 206,
+   "expected": 184.9,
+   "post_mean": 1.11,
+   "ci95": [
+    0.97,
+    1.27
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/application",
+   "category": "graph-neural-networks",
+   "subcategory": "application",
+   "n": 674,
+   "expected": 654.8,
+   "post_mean": 1.03,
+   "ci95": [
+    0.95,
+    1.11
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/development",
+   "category": "graph-neural-networks",
+   "subcategory": "development",
+   "n": 38,
+   "expected": 59.7,
+   "post_mean": 0.64,
+   "ci95": [
+    0.46,
+    0.86
+   ],
+   "p_gap": 0.0707,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/evaluation",
+   "category": "graph-neural-networks",
+   "subcategory": "evaluation",
+   "n": 191,
+   "expected": 195.2,
+   "post_mean": 0.98,
+   "ci95": [
+    0.84,
+    1.12
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/experiment",
+   "category": "graph-neural-networks",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 1.0,
+   "post_mean": 0.56,
+   "ci95": [
+    0.03,
+    1.84
+   ],
+   "p_gap": 0.5613,
+   "p_hot": 0.0174
+  },
+  {
+   "cell": "graph-neural-networks/mechanism",
+   "category": "graph-neural-networks",
+   "subcategory": "mechanism",
+   "n": 363,
+   "expected": 240.9,
+   "post_mean": 1.5,
+   "ci95": [
+    1.35,
+    1.66
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/method",
+   "category": "graph-neural-networks",
+   "subcategory": "method",
+   "n": 501,
+   "expected": 799.4,
+   "post_mean": 0.63,
+   "ci95": [
+    0.57,
+    0.68
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/review",
+   "category": "graph-neural-networks",
+   "subcategory": "review",
+   "n": 138,
+   "expected": 76.5,
+   "post_mean": 1.79,
+   "ci95": [
+    1.5,
+    2.1
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0861
+  },
+  {
+   "cell": "graph-neural-networks/survey",
+   "category": "graph-neural-networks",
+   "subcategory": "survey",
+   "n": 40,
+   "expected": 26.0,
+   "post_mean": 1.51,
+   "ci95": [
+    1.08,
+    2.0
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0256
+  },
+  {
+   "cell": "graph-neural-networks/systems",
+   "category": "graph-neural-networks",
+   "subcategory": "systems",
+   "n": 442,
+   "expected": 416.5,
+   "post_mean": 1.06,
+   "ci95": [
+    0.96,
+    1.16
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-neural-networks/theory",
+   "category": "graph-neural-networks",
+   "subcategory": "theory",
+   "n": 598,
+   "expected": 515.0,
+   "post_mean": 1.16,
+   "ci95": [
+    1.07,
+    1.26
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-query-languages/application",
+   "category": "graph-query-languages",
+   "subcategory": "application",
+   "n": 96,
+   "expected": 128.1,
+   "post_mean": 0.75,
+   "ci95": [
+    0.61,
+    0.91
+   ],
+   "p_gap": 0.0001,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-query-languages/development",
+   "category": "graph-query-languages",
+   "subcategory": "development",
+   "n": 16,
+   "expected": 11.7,
+   "post_mean": 1.33,
+   "ci95": [
+    0.78,
+    2.02
+   ],
+   "p_gap": 0.0003,
+   "p_hot": 0.0284
+  },
+  {
+   "cell": "graph-query-languages/evaluation",
+   "category": "graph-query-languages",
+   "subcategory": "evaluation",
+   "n": 94,
+   "expected": 38.2,
+   "post_mean": 2.41,
+   "ci95": [
+    1.95,
+    2.92
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.9582
+  },
+  {
+   "cell": "graph-query-languages/experiment",
+   "category": "graph-query-languages",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.2,
+   "post_mean": 0.86,
+   "ci95": [
+    0.05,
+    2.79
+   ],
+   "p_gap": 0.3918,
+   "p_hot": 0.0789
+  },
+  {
+   "cell": "graph-query-languages/mechanism",
+   "category": "graph-query-languages",
+   "subcategory": "mechanism",
+   "n": 33,
+   "expected": 47.1,
+   "post_mean": 0.71,
+   "ci95": [
+    0.49,
+    0.96
+   ],
+   "p_gap": 0.0307,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-query-languages/method",
+   "category": "graph-query-languages",
+   "subcategory": "method",
+   "n": 172,
+   "expected": 156.4,
+   "post_mean": 1.1,
+   "ci95": [
+    0.94,
+    1.27
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-query-languages/review",
+   "category": "graph-query-languages",
+   "subcategory": "review",
+   "n": 15,
+   "expected": 15.0,
+   "post_mean": 1.0,
+   "ci95": [
+    0.58,
+    1.54
+   ],
+   "p_gap": 0.0076,
+   "p_hot": 0.0006
+  },
+  {
+   "cell": "graph-query-languages/survey",
+   "category": "graph-query-languages",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 5.1,
+   "post_mean": 0.21,
+   "ci95": [
+    0.01,
+    0.68
+   ],
+   "p_gap": 0.9272,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-query-languages/systems",
+   "category": "graph-query-languages",
+   "subcategory": "systems",
+   "n": 80,
+   "expected": 81.5,
+   "post_mean": 0.98,
+   "ci95": [
+    0.78,
+    1.21
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-query-languages/theory",
+   "category": "graph-query-languages",
+   "subcategory": "theory",
+   "n": 78,
+   "expected": 100.7,
+   "post_mean": 0.78,
+   "ci95": [
+    0.62,
+    0.96
+   ],
+   "p_gap": 0.0001,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/application",
+   "category": "graph-security",
+   "subcategory": "application",
+   "n": 529,
+   "expected": 450.1,
+   "post_mean": 1.17,
+   "ci95": [
+    1.08,
+    1.28
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/development",
+   "category": "graph-security",
+   "subcategory": "development",
+   "n": 22,
+   "expected": 41.0,
+   "post_mean": 0.55,
+   "ci95": [
+    0.35,
+    0.8
+   ],
+   "p_gap": 0.3493,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/evaluation",
+   "category": "graph-security",
+   "subcategory": "evaluation",
+   "n": 48,
+   "expected": 134.2,
+   "post_mean": 0.36,
+   "ci95": [
+    0.27,
+    0.47
+   ],
+   "p_gap": 0.9918,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/experiment",
+   "category": "graph-security",
+   "subcategory": "experiment",
+   "n": 5,
+   "expected": 0.7,
+   "post_mean": 3.07,
+   "ci95": [
+    1.16,
+    5.87
+   ],
+   "p_gap": 0.0004,
+   "p_hot": 0.8072
+  },
+  {
+   "cell": "graph-security/mechanism",
+   "category": "graph-security",
+   "subcategory": "mechanism",
+   "n": 107,
+   "expected": 165.6,
+   "post_mean": 0.65,
+   "ci95": [
+    0.53,
+    0.78
+   ],
+   "p_gap": 0.0051,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/method",
+   "category": "graph-security",
+   "subcategory": "method",
+   "n": 725,
+   "expected": 549.6,
+   "post_mean": 1.32,
+   "ci95": [
+    1.22,
+    1.42
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/review",
+   "category": "graph-security",
+   "subcategory": "review",
+   "n": 38,
+   "expected": 52.6,
+   "post_mean": 0.73,
+   "ci95": [
+    0.52,
+    0.97
+   ],
+   "p_gap": 0.0149,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/survey",
+   "category": "graph-security",
+   "subcategory": "survey",
+   "n": 4,
+   "expected": 17.9,
+   "post_mean": 0.28,
+   "ci95": [
+    0.09,
+    0.56
+   ],
+   "p_gap": 0.95,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/systems",
+   "category": "graph-security",
+   "subcategory": "systems",
+   "n": 174,
+   "expected": 286.3,
+   "post_mean": 0.61,
+   "ci95": [
+    0.52,
+    0.7
+   ],
+   "p_gap": 0.006,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-security/theory",
+   "category": "graph-security",
+   "subcategory": "theory",
+   "n": 400,
+   "expected": 354.0,
+   "post_mean": 1.13,
+   "ci95": [
+    1.02,
+    1.24
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/application",
+   "category": "graph-theory",
+   "subcategory": "application",
+   "n": 86,
+   "expected": 343.5,
+   "post_mean": 0.25,
+   "ci95": [
+    0.2,
+    0.31
+   ],
+   "p_gap": 1.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/development",
+   "category": "graph-theory",
+   "subcategory": "development",
+   "n": 9,
+   "expected": 31.3,
+   "post_mean": 0.32,
+   "ci95": [
+    0.15,
+    0.54
+   ],
+   "p_gap": 0.9547,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/evaluation",
+   "category": "graph-theory",
+   "subcategory": "evaluation",
+   "n": 11,
+   "expected": 102.4,
+   "post_mean": 0.12,
+   "ci95": [
+    0.06,
+    0.19
+   ],
+   "p_gap": 1.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/experiment",
+   "category": "graph-theory",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.5,
+   "post_mean": 0.71,
+   "ci95": [
+    0.04,
+    2.3
+   ],
+   "p_gap": 0.4665,
+   "p_hot": 0.0427
+  },
+  {
+   "cell": "graph-theory/mechanism",
+   "category": "graph-theory",
+   "subcategory": "mechanism",
+   "n": 40,
+   "expected": 126.4,
+   "post_mean": 0.32,
+   "ci95": [
+    0.23,
+    0.43
+   ],
+   "p_gap": 0.9989,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/method",
+   "category": "graph-theory",
+   "subcategory": "method",
+   "n": 662,
+   "expected": 419.4,
+   "post_mean": 1.58,
+   "ci95": [
+    1.46,
+    1.7
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/review",
+   "category": "graph-theory",
+   "subcategory": "review",
+   "n": 19,
+   "expected": 40.1,
+   "post_mean": 0.49,
+   "ci95": [
+    0.3,
+    0.73
+   ],
+   "p_gap": 0.5647,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/survey",
+   "category": "graph-theory",
+   "subcategory": "survey",
+   "n": 1,
+   "expected": 13.7,
+   "post_mean": 0.16,
+   "ci95": [
+    0.02,
+    0.41
+   ],
+   "p_gap": 0.9918,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/systems",
+   "category": "graph-theory",
+   "subcategory": "systems",
+   "n": 92,
+   "expected": 218.5,
+   "post_mean": 0.42,
+   "ci95": [
+    0.34,
+    0.51
+   ],
+   "p_gap": 0.9514,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-theory/theory",
+   "category": "graph-theory",
+   "subcategory": "theory",
+   "n": 646,
+   "expected": 270.2,
+   "post_mean": 2.38,
+   "ci95": [
+    2.2,
+    2.57
+   ],
+   "p_gap": 0.0,
+   "p_hot": 1.0
+  },
+  {
+   "cell": "graph-visualization/application",
+   "category": "graph-visualization",
+   "subcategory": "application",
+   "n": 108,
+   "expected": 148.5,
+   "post_mean": 0.73,
+   "ci95": [
+    0.6,
+    0.87
+   ],
+   "p_gap": 0.0001,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-visualization/development",
+   "category": "graph-visualization",
+   "subcategory": "development",
+   "n": 22,
+   "expected": 13.5,
+   "post_mean": 1.57,
+   "ci95": [
+    1.0,
+    2.26
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0964
+  },
+  {
+   "cell": "graph-visualization/evaluation",
+   "category": "graph-visualization",
+   "subcategory": "evaluation",
+   "n": 33,
+   "expected": 44.3,
+   "post_mean": 0.75,
+   "ci95": [
+    0.52,
+    1.02
+   ],
+   "p_gap": 0.0145,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-visualization/experiment",
+   "category": "graph-visualization",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.2,
+   "post_mean": 0.84,
+   "ci95": [
+    0.05,
+    2.74
+   ],
+   "p_gap": 0.3992,
+   "p_hot": 0.0745
+  },
+  {
+   "cell": "graph-visualization/mechanism",
+   "category": "graph-visualization",
+   "subcategory": "mechanism",
+   "n": 49,
+   "expected": 54.6,
+   "post_mean": 0.9,
+   "ci95": [
+    0.67,
+    1.16
+   ],
+   "p_gap": 0.0001,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-visualization/method",
+   "category": "graph-visualization",
+   "subcategory": "method",
+   "n": 244,
+   "expected": 181.3,
+   "post_mean": 1.34,
+   "ci95": [
+    1.18,
+    1.52
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-visualization/review",
+   "category": "graph-visualization",
+   "subcategory": "review",
+   "n": 33,
+   "expected": 17.3,
+   "post_mean": 1.83,
+   "ci95": [
+    1.27,
+    2.5
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.2843
+  },
+  {
+   "cell": "graph-visualization/survey",
+   "category": "graph-visualization",
+   "subcategory": "survey",
+   "n": 18,
+   "expected": 5.9,
+   "post_mean": 2.66,
+   "ci95": [
+    1.61,
+    3.97
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.8683
+  },
+  {
+   "cell": "graph-visualization/systems",
+   "category": "graph-visualization",
+   "subcategory": "systems",
+   "n": 78,
+   "expected": 94.5,
+   "post_mean": 0.83,
+   "ci95": [
+    0.66,
+    1.02
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graph-visualization/theory",
+   "category": "graph-visualization",
+   "subcategory": "theory",
+   "n": 92,
+   "expected": 116.8,
+   "post_mean": 0.79,
+   "ci95": [
+    0.64,
+    0.96
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/application",
+   "category": "graphrag",
+   "subcategory": "application",
+   "n": 304,
+   "expected": 308.0,
+   "post_mean": 0.99,
+   "ci95": [
+    0.88,
+    1.1
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/development",
+   "category": "graphrag",
+   "subcategory": "development",
+   "n": 39,
+   "expected": 28.1,
+   "post_mean": 1.37,
+   "ci95": [
+    0.98,
+    1.82
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0044
+  },
+  {
+   "cell": "graphrag/evaluation",
+   "category": "graphrag",
+   "subcategory": "evaluation",
+   "n": 124,
+   "expected": 91.8,
+   "post_mean": 1.34,
+   "ci95": [
+    1.12,
+    1.59
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/experiment",
+   "category": "graphrag",
+   "subcategory": "experiment",
+   "n": 2,
+   "expected": 0.5,
+   "post_mean": 1.81,
+   "ci95": [
+    0.42,
+    4.2
+   ],
+   "p_gap": 0.0406,
+   "p_hot": 0.3563
+  },
+  {
+   "cell": "graphrag/mechanism",
+   "category": "graphrag",
+   "subcategory": "mechanism",
+   "n": 166,
+   "expected": 113.3,
+   "post_mean": 1.46,
+   "ci95": [
+    1.25,
+    1.69
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/method",
+   "category": "graphrag",
+   "subcategory": "method",
+   "n": 324,
+   "expected": 376.0,
+   "post_mean": 0.86,
+   "ci95": [
+    0.77,
+    0.96
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/review",
+   "category": "graphrag",
+   "subcategory": "review",
+   "n": 27,
+   "expected": 36.0,
+   "post_mean": 0.76,
+   "ci95": [
+    0.51,
+    1.06
+   ],
+   "p_gap": 0.0221,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/survey",
+   "category": "graphrag",
+   "subcategory": "survey",
+   "n": 2,
+   "expected": 12.2,
+   "post_mean": 0.25,
+   "ci95": [
+    0.06,
+    0.57
+   ],
+   "p_gap": 0.9498,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/systems",
+   "category": "graphrag",
+   "subcategory": "systems",
+   "n": 291,
+   "expected": 195.9,
+   "post_mean": 1.48,
+   "ci95": [
+    1.32,
+    1.66
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "graphrag/theory",
+   "category": "graphrag",
+   "subcategory": "theory",
+   "n": 125,
+   "expected": 242.2,
+   "post_mean": 0.52,
+   "ci95": [
+    0.43,
+    0.61
+   ],
+   "p_gap": 0.3518,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "knowledge-graphs/application",
+   "category": "knowledge-graphs",
+   "subcategory": "application",
+   "n": 513,
+   "expected": 435.6,
+   "post_mean": 1.18,
+   "ci95": [
+    1.08,
+    1.28
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "knowledge-graphs/development",
+   "category": "knowledge-graphs",
+   "subcategory": "development",
+   "n": 46,
+   "expected": 39.7,
+   "post_mean": 1.15,
+   "ci95": [
+    0.85,
+    1.5
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "knowledge-graphs/evaluation",
+   "category": "knowledge-graphs",
+   "subcategory": "evaluation",
+   "n": 215,
+   "expected": 129.9,
+   "post_mean": 1.65,
+   "ci95": [
+    1.44,
+    1.87
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0015
+  },
+  {
+   "cell": "knowledge-graphs/experiment",
+   "category": "knowledge-graphs",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.7,
+   "post_mean": 0.66,
+   "ci95": [
+    0.04,
+    2.14
+   ],
+   "p_gap": 0.4962,
+   "p_hot": 0.0328
+  },
+  {
+   "cell": "knowledge-graphs/mechanism",
+   "category": "knowledge-graphs",
+   "subcategory": "mechanism",
+   "n": 212,
+   "expected": 160.3,
+   "post_mean": 1.32,
+   "ci95": [
+    1.15,
+    1.5
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "knowledge-graphs/method",
+   "category": "knowledge-graphs",
+   "subcategory": "method",
+   "n": 407,
+   "expected": 531.9,
+   "post_mean": 0.77,
+   "ci95": [
+    0.69,
+    0.84
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "knowledge-graphs/review",
+   "category": "knowledge-graphs",
+   "subcategory": "review",
+   "n": 91,
+   "expected": 50.9,
+   "post_mean": 1.77,
+   "ci95": [
+    1.42,
+    2.14
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.1055
+  },
+  {
+   "cell": "knowledge-graphs/survey",
+   "category": "knowledge-graphs",
+   "subcategory": "survey",
+   "n": 31,
+   "expected": 17.3,
+   "post_mean": 1.73,
+   "ci95": [
+    1.19,
+    2.38
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.1841
+  },
+  {
+   "cell": "knowledge-graphs/systems",
+   "category": "knowledge-graphs",
+   "subcategory": "systems",
+   "n": 339,
+   "expected": 277.1,
+   "post_mean": 1.22,
+   "ci95": [
+    1.1,
+    1.36
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "knowledge-graphs/theory",
+   "category": "knowledge-graphs",
+   "subcategory": "theory",
+   "n": 132,
+   "expected": 342.6,
+   "post_mean": 0.39,
+   "ci95": [
+    0.32,
+    0.46
+   ],
+   "p_gap": 0.999,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/application",
+   "category": "network-science",
+   "subcategory": "application",
+   "n": 438,
+   "expected": 347.9,
+   "post_mean": 1.26,
+   "ci95": [
+    1.14,
+    1.38
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/development",
+   "category": "network-science",
+   "subcategory": "development",
+   "n": 27,
+   "expected": 31.7,
+   "post_mean": 0.86,
+   "ci95": [
+    0.57,
+    1.2
+   ],
+   "p_gap": 0.0052,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/evaluation",
+   "category": "network-science",
+   "subcategory": "evaluation",
+   "n": 54,
+   "expected": 103.7,
+   "post_mean": 0.53,
+   "ci95": [
+    0.4,
+    0.67
+   ],
+   "p_gap": 0.368,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/experiment",
+   "category": "network-science",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.5,
+   "post_mean": 0.71,
+   "ci95": [
+    0.04,
+    2.29
+   ],
+   "p_gap": 0.468,
+   "p_hot": 0.0422
+  },
+  {
+   "cell": "network-science/mechanism",
+   "category": "network-science",
+   "subcategory": "mechanism",
+   "n": 206,
+   "expected": 128.0,
+   "post_mean": 1.6,
+   "ci95": [
+    1.39,
+    1.83
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0004
+  },
+  {
+   "cell": "network-science/method",
+   "category": "network-science",
+   "subcategory": "method",
+   "n": 335,
+   "expected": 424.8,
+   "post_mean": 0.79,
+   "ci95": [
+    0.71,
+    0.88
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/review",
+   "category": "network-science",
+   "subcategory": "review",
+   "n": 46,
+   "expected": 40.6,
+   "post_mean": 1.13,
+   "ci95": [
+    0.83,
+    1.47
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/survey",
+   "category": "network-science",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 13.8,
+   "post_mean": 0.09,
+   "ci95": [
+    0.01,
+    0.29
+   ],
+   "p_gap": 0.9988,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/systems",
+   "category": "network-science",
+   "subcategory": "systems",
+   "n": 258,
+   "expected": 221.3,
+   "post_mean": 1.16,
+   "ci95": [
+    1.03,
+    1.31
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "network-science/theory",
+   "category": "network-science",
+   "subcategory": "theory",
+   "n": 222,
+   "expected": 273.6,
+   "post_mean": 0.81,
+   "ci95": [
+    0.71,
+    0.92
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "ontology/application",
+   "category": "ontology",
+   "subcategory": "application",
+   "n": 312,
+   "expected": 323.8,
+   "post_mean": 0.96,
+   "ci95": [
+    0.86,
+    1.07
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "ontology/development",
+   "category": "ontology",
+   "subcategory": "development",
+   "n": 43,
+   "expected": 29.5,
+   "post_mean": 1.44,
+   "ci95": [
+    1.04,
+    1.89
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0085
+  },
+  {
+   "cell": "ontology/evaluation",
+   "category": "ontology",
+   "subcategory": "evaluation",
+   "n": 75,
+   "expected": 96.5,
+   "post_mean": 0.78,
+   "ci95": [
+    0.61,
+    0.96
+   ],
+   "p_gap": 0.0002,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "ontology/experiment",
+   "category": "ontology",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.5,
+   "post_mean": 0.72,
+   "ci95": [
+    0.04,
+    2.34
+   ],
+   "p_gap": 0.46,
+   "p_hot": 0.0452
+  },
+  {
+   "cell": "ontology/mechanism",
+   "category": "ontology",
+   "subcategory": "mechanism",
+   "n": 116,
+   "expected": 119.1,
+   "post_mean": 0.97,
+   "ci95": [
+    0.81,
+    1.16
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "ontology/method",
+   "category": "ontology",
+   "subcategory": "method",
+   "n": 365,
+   "expected": 395.3,
+   "post_mean": 0.92,
+   "ci95": [
+    0.83,
+    1.02
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "ontology/review",
+   "category": "ontology",
+   "subcategory": "review",
+   "n": 49,
+   "expected": 37.8,
+   "post_mean": 1.28,
+   "ci95": [
+    0.95,
+    1.66
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0003
+  },
+  {
+   "cell": "ontology/survey",
+   "category": "ontology",
+   "subcategory": "survey",
+   "n": 46,
+   "expected": 12.9,
+   "post_mean": 3.32,
+   "ci95": [
+    2.45,
+    4.34
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.9992
+  },
+  {
+   "cell": "ontology/systems",
+   "category": "ontology",
+   "subcategory": "systems",
+   "n": 260,
+   "expected": 205.9,
+   "post_mean": 1.26,
+   "ci95": [
+    1.11,
+    1.42
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "ontology/theory",
+   "category": "ontology",
+   "subcategory": "theory",
+   "n": 210,
+   "expected": 254.6,
+   "post_mean": 0.83,
+   "ci95": [
+    0.72,
+    0.94
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/application",
+   "category": "semantic-web",
+   "subcategory": "application",
+   "n": 148,
+   "expected": 202.0,
+   "post_mean": 0.73,
+   "ci95": [
+    0.62,
+    0.86
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/development",
+   "category": "semantic-web",
+   "subcategory": "development",
+   "n": 31,
+   "expected": 18.4,
+   "post_mean": 1.63,
+   "ci95": [
+    1.12,
+    2.24
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.1062
+  },
+  {
+   "cell": "semantic-web/evaluation",
+   "category": "semantic-web",
+   "subcategory": "evaluation",
+   "n": 29,
+   "expected": 60.2,
+   "post_mean": 0.49,
+   "ci95": [
+    0.33,
+    0.68
+   ],
+   "p_gap": 0.5569,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/experiment",
+   "category": "semantic-web",
+   "subcategory": "experiment",
+   "n": 0,
+   "expected": 0.3,
+   "post_mean": 0.8,
+   "ci95": [
+    0.05,
+    2.6
+   ],
+   "p_gap": 0.4183,
+   "p_hot": 0.064
+  },
+  {
+   "cell": "semantic-web/mechanism",
+   "category": "semantic-web",
+   "subcategory": "mechanism",
+   "n": 47,
+   "expected": 74.3,
+   "post_mean": 0.64,
+   "ci95": [
+    0.47,
+    0.83
+   ],
+   "p_gap": 0.0562,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/method",
+   "category": "semantic-web",
+   "subcategory": "method",
+   "n": 382,
+   "expected": 246.7,
+   "post_mean": 1.55,
+   "ci95": [
+    1.39,
+    1.7
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/review",
+   "category": "semantic-web",
+   "subcategory": "review",
+   "n": 20,
+   "expected": 23.6,
+   "post_mean": 0.85,
+   "ci95": [
+    0.53,
+    1.25
+   ],
+   "p_gap": 0.0139,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/survey",
+   "category": "semantic-web",
+   "subcategory": "survey",
+   "n": 1,
+   "expected": 8.0,
+   "post_mean": 0.25,
+   "ci95": [
+    0.04,
+    0.66
+   ],
+   "p_gap": 0.9205,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/systems",
+   "category": "semantic-web",
+   "subcategory": "systems",
+   "n": 133,
+   "expected": 128.5,
+   "post_mean": 1.03,
+   "ci95": [
+    0.87,
+    1.22
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "semantic-web/theory",
+   "category": "semantic-web",
+   "subcategory": "theory",
+   "n": 130,
+   "expected": 158.9,
+   "post_mean": 0.82,
+   "ci95": [
+    0.69,
+    0.97
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/application",
+   "category": "temporal-graphs",
+   "subcategory": "application",
+   "n": 221,
+   "expected": 249.0,
+   "post_mean": 0.89,
+   "ci95": [
+    0.78,
+    1.01
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/development",
+   "category": "temporal-graphs",
+   "subcategory": "development",
+   "n": 13,
+   "expected": 22.7,
+   "post_mean": 0.6,
+   "ci95": [
+    0.33,
+    0.94
+   ],
+   "p_gap": 0.2889,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/evaluation",
+   "category": "temporal-graphs",
+   "subcategory": "evaluation",
+   "n": 97,
+   "expected": 74.2,
+   "post_mean": 1.3,
+   "ci95": [
+    1.06,
+    1.57
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/experiment",
+   "category": "temporal-graphs",
+   "subcategory": "experiment",
+   "n": 1,
+   "expected": 0.4,
+   "post_mean": 1.33,
+   "ci95": [
+    0.2,
+    3.5
+   ],
+   "p_gap": 0.1443,
+   "p_hot": 0.1904
+  },
+  {
+   "cell": "temporal-graphs/mechanism",
+   "category": "temporal-graphs",
+   "subcategory": "mechanism",
+   "n": 79,
+   "expected": 91.6,
+   "post_mean": 0.86,
+   "ci95": [
+    0.69,
+    1.06
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/method",
+   "category": "temporal-graphs",
+   "subcategory": "method",
+   "n": 404,
+   "expected": 304.0,
+   "post_mean": 1.33,
+   "ci95": [
+    1.2,
+    1.46
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/review",
+   "category": "temporal-graphs",
+   "subcategory": "review",
+   "n": 9,
+   "expected": 29.1,
+   "post_mean": 0.34,
+   "ci95": [
+    0.17,
+    0.58
+   ],
+   "p_gap": 0.9235,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/survey",
+   "category": "temporal-graphs",
+   "subcategory": "survey",
+   "n": 0,
+   "expected": 9.9,
+   "post_mean": 0.12,
+   "ci95": [
+    0.01,
+    0.39
+   ],
+   "p_gap": 0.9923,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/systems",
+   "category": "temporal-graphs",
+   "subcategory": "systems",
+   "n": 85,
+   "expected": 158.4,
+   "post_mean": 0.54,
+   "ci95": [
+    0.43,
+    0.66
+   ],
+   "p_gap": 0.2485,
+   "p_hot": 0.0
+  },
+  {
+   "cell": "temporal-graphs/theory",
+   "category": "temporal-graphs",
+   "subcategory": "theory",
+   "n": 226,
+   "expected": 195.8,
+   "post_mean": 1.15,
+   "ci95": [
+    1.01,
+    1.31
+   ],
+   "p_gap": 0.0,
+   "p_hot": 0.0
+  }
+ ]
+}
